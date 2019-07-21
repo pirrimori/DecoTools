@@ -29,17 +29,17 @@ namespace DecoTools_V2._0
             FormPrincipal not = new FormPrincipal();
             if (txbListaIptv.Text == "")
             {
-                not.PopupNotificacion(Properties.Resources.error, "El campo Nombre de lista no puede estar vacío.","IPTV Enigma");
+                not.PopupNotificacion(Properties.Resources.error, "El campo Nombre de lista no puede estar vacío.", "IPTV Enigma");
                 return;
             }
 
             if (txbPuertoIptv.Text == "")
             {
-                not.PopupNotificacion(Properties.Resources.error, "El campo Puerto no puede estar vacío.","IPTV Enigma");
+                not.PopupNotificacion(Properties.Resources.error, "El campo Puerto no puede estar vacío.", "IPTV Enigma");
                 return;
             }
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
-            openFileDialog1.Filter = "m3u files (*.m3u)|*.m3u";
+            openFileDialog1.Filter = "m3u files (*.m3u)|*.m3u|m3u8 files (*.m3u8)|*.m3u8";
             //openFileDialog1.ShowDialog();
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {

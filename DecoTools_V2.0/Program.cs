@@ -12,8 +12,6 @@ namespace DecoTools_V2._0
     {
         public static string nombreArchivo="CCcam.cfg";
         public static string rutaArchivo;
-        public static string titulobox;
-        public static string mensajebox;
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>

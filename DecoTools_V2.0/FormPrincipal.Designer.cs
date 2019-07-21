@@ -31,12 +31,8 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormPrincipal));
             this.panelPrincipal = new System.Windows.Forms.Panel();
-            this.panelFormularios = new System.Windows.Forms.Panel();
-            this.lblHora = new System.Windows.Forms.Label();
             this.panelMenu = new System.Windows.Forms.Panel();
-            this.btnDownloader = new System.Windows.Forms.Button();
-            this.btnCmdTelnet = new System.Windows.Forms.Button();
-            this.btnClient = new System.Windows.Forms.Button();
+            this.btnOtros = new System.Windows.Forms.Button();
             this.btnAcercade = new System.Windows.Forms.Button();
             this.btnTutoriales = new System.Windows.Forms.Button();
             this.btnListas = new System.Windows.Forms.Button();
@@ -52,10 +48,11 @@
             this.btnMinimizar = new System.Windows.Forms.PictureBox();
             this.btnMaximizar = new System.Windows.Forms.PictureBox();
             this.btnCerrar = new System.Windows.Forms.PictureBox();
+            this.panelFormularios = new System.Windows.Forms.Panel();
+            this.lblHora = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.panelPrincipal.SuspendLayout();
-            this.panelFormularios.SuspendLayout();
             this.panelMenu.SuspendLayout();
             this.panelBarraTitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnRestaurar)).BeginInit();
@@ -66,45 +63,20 @@
             // 
             // panelPrincipal
             // 
-            this.panelPrincipal.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.panelPrincipal.Controls.Add(this.panelFormularios);
+            this.panelPrincipal.BackColor = System.Drawing.Color.Transparent;
             this.panelPrincipal.Controls.Add(this.panelMenu);
             this.panelPrincipal.Controls.Add(this.panelBarraTitulo);
+            this.panelPrincipal.Controls.Add(this.panelFormularios);
             this.panelPrincipal.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelPrincipal.Location = new System.Drawing.Point(0, 0);
             this.panelPrincipal.Name = "panelPrincipal";
             this.panelPrincipal.Size = new System.Drawing.Size(1280, 680);
             this.panelPrincipal.TabIndex = 0;
             // 
-            // panelFormularios
-            // 
-            this.panelFormularios.BackColor = System.Drawing.SystemColors.Control;
-            this.panelFormularios.Controls.Add(this.lblHora);
-            this.panelFormularios.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelFormularios.Location = new System.Drawing.Point(250, 40);
-            this.panelFormularios.Name = "panelFormularios";
-            this.panelFormularios.Size = new System.Drawing.Size(1030, 640);
-            this.panelFormularios.TabIndex = 2;
-            // 
-            // lblHora
-            // 
-            this.lblHora.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblHora.AutoSize = true;
-            this.lblHora.Font = new System.Drawing.Font("Century Gothic", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblHora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
-            this.lblHora.Location = new System.Drawing.Point(868, 579);
-            this.lblHora.Name = "lblHora";
-            this.lblHora.Size = new System.Drawing.Size(95, 40);
-            this.lblHora.TabIndex = 0;
-            this.lblHora.Text = "Hora";
-            this.lblHora.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // panelMenu
             // 
             this.panelMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
-            this.panelMenu.Controls.Add(this.btnDownloader);
-            this.panelMenu.Controls.Add(this.btnCmdTelnet);
-            this.panelMenu.Controls.Add(this.btnClient);
+            this.panelMenu.Controls.Add(this.btnOtros);
             this.panelMenu.Controls.Add(this.btnAcercade);
             this.panelMenu.Controls.Add(this.btnTutoriales);
             this.panelMenu.Controls.Add(this.btnListas);
@@ -120,53 +92,20 @@
             this.panelMenu.Size = new System.Drawing.Size(250, 640);
             this.panelMenu.TabIndex = 1;
             // 
-            // btnDownloader
+            // btnOtros
             // 
-            this.btnDownloader.FlatAppearance.BorderSize = 0;
-            this.btnDownloader.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
-            this.btnDownloader.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDownloader.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDownloader.ForeColor = System.Drawing.Color.White;
-            this.btnDownloader.Location = new System.Drawing.Point(3, 494);
-            this.btnDownloader.Name = "btnDownloader";
-            this.btnDownloader.Size = new System.Drawing.Size(244, 42);
-            this.btnDownloader.TabIndex = 13;
-            this.btnDownloader.Text = "Downloader";
-            this.btnDownloader.UseVisualStyleBackColor = true;
-            this.btnDownloader.Visible = false;
-            this.btnDownloader.Click += new System.EventHandler(this.btnDownloader_Click);
-            // 
-            // btnCmdTelnet
-            // 
-            this.btnCmdTelnet.FlatAppearance.BorderSize = 0;
-            this.btnCmdTelnet.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
-            this.btnCmdTelnet.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCmdTelnet.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCmdTelnet.ForeColor = System.Drawing.Color.White;
-            this.btnCmdTelnet.Location = new System.Drawing.Point(3, 450);
-            this.btnCmdTelnet.Name = "btnCmdTelnet";
-            this.btnCmdTelnet.Size = new System.Drawing.Size(244, 42);
-            this.btnCmdTelnet.TabIndex = 12;
-            this.btnCmdTelnet.Text = "Cmd Telnet";
-            this.btnCmdTelnet.UseVisualStyleBackColor = true;
-            this.btnCmdTelnet.Visible = false;
-            this.btnCmdTelnet.Click += new System.EventHandler(this.btnFtp_Click);
-            // 
-            // btnClient
-            // 
-            this.btnClient.FlatAppearance.BorderSize = 0;
-            this.btnClient.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
-            this.btnClient.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClient.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClient.ForeColor = System.Drawing.Color.White;
-            this.btnClient.Location = new System.Drawing.Point(3, 538);
-            this.btnClient.Name = "btnClient";
-            this.btnClient.Size = new System.Drawing.Size(244, 42);
-            this.btnClient.TabIndex = 11;
-            this.btnClient.Text = "Telnet";
-            this.btnClient.UseVisualStyleBackColor = true;
-            this.btnClient.Visible = false;
-            this.btnClient.Click += new System.EventHandler(this.btnClient_Click);
+            this.btnOtros.FlatAppearance.BorderSize = 0;
+            this.btnOtros.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
+            this.btnOtros.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnOtros.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOtros.ForeColor = System.Drawing.Color.White;
+            this.btnOtros.Location = new System.Drawing.Point(3, 350);
+            this.btnOtros.Name = "btnOtros";
+            this.btnOtros.Size = new System.Drawing.Size(244, 42);
+            this.btnOtros.TabIndex = 9;
+            this.btnOtros.Text = "Otros Decos";
+            this.btnOtros.UseVisualStyleBackColor = true;
+            this.btnOtros.Click += new System.EventHandler(this.btnOtros_Click);
             // 
             // btnAcercade
             // 
@@ -175,7 +114,7 @@
             this.btnAcercade.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAcercade.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAcercade.ForeColor = System.Drawing.Color.White;
-            this.btnAcercade.Location = new System.Drawing.Point(3, 406);
+            this.btnAcercade.Location = new System.Drawing.Point(3, 434);
             this.btnAcercade.Name = "btnAcercade";
             this.btnAcercade.Size = new System.Drawing.Size(244, 42);
             this.btnAcercade.TabIndex = 8;
@@ -190,7 +129,7 @@
             this.btnTutoriales.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTutoriales.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTutoriales.ForeColor = System.Drawing.Color.White;
-            this.btnTutoriales.Location = new System.Drawing.Point(3, 362);
+            this.btnTutoriales.Location = new System.Drawing.Point(3, 392);
             this.btnTutoriales.Name = "btnTutoriales";
             this.btnTutoriales.Size = new System.Drawing.Size(244, 42);
             this.btnTutoriales.TabIndex = 7;
@@ -206,7 +145,7 @@
             this.btnListas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnListas.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnListas.ForeColor = System.Drawing.Color.White;
-            this.btnListas.Location = new System.Drawing.Point(3, 582);
+            this.btnListas.Location = new System.Drawing.Point(3, 579);
             this.btnListas.Name = "btnListas";
             this.btnListas.Size = new System.Drawing.Size(244, 42);
             this.btnListas.TabIndex = 6;
@@ -222,7 +161,7 @@
             this.btnWiseplay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnWiseplay.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnWiseplay.ForeColor = System.Drawing.Color.White;
-            this.btnWiseplay.Location = new System.Drawing.Point(3, 318);
+            this.btnWiseplay.Location = new System.Drawing.Point(3, 308);
             this.btnWiseplay.Name = "btnWiseplay";
             this.btnWiseplay.Size = new System.Drawing.Size(244, 42);
             this.btnWiseplay.TabIndex = 5;
@@ -237,11 +176,11 @@
             this.btnOpenwebif.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOpenwebif.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOpenwebif.ForeColor = System.Drawing.Color.White;
-            this.btnOpenwebif.Location = new System.Drawing.Point(3, 274);
+            this.btnOpenwebif.Location = new System.Drawing.Point(3, 266);
             this.btnOpenwebif.Name = "btnOpenwebif";
             this.btnOpenwebif.Size = new System.Drawing.Size(244, 42);
             this.btnOpenwebif.TabIndex = 4;
-            this.btnOpenwebif.Text = "Openwebif";
+            this.btnOpenwebif.Text = "Listas M3u (webif)";
             this.btnOpenwebif.UseVisualStyleBackColor = true;
             this.btnOpenwebif.Click += new System.EventHandler(this.btnOpenwebif_Click);
             // 
@@ -252,11 +191,11 @@
             this.btnIptv.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIptv.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIptv.ForeColor = System.Drawing.Color.White;
-            this.btnIptv.Location = new System.Drawing.Point(3, 230);
+            this.btnIptv.Location = new System.Drawing.Point(3, 224);
             this.btnIptv.Name = "btnIptv";
             this.btnIptv.Size = new System.Drawing.Size(244, 42);
             this.btnIptv.TabIndex = 3;
-            this.btnIptv.Text = "Iptv";
+            this.btnIptv.Text = "Iptv Enigma2";
             this.btnIptv.UseVisualStyleBackColor = true;
             this.btnIptv.Click += new System.EventHandler(this.btnIptv_Click);
             // 
@@ -267,11 +206,11 @@
             this.btnNcam.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNcam.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNcam.ForeColor = System.Drawing.Color.White;
-            this.btnNcam.Location = new System.Drawing.Point(3, 186);
+            this.btnNcam.Location = new System.Drawing.Point(3, 182);
             this.btnNcam.Name = "btnNcam";
             this.btnNcam.Size = new System.Drawing.Size(244, 42);
             this.btnNcam.TabIndex = 2;
-            this.btnNcam.Text = "Ncam";
+            this.btnNcam.Text = "Ncam Enigma2";
             this.btnNcam.UseVisualStyleBackColor = true;
             this.btnNcam.Click += new System.EventHandler(this.btnNcam_Click);
             // 
@@ -282,11 +221,11 @@
             this.btnOscam.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOscam.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOscam.ForeColor = System.Drawing.Color.White;
-            this.btnOscam.Location = new System.Drawing.Point(3, 142);
+            this.btnOscam.Location = new System.Drawing.Point(3, 140);
             this.btnOscam.Name = "btnOscam";
             this.btnOscam.Size = new System.Drawing.Size(244, 42);
             this.btnOscam.TabIndex = 1;
-            this.btnOscam.Text = "Oscam";
+            this.btnOscam.Text = "Oscam Enigma2";
             this.btnOscam.UseVisualStyleBackColor = true;
             this.btnOscam.Click += new System.EventHandler(this.btnOscam_Click);
             // 
@@ -301,13 +240,14 @@
             this.btnCccam.Name = "btnCccam";
             this.btnCccam.Size = new System.Drawing.Size(244, 42);
             this.btnCccam.TabIndex = 0;
-            this.btnCccam.Text = "Cccam";
+            this.btnCccam.Text = "Cccam Enigma2";
             this.btnCccam.UseVisualStyleBackColor = true;
             this.btnCccam.Click += new System.EventHandler(this.btnCccam_Click);
             // 
             // panelBarraTitulo
             // 
             this.panelBarraTitulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
+            this.panelBarraTitulo.Controls.Add(this.lblHora);
             this.panelBarraTitulo.Controls.Add(this.lblFecha);
             this.panelBarraTitulo.Controls.Add(this.btnRestaurar);
             this.panelBarraTitulo.Controls.Add(this.btnMinimizar);
@@ -329,7 +269,7 @@
             this.lblFecha.ForeColor = System.Drawing.Color.White;
             this.lblFecha.Location = new System.Drawing.Point(567, 0);
             this.lblFecha.Name = "lblFecha";
-            this.lblFecha.Size = new System.Drawing.Size(118, 40);
+            this.lblFecha.Size = new System.Drawing.Size(118, 39);
             this.lblFecha.TabIndex = 1;
             this.lblFecha.Text = "Fecha";
             this.lblFecha.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
@@ -387,6 +327,28 @@
             this.btnCerrar.TabStop = false;
             this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
             // 
+            // panelFormularios
+            // 
+            this.panelFormularios.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
+            this.panelFormularios.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelFormularios.Location = new System.Drawing.Point(0, 0);
+            this.panelFormularios.Name = "panelFormularios";
+            this.panelFormularios.Size = new System.Drawing.Size(1280, 680);
+            this.panelFormularios.TabIndex = 2;
+            // 
+            // lblHora
+            // 
+            this.lblHora.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblHora.AutoSize = true;
+            this.lblHora.Font = new System.Drawing.Font("Century Gothic", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHora.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
+            this.lblHora.Location = new System.Drawing.Point(56, 1);
+            this.lblHora.Name = "lblHora";
+            this.lblHora.Size = new System.Drawing.Size(95, 39);
+            this.lblHora.TabIndex = 0;
+            this.lblHora.Text = "Hora";
+            this.lblHora.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // timer1
             // 
             this.timer1.Enabled = true;
@@ -409,8 +371,6 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.panelPrincipal.ResumeLayout(false);
-            this.panelFormularios.ResumeLayout(false);
-            this.panelFormularios.PerformLayout();
             this.panelMenu.ResumeLayout(false);
             this.panelBarraTitulo.ResumeLayout(false);
             this.panelBarraTitulo.PerformLayout();
@@ -445,9 +405,7 @@
         private System.Windows.Forms.Label lblHora;
         private System.Windows.Forms.Timer timer1;
         private Bunifu.Framework.UI.BunifuElipse bunifuElipse1;
-        private System.Windows.Forms.Button btnClient;
-        private System.Windows.Forms.Button btnCmdTelnet;
-        private System.Windows.Forms.Button btnDownloader;
+        private System.Windows.Forms.Button btnOtros;
     }
 }
 

@@ -187,23 +187,11 @@ namespace DecoTools_V2._0
             btnAcercade.BackColor = Color.FromArgb(13, 93, 142);
         }
 
-        private void btnClient_Click(object sender, EventArgs e)
+        private void btnOtros_Click(object sender, EventArgs e)
         {
-            AbrirFormulario<FormTelnetCliente>();
+            AbrirFormulario<FormOtros>();
             //Cambiamos el color del boton que dejamos pulsado
-            btnClient.BackColor = Color.FromArgb(13, 93, 142);
-        }
-        private void btnFtp_Click(object sender, EventArgs e)
-        {
-            AbrirFormulario<FormFtp>();
-            //Cambiamos el color del boton que dejamos pulsado
-            btnCmdTelnet.BackColor = Color.FromArgb(13, 93, 142);
-        }
-        private void btnDownloader_Click(object sender, EventArgs e)
-        {
-            AbrirFormulario<FormDescargas>();
-            //Cambiamos el color del boton que dejamos pulsado
-            btnDownloader.BackColor = Color.FromArgb(13, 93, 142);
+            btnOtros.BackColor = Color.FromArgb(13, 93, 142);
         }
 
         #endregion
@@ -264,12 +252,8 @@ namespace DecoTools_V2._0
                 btnTutoriales.BackColor = Color.FromArgb(4, 41, 68);
             if (Application.OpenForms["FormAcercade"] == null)
                 btnAcercade.BackColor = Color.FromArgb(4, 41, 68);
-            if (Application.OpenForms["FormTelnetCliente"] == null)
-                btnClient.BackColor = Color.FromArgb(4, 41, 68);
-            if (Application.OpenForms["FormFtp"] == null)
-                btnCmdTelnet.BackColor = Color.FromArgb(4, 41, 68);
-            if (Application.OpenForms["FormDescargas"] == null)
-                btnDownloader.BackColor = Color.FromArgb(4, 41, 68);
+            if (Application.OpenForms["FormOtros"] == null)
+                btnOtros.BackColor = Color.FromArgb(4, 41, 68);
 
         }
 
@@ -290,26 +274,6 @@ namespace DecoTools_V2._0
             popup.Image = error;
             popup.ContentText = content;
             popup.Popup();//show
-        }
-        public void ExecuteCommand(string _Command)
-        {
-            //Indicamos que deseamos inicializar el proceso cmd.exe junto a un comando de arranque. 
-            //(/C, le indicamos al proceso cmd que deseamos que cuando termine la tarea asignada se cierre el proceso).
-            //Para mas informacion consulte la ayuda de la consola con cmd.exe /? 
-            System.Diagnostics.ProcessStartInfo procStartInfo = new System.Diagnostics.ProcessStartInfo("cmd", "/c " + _Command);
-            // Indicamos que la salida del proceso se redireccione en un Stream
-            procStartInfo.RedirectStandardOutput = true;
-            procStartInfo.UseShellExecute = false;
-            //Indica que el proceso no despliegue una pantalla negra (El proceso se ejecuta en background)
-            procStartInfo.CreateNoWindow = false;
-            //Inicializa el proceso
-            System.Diagnostics.Process proc = new System.Diagnostics.Process();
-            proc.StartInfo = procStartInfo;
-            proc.Start();
-            //Consigue la salida de la Consola(Stream) y devuelve una cadena de texto
-            string result = proc.StandardOutput.ReadToEnd();
-            //Muestra en pantalla la salida del Comando
-            Console.WriteLine(result);
         }
     }
 }

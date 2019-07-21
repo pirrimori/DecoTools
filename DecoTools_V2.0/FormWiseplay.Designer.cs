@@ -32,11 +32,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnCerrar = new System.Windows.Forms.Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
-            this.btnAceptar = new System.Windows.Forms.Button();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.btnAceptar = new System.Windows.Forms.Button();
             this.lblTercera = new System.Windows.Forms.Label();
             this.lblSegunda = new System.Windows.Forms.Label();
             this.lblPrimera = new System.Windows.Forms.Label();
@@ -51,9 +51,9 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(26, 538);
+            this.label1.Location = new System.Drawing.Point(254, 590);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(137, 34);
+            this.label1.Size = new System.Drawing.Size(138, 34);
             this.label1.TabIndex = 33;
             this.label1.Text = "Wiseplay";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -61,14 +61,14 @@
             // btnCerrar
             // 
             this.btnCerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(66)))), ((int)(((byte)(82)))));
+            this.btnCerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.btnCerrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCerrar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnCerrar.FlatAppearance.BorderSize = 0;
             this.btnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCerrar.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCerrar.ForeColor = System.Drawing.Color.White;
-            this.btnCerrar.Location = new System.Drawing.Point(975, 12);
+            this.btnCerrar.Location = new System.Drawing.Point(1220, 52);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(30, 30);
             this.btnCerrar.TabIndex = 34;
@@ -81,25 +81,10 @@
             // 
             this.toolTip1.IsBalloon = true;
             // 
-            // btnAceptar
-            // 
-            this.btnAceptar.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnAceptar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.btnAceptar.FlatAppearance.BorderSize = 0;
-            this.btnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAceptar.ForeColor = System.Drawing.Color.White;
-            this.btnAceptar.Location = new System.Drawing.Point(482, 384);
-            this.btnAceptar.Name = "btnAceptar";
-            this.btnAceptar.Size = new System.Drawing.Size(125, 35);
-            this.btnAceptar.TabIndex = 49;
-            this.btnAceptar.Text = "Aceptar";
-            this.btnAceptar.UseVisualStyleBackColor = false;
-            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
-            // 
             // textBox4
             // 
             this.textBox4.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.textBox4.Location = new System.Drawing.Point(435, 279);
+            this.textBox4.Location = new System.Drawing.Point(683, 372);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(242, 22);
             this.textBox4.TabIndex = 48;
@@ -108,7 +93,7 @@
             // textBox3
             // 
             this.textBox3.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.textBox3.Location = new System.Drawing.Point(435, 240);
+            this.textBox3.Location = new System.Drawing.Point(683, 333);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(242, 22);
             this.textBox3.TabIndex = 47;
@@ -117,7 +102,7 @@
             // textBox2
             // 
             this.textBox2.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.textBox2.Location = new System.Drawing.Point(435, 201);
+            this.textBox2.Location = new System.Drawing.Point(683, 294);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(242, 22);
             this.textBox2.TabIndex = 46;
@@ -126,11 +111,26 @@
             // textBox1
             // 
             this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.textBox1.Location = new System.Drawing.Point(435, 162);
+            this.textBox1.Location = new System.Drawing.Point(683, 255);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(242, 22);
             this.textBox1.TabIndex = 45;
             this.toolTip1.SetToolTip(this.textBox1, "Nombre para la lista wiseplay");
+            // 
+            // btnAceptar
+            // 
+            this.btnAceptar.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.btnAceptar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
+            this.btnAceptar.FlatAppearance.BorderSize = 0;
+            this.btnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAceptar.ForeColor = System.Drawing.Color.White;
+            this.btnAceptar.Location = new System.Drawing.Point(800, 426);
+            this.btnAceptar.Name = "btnAceptar";
+            this.btnAceptar.Size = new System.Drawing.Size(125, 35);
+            this.btnAceptar.TabIndex = 49;
+            this.btnAceptar.Text = "Aceptar";
+            this.btnAceptar.UseVisualStyleBackColor = false;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // lblTercera
             // 
@@ -138,9 +138,9 @@
             this.lblTercera.AutoSize = true;
             this.lblTercera.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTercera.ForeColor = System.Drawing.Color.White;
-            this.lblTercera.Location = new System.Drawing.Point(329, 279);
+            this.lblTercera.Location = new System.Drawing.Point(565, 373);
             this.lblTercera.Name = "lblTercera";
-            this.lblTercera.Size = new System.Drawing.Size(93, 21);
+            this.lblTercera.Size = new System.Drawing.Size(90, 21);
             this.lblTercera.TabIndex = 44;
             this.lblTercera.Text = "Tercera IP";
             // 
@@ -150,9 +150,9 @@
             this.lblSegunda.AutoSize = true;
             this.lblSegunda.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSegunda.ForeColor = System.Drawing.Color.White;
-            this.lblSegunda.Location = new System.Drawing.Point(329, 240);
+            this.lblSegunda.Location = new System.Drawing.Point(565, 334);
             this.lblSegunda.Name = "lblSegunda";
-            this.lblSegunda.Size = new System.Drawing.Size(104, 21);
+            this.lblSegunda.Size = new System.Drawing.Size(102, 21);
             this.lblSegunda.TabIndex = 43;
             this.lblSegunda.Text = "Segunda IP";
             // 
@@ -162,9 +162,9 @@
             this.lblPrimera.AutoSize = true;
             this.lblPrimera.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPrimera.ForeColor = System.Drawing.Color.White;
-            this.lblPrimera.Location = new System.Drawing.Point(329, 201);
+            this.lblPrimera.Location = new System.Drawing.Point(565, 295);
             this.lblPrimera.Name = "lblPrimera";
-            this.lblPrimera.Size = new System.Drawing.Size(91, 21);
+            this.lblPrimera.Size = new System.Drawing.Size(92, 21);
             this.lblPrimera.TabIndex = 42;
             this.lblPrimera.Text = "Primera IP";
             // 
@@ -174,9 +174,9 @@
             this.lblNombre.AutoSize = true;
             this.lblNombre.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNombre.ForeColor = System.Drawing.Color.White;
-            this.lblNombre.Location = new System.Drawing.Point(329, 162);
+            this.lblNombre.Location = new System.Drawing.Point(565, 256);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(77, 21);
+            this.lblNombre.Size = new System.Drawing.Size(78, 21);
             this.lblNombre.TabIndex = 41;
             this.lblNombre.Text = "Nombre";
             // 
@@ -184,12 +184,11 @@
             // 
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label2.AutoSize = true;
-            this.label2.Enabled = false;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.AppWorkspace;
-            this.label2.Location = new System.Drawing.Point(329, 347);
+            this.label2.ForeColor = System.Drawing.Color.Gray;
+            this.label2.Location = new System.Drawing.Point(565, 207);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(235, 21);
+            this.label2.Size = new System.Drawing.Size(239, 21);
             this.label2.TabIndex = 51;
             this.label2.Text = "Ejemplo: root:pass@:Puerto";
             // 
@@ -197,12 +196,11 @@
             // 
             this.lblEjemplo.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblEjemplo.AutoSize = true;
-            this.lblEjemplo.Enabled = false;
             this.lblEjemplo.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEjemplo.ForeColor = System.Drawing.SystemColors.AppWorkspace;
-            this.lblEjemplo.Location = new System.Drawing.Point(329, 326);
+            this.lblEjemplo.ForeColor = System.Drawing.Color.Gray;
+            this.lblEjemplo.Location = new System.Drawing.Point(565, 186);
             this.lblEjemplo.Name = "lblEjemplo";
-            this.lblEjemplo.Size = new System.Drawing.Size(247, 21);
+            this.lblEjemplo.Size = new System.Drawing.Size(252, 21);
             this.lblEjemplo.TabIndex = 50;
             this.lblEjemplo.Text = "Ejemplo: ip_del_deco:Puerto";
             // 
@@ -210,8 +208,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(66)))), ((int)(((byte)(82)))));
-            this.ClientSize = new System.Drawing.Size(1012, 593);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
+            this.ClientSize = new System.Drawing.Size(1262, 633);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lblEjemplo);
             this.Controls.Add(this.btnAceptar);

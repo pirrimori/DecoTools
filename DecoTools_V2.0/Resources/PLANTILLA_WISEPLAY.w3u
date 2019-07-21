@@ -1,12 +1,24 @@
 {
-"author": "autor_lista",
-"name": "Movistar +",
-"url": "",
-"contact": "",
-"info": "",
-"groups": [
+  "name": "Movistar +",
+  "image": "https://esta-pasando.com/wp-content/uploads/giphy-5.gif",
+  "author": "▅▅👉 autor_lista 👈▅▅",
+  "info": "disfrutar",
+  "url": "",
+  "groups": [
 {
-"name": "GUIA TV",
+"name": "📺IMPORTANTE. DAR Y LEER.📺",
+"image": "https://pbs.twimg.com/profile_images/973139173749256193/_HVTdqfe.jpg",
+"info": "Un saludo.🆗",
+"stations": [
+{
+     "name": "La lista de PIRRI.",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Info_icon_002.svg/1024px-Info_icon_002.svg.png",
+     "url": "" 
+             },
+]
+},
+{
+"name": "▅👉 GUIA TV 👈▅",
 
 "image": "https://images-na.ssl-images-amazon.com/images/I/51smfN5zsML.png",
 
@@ -30,6 +42,22 @@
               },
 {
           
+        "name": "FUTBOLTV INFO",
+
+        "image": "https://www.futboltv.info/images/logomin.png",
+
+        "url": "https://www.futboltv.info/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""                         
+		       },
+{
+          
         "name": "GUIA DE TELEVISION",
 
         "image": "http://www.tvguia.es/sites/default/themes/tvstyle/images/guia-tv.png?v=1",
@@ -42,1929 +70,2914 @@
 
         "referer": "",
 
-        "isHost": ""                             
-              },
+        "isHost": ""                                  		 		                 		 
+		},
 ]
 },
 {
-"name": "DEPORTES",
-"image": "https://creativeoptionsregina.ca/wp-content/uploads/2016/09/Sports-Image-Low-Res-845x321.jpg",
+"name": "🏆DEPORTES🏆",
+"image": "http://www.antena3.com/imagen-programas/img/deportes456.jpg",
 "groups": [
-{                    
+{                                  
+"name": "#VAMOS",
+"image": "https://www.mundoplus.tv/img/088daa3c6387bc664c67fe465f1b902b",
+"stations": [   
+{      
+       "name": "#VAMOS",
+       "image": "https://www.mundoplus.tv/img/088daa3c6387bc664c67fe465f1b902b",
+       "url": "http://direccion1/1:0:1:7606:408:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "#VAMOS (OPCION 2)",
+       "image": "https://www.mundoplus.tv/img/088daa3c6387bc664c67fe465f1b902b",
+       "url": "http://direccion2/1:0:1:7606:408:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "#VAMOS (OPCION 3)",
+       "image": "https://www.mundoplus.tv/img/088daa3c6387bc664c67fe465f1b902b",
+       "url": "http://direccion3/1:0:1:7606:408:1:C00000:0:0:0:"                             
+                 }, 
+]
+},
+{                     
 "name": "BEIN SPORTS LA LIGA",
-"image": "https://www.comparaiso.es/images/bein-laliga-300.jpg",
+"image": "https://www.mundoplus.tv/img/f873d88daa0ea8047d961a39239094f7",
 "stations": [   
 {      
        "name": "BEIN SPORTS LA LIGA",
-       "image": "https://www.comparaiso.es/images/bein-laliga-300.jpg",
+       "image": "https://www.mundoplus.tv/img/f873d88daa0ea8047d961a39239094f7",
        "url": "http://direccion1/1:0:1:7797:424:1:C00000:0:0:0:"
                  }, 
 {      
        "name": "BEIN SPORTS LA LIGA (OPCION 2)",
-       "image": "https://www.comparaiso.es/images/bein-laliga-300.jpg",
+       "image": "https://www.mundoplus.tv/img/f873d88daa0ea8047d961a39239094f7",
        "url": "http://direccion2/1:0:1:7797:424:1:C00000:0:0:0:"
                  }, 
 {      
        "name": "BEIN SPORTS LA LIGA (OPCION 3)",
-       "image": "https://www.comparaiso.es/images/bein-laliga-300.jpg",
-       "url": "http://direccion3/1:0:1:7797:424:1:C00000:0:0:0:"               
+       "image": "https://www.mundoplus.tv/img/f873d88daa0ea8047d961a39239094f7",
+       "url": "http://direccion3/1:0:1:7797:424:1:C00000:0:0:0:" 
+	             }, 
+{      
+       "name": "BEIN SPORTS LA LIGA HD",
+       "image": "https://www.mundoplus.tv/img/f873d88daa0ea8047d961a39239094f7",
+       "url": "http://direccion1/1:0:19:750F:420:1:C00000:0:0:0:"
+	             }, 
+{      
+       "name": "BEIN SPORTS LA LIGA HD(OPCION 2)",
+       "image": "https://www.mundoplus.tv/img/f873d88daa0ea8047d961a39239094f7",
+       "url": "http://direccion2/1:0:19:750F:420:1:C00000:0:0:0:"
+	             }, 
+{      
+       "name": "BEIN SPORTS LA LIGA HD(OPCION 3)",
+       "image": "https://www.mundoplus.tv/img/f873d88daa0ea8047d961a39239094f7",
+       "url": "http://direccion3/1:0:19:750F:420:1:C00000:0:0:0:"
+                    },
+]
+},
+{
+"name": "BEIN LA LIGA 2",
+"image": "https://www.mundoplus.tv/img/0c900569a0ee2d1c496b6f4dd06a1ac7",
+"stations": [
+{
+     "name": "BEIN LA LIGA 2",
+     "image": "https://www.mundoplus.tv/img/0c900569a0ee2d1c496b6f4dd06a1ac7",
+     "url": "http://direccion1/1:0:1:7580:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BEIN LA LIGA 2 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/0c900569a0ee2d1c496b6f4dd06a1ac7",
+     "url": "http://direccion2/1:0:1:7580:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "BEIN LA LIGA 2 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/0c900569a0ee2d1c496b6f4dd06a1ac7",
+     "url": "http://direccion3/1:0:1:7580:412:1:C00000:0:0:0:"                                                                                                                                                                                                               
+                  },
+]
+},
+{
+"name": "BEIN LA LIGA 3",
+"image": "https://www.mundoplus.tv/img/6e52a098eb6f2ec2a09db2745645c139",
+"stations": [
+{
+     "name": "BEIN LA LIGA 3",
+     "image": "https://www.mundoplus.tv/img/6e52a098eb6f2ec2a09db2745645c139",
+     "url": "http://direccion1/1:0:1:7581:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BEIN LA LIGA 3 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/6e52a098eb6f2ec2a09db2745645c139",
+     "url": "http://direccion2/1:0:1:7581:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "BEIN LA LIGA 3 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/6e52a098eb6f2ec2a09db2745645c139",
+     "url": "http://direccion3/1:0:1:7581:412:1:C00000:0:0:0:" 
+	  },
+]
+},
+{
+"name": "BEIN LA LIGA 4",
+"image": "https://www.mundoplus.tv/img/636fe906acb9a9491367e11d62f9c99d",
+"stations": [
+{
+     "name": "BEIN LA LIGA 4",
+     "image": "https://www.mundoplus.tv/img/636fe906acb9a9491367e11d62f9c99d",
+     "url": "http://direccion1/1:0:1:769B:41E:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BEIN LA LIGA 4 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/636fe906acb9a9491367e11d62f9c99d",
+     "url": "http://direccion2/1:0:1:769B:41E:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "BEIN LA LIGA 4 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/636fe906acb9a9491367e11d62f9c99d",
+     "url": "http://direccion3/1:0:1:769B:41E:1:C00000:0:0:0:"
+	  },
+]
+},
+{
+"name": "BEIN LA LIGA 5",
+"image": "https://www.mundoplus.tv/img/1852bc5d146484626015cdf371a4d04f",
+"stations": [
+{
+     "name": "BEIN LA LIGA 5",
+     "image": "https://www.mundoplus.tv/img/1852bc5d146484626015cdf371a4d04f",
+     "url": "http://direccion1/1:0:1:7579:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BEIN LA LIGA 5 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/1852bc5d146484626015cdf371a4d04f",
+     "url": "http://direccion2/1:0:1:7579:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "BEIN LA LIGA 5 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/1852bc5d146484626015cdf371a4d04f",
+     "url": "http://direccion3/1:0:1:7579:412:1:C00000:0:0:0:"
+                 },
+]
+},
+{
+"name": "BEIN LA LIGA 6",
+"image": "https://www.mundoplus.tv/img/8ba320358a0146d0531e76a5133a69e9",
+"stations": [
+{
+     "name": "BEIN LA LIGA 6",
+     "image": "https://www.mundoplus.tv/img/8ba320358a0146d0531e76a5133a69e9",
+     "url": "http://direccion1/1:0:1:757E:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BEIN LA LIGA 6 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/8ba320358a0146d0531e76a5133a69e9",
+     "url": "http://direccion2/1:0:1:757E:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "BEIN LA LIGA 6 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/8ba320358a0146d0531e76a5133a69e9",
+     "url": "http://direccion3/1:0:1:757E:412:1:C00000:0:0:0:"
+                 },
+]
+},
+{
+"name": "BEIN LA LIGA 7",
+"image": "https://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4",
+"stations": [
+{
+     "name": "BEIN LA LIGA 7",
+     "image": "https://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4",
+     "url": "http://direccion1/1:0:1:756E:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BEIN LA LIGA 7 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4",
+     "url": "http://direccion2/1:0:1:756E:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "BEIN LA LIGA 7 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4",
+     "url": "http://direccion3/1:0:1:756E:412:1:C00000:0:0:0:"
+                 },
+]
+},
+{
+"name": "BEIN LA LIGA 8",
+"image": "https://www.mundoplus.tv/img/679b7dec0d43f153cb90e8897b371ab8",
+"stations": [
+{
+     "name": "BEIN LA LIGA 8",
+     "image": "https://www.mundoplus.tv/img/679b7dec0d43f153cb90e8897b371ab8",
+     "url": "http://direccion1/1:0:1:7690:41E:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BEIN LA LIGA 8 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/679b7dec0d43f153cb90e8897b371ab8",
+     "url": "http://direccion2/1:0:1:7690:41E:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "BEIN LA LIGA 8 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/679b7dec0d43f153cb90e8897b371ab8",
+     "url": "http://direccion3/1:0:1:7690:41E:1:C00000:0:0:0:" 
                  },
 ]
 },
 {
 "name": "LA LIGA TV",
-"image": "https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg",
+"image": "https://www.mundoplus.tv/img/6d81f2271a3c18a370a5c8ef14a977e7",
 "stations": [
 {
      "name": "LA LIGA TV",
-     "image": "https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg",
+     "image": "https://www.mundoplus.tv/img/6d81f2271a3c18a370a5c8ef14a977e7",
      "url": "http://direccion1/1:0:1:7793:424:1:C00000:0:0:0:" 
                  },
 {
      "name": "LA LIGA TV (OPCION 2)",
-     "image": "https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg",
+     "image": "https://www.mundoplus.tv/img/6d81f2271a3c18a370a5c8ef14a977e7",
      "url": "http://direccion2/1:0:1:7793:424:1:C00000:0:0:0:" 
                  }, 
 {      
      "name": "LA LIGA TV (OPCION 3)",
-     "image": "https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg",
-     "url": "http://direccion3/1:0:1:7793:424:1:C00000:0:0:0:"                                                
-                 }, 
-]
-},
-{
-"name": "BEIN SPORTS",
-"image": "http://assets.beinsports.com/2.6.32/images/logo-header__us-es.png",
-"stations": [
-{
-     "name": "BEIN SPORTS",
-     "image": "http://assets.beinsports.com/2.6.32/images/logo-header__us-es.png",
-     "url": "http://direccion1/1:0:1:757B:412:1:C00000:0:0:0:" 
-                 },
-{
-     "name": "BEIN SPORTS (OPCION 2)",
-     "image": "http://assets.beinsports.com/2.6.32/images/logo-header__us-es.png",
-     "url": "http://direccion2/1:0:1:757B:412:1:C00000:0:0:0::" 
-                 }, 
+     "image": "https://www.mundoplus.tv/img/6d81f2271a3c18a370a5c8ef14a977e7",
+     "url": "http://direccion3/1:0:1:7793:424:1:C00000:0:0:0:"
+	             }, 
 {      
-     "name": "BEIN SPORTS (OPCION 3)",
-     "image": "http://assets.beinsports.com/2.6.32/images/logo-header__us-es.png",
-      "url": "http://direccion3/1:0:1:757B:412:1:C00000:0:0:0:"                                
-                  },
+     "name": "LA LIGA TV HD",
+     "image": "https://www.mundoplus.tv/img/6d81f2271a3c18a370a5c8ef14a977e7",
+     "url": "http://direccion1/1:0:19:7859:41A:1:C00000:0:0:0:"
+	             }, 
+{      
+     "name": "LA LIGA TV HD(OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/6d81f2271a3c18a370a5c8ef14a977e7",
+     "url": "http://direccion2/1:0:19:7859:41A:1:C00000:0:0:0:"
+	             }, 
+{      
+     "name": "LA LIGA TV HD(OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/6d81f2271a3c18a370a5c8ef14a977e7",
+     "url": "http://direccion3/1:0:19:7859:41A:1:C00000:0:0:0:"
+                 }, 
 ]
 },
 {                    
 "name": "MOVISTAR PARTIDAZO",
-"image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png",
+"image": "https://www.mundoplus.tv/img/5f1df5da739371deda9086edeee6f249",
 "stations": [
 {
      "name": "MOVISTAR PARTIDAZO",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png",
+     "image": "https://www.mundoplus.tv/img/5f1df5da739371deda9086edeee6f249",
      "url": "http://direccion1/1:0:1:769C:41E:1:C00000:0:0:0:" 
                  },
 {
      "name": "MOVISTAR PARTIDAZO (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png",
+     "image": "https://www.mundoplus.tv/img/5f1df5da739371deda9086edeee6f249",
      "url": "http://direccion2/1:0:1:769C:41E:1:C00000:0:0:0:"
                  },
 {
      "name": "MOVISTAR PARTIDAZO (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png",
-     "url": "http://direccion3/1:0:1:769C:41E:1:C00000:0:0:0:"                
+     "image": "https://www.mundoplus.tv/img/5f1df5da739371deda9086edeee6f249",
+     "url": "http://direccion3/1:0:1:769C:41E:1:C00000:0:0:0:" 
+	             },
+{
+     "name": "MOVISTAR PARTIDAZO HD",
+     "image": "https://www.mundoplus.tv/img/5f1df5da739371deda9086edeee6f249",
+     "url": "http://direccion1/1:0:19:785F:41A:1:C00000:0:0:0:"
+	             },
+{
+     "name": "MOVISTAR PARTIDAZO HD(OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/5f1df5da739371deda9086edeee6f249",
+     "url": "http://direccion2/1:0:19:785F:41A:1:C00000:0:0:0:"
+	             },
+{
+     "name": "MOVISTAR PARTIDAZO HD(OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/5f1df5da739371deda9086edeee6f249",
+     "url": "http://direccion3/1:0:19:785F:41A:1:C00000:0:0:0:"
                  },
 ]
 },
-{              			                                                           
+{
 "name": "LIGA DE CAMPEONES",
-"image": "https://tveonline.webcindario.com/ligacampeones.jpg",
+"image": "https://www.mundoplus.tv/img/3634e2537e57901e89c90b836e61b544",
 "stations": [
 {
-       "name": "LIGA DE CAMPEONES",
-       "image": "https://tveonline.webcindario.com/ligacampeones.jpg",
-       "url": "http://direccion1/1:0:19:78B4:3EC:1:C00000:0:0:0:"
-                 }, 
-{      
-       "name": "LIGA DE CAMPEONES (OPCION 2)",
-       "image": "https://tveonline.webcindario.com/ligacampeones.jpg",
-       "url": "http://direccion2/1:0:19:78B4:3EC:1:C00000:0:0:0:"
-                 }, 
-{      
-       "name": "LIGA DE CAMPEONES (OPCION 3)",
-       "image": "https://tveonline.webcindario.com/ligacampeones.jpg",
-       "url": "http://direccion3/1:0:19:78B4:3EC:1:C00000:0:0:0:"               
+     "name": "LIGA DE CAMPEONES",
+     "image": "https://www.mundoplus.tv/img/3634e2537e57901e89c90b836e61b544",
+     "url": "http://direccion1/1:0:1:757B:412:1:C00000:0:0:0:" 
                  },
-] 
+{
+     "name": "LIGA DE CAMPEONES (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/3634e2537e57901e89c90b836e61b544",
+     "url": "http://direccion2/1:0:1:757B:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/3634e2537e57901e89c90b836e61b544",
+     "url": "http://direccion3/1:0:1:757B:412:1:C00000:0:0:0:"                                                                                                                                                                                                               
+                  },
+]
 },
 {
-"name": "#VAMOS",
-"image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
+"name": "LIGA DE CAMPEONES 1",
+"image": "https://www.mundoplus.tv/img/7db16dba5d15b4278f13fda6b24230f6",
 "stations": [
 {
-       "name": "#VAMOS",
-       "image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
-       "url": "http://direccion1/1:0:19:74D6:3F8:1:C00000:0:0:0:"
-                 }, 
-{      
-       "name": "#VAMOS (OPCION 2)",
-       "image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
-       "url": "http://direccion2/1:0:19:74D6:3F8:1:C00000:0:0:0:"
-                 }, 
-{      
-       "name": "#VAMOS (OPCION 3)",
-       "image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
-       "url": "http://direccion3/1:0:19:74D6:3F8:1:C00000:0:0:0:"               
+     "name": "LIGA DE CAMPEONES 1",
+     "image": "https://www.mundoplus.tv/img/7db16dba5d15b4278f13fda6b24230f6",
+     "url": "http://direccion1/1:0:1:757B:412:1:C00000:0:0:0:" 
                  },
-] 
+{
+     "name": "LIGA DE CAMPEONES 1 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/7db16dba5d15b4278f13fda6b24230f6",
+     "url": "http://direccion2/1:0:1:757B:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES 1 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/7db16dba5d15b4278f13fda6b24230f6",
+     "url": "http://direccion3/1:0:1:757B:412:1:C00000:0:0:0:"                                                                                                                                                                                                               
+                  },
+]
 },
 {
-"name": "LIGA 123",
-"image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
+"name": "LIGA DE CAMPEONES 2",
+"image": "https://www.mundoplus.tv/img/66a173ce674bb6691afa9e74e84a4e2f",
 "stations": [
 {
-       "name": "LIGA 123",
-       "image": "http://www.elperiodicodelafresneda.es/wp-content/uploads/2017/11/LOGO-LIGA-123-2-265x300.png",
-       "url": "http://direccion1/1:0:1:76C5:40E:1:C00000:0:0:0:"
-                 }, 
-{      
-       "name": "LIGA 123 (OPCION 2)",
-       "image": "http://www.elperiodicodelafresneda.es/wp-content/uploads/2017/11/LOGO-LIGA-123-2-265x300.png",
-       "url": "http://direccion2/1:0:1:76C5:40E:1:C00000:0:0:0:"
-                 }, 
-{      
-       "name": "LIGA 123 (OPCION 3)",
-       "image": "http://www.elperiodicodelafresneda.es/wp-content/uploads/2017/11/LOGO-LIGA-123-2-265x300.png",
-       "url": "http://direccion3/1:0:1:76C5:40E:1:C00000:0:0:0:"               
+     "name": "LIGA DE CAMPEONES 2",
+     "image": "https://www.mundoplus.tv/img/66a173ce674bb6691afa9e74e84a4e2f",
+     "url": "http://direccion1/1:0:1:757B:412:1:C00000:0:0:0:" 
                  },
-] 
+{
+     "name": "LIGA DE CAMPEONES 2 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/66a173ce674bb6691afa9e74e84a4e2f",
+     "url": "http://direccion2/1:0:1:757B:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES 2 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/66a173ce674bb6691afa9e74e84a4e2f",
+     "url": "http://direccion3/1:0:1:757B:412:1:C00000:0:0:0:"                                                                                                                                                                                                               
+                  },
+]
+},
+{
+"name": "LIGA DE CAMPEONES 3",
+"image": "https://www.mundoplus.tv/img/113679c404fa80467bc0bff9ed217f7d",
+"stations": [
+{
+     "name": "LIGA DE CAMPEONES 3",
+     "image": "https://www.mundoplus.tv/img/113679c404fa80467bc0bff9ed217f7d",
+     "url": "http://direccion1/1:0:1:757F:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LIGA DE CAMPEONES 3 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/113679c404fa80467bc0bff9ed217f7d",
+     "url": "http://direccion2/1:0:1:757F:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES 3 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/113679c404fa80467bc0bff9ed217f7d",
+     "url": "http://direccion3/1:0:1:757F:412:1:C00000:0:0:0:"                                                                                                                                                                                                               
+                  },
+]
+},
+{
+"name": "LIGA DE CAMPEONES 4",
+"image": "https://www.mundoplus.tv/img/7426afd669f619a36607050b5b4222f6",
+"stations": [
+{
+     "name": "LIGA DE CAMPEONES 4",
+     "image": "https://www.mundoplus.tv/img/7426afd669f619a36607050b5b4222f6",
+     "url": "http://direccion1/1:0:1:757C:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LIGA DE CAMPEONES 4 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/7426afd669f619a36607050b5b4222f6",
+     "url": "http://direccion2/1:0:1:757C:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES 4 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/7426afd669f619a36607050b5b4222f6",
+     "url": "http://direccion3/1:0:1:757C:412:1:C00000:0:0:0:"
+                },
+]
+},
+{
+"name": "LIGA DE CAMPEONES 5",
+"image": "https://www.mundoplus.tv/img/ed08e2ee8a497e3e822f2e4b800671f0",
+"stations": [
+{
+     "name": "LIGA DE CAMPEONES 5",
+     "image": "https://www.mundoplus.tv/img/ed08e2ee8a497e3e822f2e4b800671f0",
+     "url": "http://direccion1/1:0:1:757D:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LIGA DE CAMPEONES 5 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/ed08e2ee8a497e3e822f2e4b800671f0",
+     "url": "http://direccion2/1:0:1:757D:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES 5 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/ed08e2ee8a497e3e822f2e4b800671f0",
+     "url": "http://direccion3/1:0:1:757D:412:1:C00000:0:0:0:" 
+                 },
+]
+},
+{
+"name": "LIGA DE CAMPEONES 6",
+"image": "https://www.mundoplus.tv/img/ef79b29b496b94c490b16c823a526946",
+"stations": [
+{
+     "name": "LIGA DE CAMPEONES 6",
+     "image": "https://www.mundoplus.tv/img/ef79b29b496b94c490b16c823a526946",
+     "url": "http://direccion1/1:0:1:769D:41E:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LIGA DE CAMPEONES 6 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/ef79b29b496b94c490b16c823a526946",
+     "url": "http://direccion2/1:0:1:769D:41E:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES 6 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/ef79b29b496b94c490b16c823a526946",
+     "url": "http://direccion3/1:0:1:769D:41E:1:C00000:0:0:0:"
+                 },
+]
+},
+{
+"name": "LIGA DE CAMPEONES 7",
+"image": "https://www.mundoplus.tv/img/e7596f343d39ced6fe7a30cab5fb7181",
+"stations": [
+{
+     "name": "LIGA DE CAMPEONES 7",
+     "image": "https://www.mundoplus.tv/img/e7596f343d39ced6fe7a30cab5fb7181",
+     "url": "http://direccion1/1:0:1:769E:41E:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LIGA DE CAMPEONES 7 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/e7596f343d39ced6fe7a30cab5fb7181",
+     "url": "http://direccion2/1:0:1:769E:41E:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES 7 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/e7596f343d39ced6fe7a30cab5fb7181",
+     "url": "http://direccion3/1:0:1:769E:41E:1:C00000:0:0:0:" 
+                },
+]
+},
+{
+"name": "LIGA DE CAMPEONES 8",
+"image": "https://www.mundoplus.tv/img/85564b24a291e5592ad2031db7fcf16f",
+"stations": [
+{
+     "name": "LIGA DE CAMPEONES 8",
+     "image": "https://www.mundoplus.tv/img/85564b24a291e5592ad2031db7fcf16f",
+     "url": "http://direccion1/1:0:1:7576:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LIGA DE CAMPEONES 8 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/85564b24a291e5592ad2031db7fcf16f",
+     "url": "http://direccion2/1:0:1:7576:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LIGA DE CAMPEONES 8 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/85564b24a291e5592ad2031db7fcf16f",
+     "url": "http://direccion3/1:0:1:7576:412:1:C00000:0:0:0:"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                  },
+]
+},
+{                    
+"name": "MOVISTAR DEPORTES",
+"image": "https://www.mundoplus.tv/img/a0156880b3ec085fd4a8ff4f3b52080d",
+"stations": [    
+{
+     "name": "MOVISTAR DEPORTES",
+     "image": "https://www.mundoplus.tv/img/a0156880b3ec085fd4a8ff4f3b52080d",
+     "url": "http://direccion1/1:0:19:7828:428:1:C00000:0:0:0:"
+               },  
+{
+     "name": "MOVISTAR DEPORTES (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/a0156880b3ec085fd4a8ff4f3b52080d",
+     "url": "http://direccion2/1:0:19:7828:428:1:C00000:0:0:0:" 
+                },  
+{
+     "name": "MOVISTAR DEPORTES (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/a0156880b3ec085fd4a8ff4f3b52080d",
+     "url": "http://direccion3/1:0:19:7828:428:1:C00000:0:0:0:"  
+                },
+]
 },
 {                    
 "name": "MOVISTAR DEPORTES 1",
-"image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png",
+"image": "https://www.mundoplus.tv/img/d14d0603386c40dd1d689e7d0e8614e0",
 "stations": [    
 {
      "name": "MOVISTAR DEPORTES 1",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png",
-     "url": "http://direccion1/1:0:1:778F:424:1:C00000:0:0:0:"
+     "image": "https://www.mundoplus.tv/img/d14d0603386c40dd1d689e7d0e8614e0",
+     "url": "http://direccion1/1:0:1:7739:416:1:C00000:0:0:0:"
                },  
 {
      "name": "MOVISTAR DEPORTES 1 (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png",
-     "url": "http://direccion2/1:0:1:778F:424:1:C00000:0:0:0:" 
+     "image": "https://www.mundoplus.tv/img/d14d0603386c40dd1d689e7d0e8614e0",
+     "url": "http://direccion2/1:0:1:7739:416:1:C00000:0:0:0:" 
                 },  
 {
      "name": "MOVISTAR DEPORTES 1 (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png",
-     "url": "http://direccion3/1:0:1:778F:424:1:C00000:0:0:0:"
-                },  
-]
-},
-{                    
-"name": "MOVISTAR DEPORTES 2",
-"image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png",
-"stations": [ 
-{
-     "name": "MOVISTAR DEPORTES 2",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png",
-     "url": "http://direccion1/1:0:1:760C:408:1:C00000:0:0:0:"
-                },
-{
-     "name": "MOVISTAR DEPORTES 2 (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png",
-     "url": "http://direccion2/1:0:1:760C:408:1:C00000:0:0:0:"
-                },
-{
-     "name": "MOVISTAR DEPORTES 2 (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png",
-     "url": "http://direccion3/1:0:1:760C:408:1:C00000:0:0:0:"
+     "image": "https://www.mundoplus.tv/img/d14d0603386c40dd1d689e7d0e8614e0",
+     "url": "http://direccion3/1:0:1:7739:416:1:C00000:0:0:0:"                                           
                 },  
 ]
 },
 {                    
 "name": "MOVISTAR FUTBOL",
-"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",
+"image": "http://www.mundoplus.tv/img/05455327dbeeab8d6309799c62629f2d",
 "stations": [
 {
      "name": "MOVISTAR FUTBOL",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",
+     "image": "http://www.mundoplus.tv/img/05455327dbeeab8d6309799c62629f2d",
      "url": "http://direccion1/1:0:1:778E:424:1:C00000:0:0:0:"
                 },
 {
      "name": "MOVISTAR FUTBOL (OPCION 2)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",
+     "image": "http://www.mundoplus.tv/img/05455327dbeeab8d6309799c62629f2d",
      "url": "http://direccion2/1:0:1:778E:424:1:C00000:0:0:0:" 
                  },
 {
      "name": "MOVISTAR FUTBOL (OPCION 3)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",
+     "image": "http://www.mundoplus.tv/img/05455327dbeeab8d6309799c62629f2d",
      "url": "http://direccion3/1:0:1:778E:424:1:C00000:0:0:0:"
+                 },  
+]
+},
+{                    
+"name": "MOVISTAR FUTBOL 1",
+"image": "https://www.mundoplus.tv/img/eea093dc2f2261b78990271f6d7348f0",
+"stations": [
+{
+     "name": "MOVISTAR FUTBOL 1",
+     "image": "https://www.mundoplus.tv/img/eea093dc2f2261b78990271f6d7348f0",
+     "url": "http://direccion1/1:0:1:778E:424:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR FUTBOL 1 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/eea093dc2f2261b78990271f6d7348f0",
+     "url": "http://direccion2/1:0:1:778E:424:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "MOVISTAR FUTBOL 1 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/eea093dc2f2261b78990271f6d7348f0",
+     "url": "http://direccion3/1:0:1:778E:424:1:C00000:0:0:0:"
+               },  
+]
+},
+{                    
+"name": "MOVISTAR FUTBOL 2",
+"image": "https://www.mundoplus.tv/img/bb2fd6be8fbc1ee431c5858ba4384f4d",
+"stations": [
+{
+     "name": "MOVISTAR FUTBOL 2",
+     "image": "https://www.mundoplus.tv/img/bb2fd6be8fbc1ee431c5858ba4384f4d",
+     "url": "http://direccion1/1:0:1:756C:412:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR FUTBOL 2 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/bb2fd6be8fbc1ee431c5858ba4384f4d",
+     "url": "http://direccion2/1:0:1:756C:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "MOVISTAR FUTBOL 2 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/bb2fd6be8fbc1ee431c5858ba4384f4d",
+     "url": "http://direccion3/1:0:1:756C:412:1:C00000:0:0:0:"               
                  },
 ]
 },
 {                    
 "name": "MOVISTAR GOLF",
-"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg",
+"image": "https://www.mundoplus.tv/img/6b010c27a6868588477810bd876ca583",
 "stations": [   
 {
      "name": "MOVISTAR GOLF",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg",
+     "image": "https://www.mundoplus.tv/img/6b010c27a6868588477810bd876ca583",
      "url": "http://direccion1/1:0:1:7789:424:1:C00000:0:0:0:"
                 },  
 {
      "name": "MOVISTAR GOLF (OPCION 2)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg",
+     "image": "https://www.mundoplus.tv/img/6b010c27a6868588477810bd876ca583",
      "url": "http://direccion2/1:0:1:7789:424:1:C00000:0:0:0:"
                 },  
 {
      "name": "MOVISTAR GOLF (OPCION 3)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg",
-     "url": "http://direccion3/1:0:1:7789:424:1:C00000:0:0:0:"
+     "image": "https://www.mundoplus.tv/img/6b010c27a6868588477810bd876ca583",
+     "url": "http://direccion3/1:0:1:7789:424:1:C00000:0:0:0:"               
                 }, 
 ]
 },
 {                    
 "name": "MOVISTAR FORMULA 1",
-"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+"image": "https://www.mundoplus.tv/img/90fff2113bc5d5eb0294550c8bd90715",
 "stations": [	
 {
      "name": "MOVISTAR FORMULA 1",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+     "image": "https://www.mundoplus.tv/img/90fff2113bc5d5eb0294550c8bd90715",
      "url": "http://direccion1/1:0:19:7531:426:1:C00000:0:0:0:" 
                }, 
 {
      "name": "MOVISTAR FORMULA 1 (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+     "image": "https://www.mundoplus.tv/img/90fff2113bc5d5eb0294550c8bd90715",
      "url": "http://direccion2/1:0:19:7531:426:1:C00000:0:0:0:"
                }, 
 {
      "name": "MOVISTAR FORMULA 1 (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
-     "url": "http://direccion3/1:0:19:7531:426:1:C00000:0:0:0:"
-                },
+     "image": "https://www.mundoplus.tv/img/90fff2113bc5d5eb0294550c8bd90715",
+     "url": "http://direccion3/1:0:19:7531:426:1:C00000:0:0:0:"  
+                 }, 
 ]
 },
-{                    
-"name": "MOVISTAR MOTOGP",
-"image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
-"stations": [
+{                         
+"name": "DANZ MOTOGP (SOLO EN DIRECTO)",
+"image": "https://www.mundoplus.tv/img/7f55627f470249e6de80a2090bc571bd",
+"stations": [		   
 {
-     "name": "MOVISTAR MOTOGP",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
-     "url": "http://direccion1/1:0:19:7532:426:1:C00000:0:0:0:"
-              },
+     "name": "DANZ MOTOGP",
+     "image": "https://www.mundoplus.tv/img/7f55627f470249e6de80a2090bc571bd",
+     "url": "http://smartiptvspain1.mine.nu:8000/paula/2/80779"	            
+	        },
 {
-     "name": "MOVISTAR MOTOGP (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
-     "url": "http://direccion2/1:0:19:7532:426:1:C00000:0:0:0:"
-              },
+     "name": "DANZ MOTOGP (OPCION.2)",
+     "image": "https://www.mundoplus.tv/img/7f55627f470249e6de80a2090bc571bd",
+     "url": "http://iptv.mibox.live:980/alex123/12345/29921"	          	           
+	        },
 {
-     "name": "MOVISTAR MOTOGP (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
-     "url": "http://direccion3/1:0:19:7532:426:1:C00000:0:0:0:"
-              },                                                                                                               
+     "name": "DANZ MOTOGP (OPNCION.3)",
+     "image": "https://www.mundoplus.tv/img/7f55627f470249e6de80a2090bc571bd",
+     "url": "http://ptgoldtv.io:8080/Adriano/123456/31132"                                 
+                },                                                                                                              
 ]
 },
 {                    
 "name": "GOL",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/245px-Gol.svg.png",
+"image": "https://www.mundoplus.tv/img/13f312521c55b29a8b15d10ed32312c5",
 "stations": [   
 {      
        "name": "GOL",
-       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/245px-Gol.svg.png",
+       "image": "https://www.mundoplus.tv/img/13f312521c55b29a8b15d10ed32312c5",
        "url": "http://direccion1/1:0:1:116:E:22D4:EEEE0000:0:0:0:"
                  }, 
 {      
        "name": "GOL (OPCION 2)",
-       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/245px-Gol.svg.png",
+       "image": "https://www.mundoplus.tv/img/13f312521c55b29a8b15d10ed32312c5",
        "url": "http://direccion2/1:0:1:116:E:22D4:EEEE0000:0:0:0:"
                  }, 
 {      
        "name": "GOL (OPCION 3)",
-       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/245px-Gol.svg.png",
-       "url": "http://direccion3/1:0:1:116:E:22D4:EEEE0000:0:0:0:"
-                }
+       "image": "https://www.mundoplus.tv/img/13f312521c55b29a8b15d10ed32312c5",
+       "url": "http://direccion3/1:0:1:116:E:22D4:EEEE0000:0:0:0:"  
+                 },
+]
+},
+{
+"name": "LA LIGA 123 TV",
+"image": "https://www.mundoplus.tv/img/5f1dd5263ab708cb691b3c40b8a401d4",
+"stations": [
+{
+     "name": "LA LIGA 123 TV",
+     "image": "https://www.mundoplus.tv/img/5f1dd5263ab708cb691b3c40b8a401d4",
+     "url": "http://direccion1/1:0:1:76C5:40E:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LA LIGA 123 TV (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/5f1dd5263ab708cb691b3c40b8a401d4",
+     "url": "http://direccion2/1:0:1:76C5:40E:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LA LIGA 123 TV (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/5f1dd5263ab708cb691b3c40b8a401d4",
+     "url": "http://direccion3/1:0:1:76C5:40E:1:C00000:0:0:0:"  
+                  },
+]
+},
+{
+"name": "LA LIGA TV BAR 1",
+"image": "https://www.mundoplus.tv/img/9410ab9f81b36359355e7c445696a0a0",
+"stations": [
+{
+     "name": "LA LIGA TV BAR 1",
+     "image": "https://www.mundoplus.tv/img/9410ab9f81b36359355e7c445696a0a0",
+     "url": "http://direccion1/1:0:1:769A:41E:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LA LIGA TV BAR 1 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/9410ab9f81b36359355e7c445696a0a0",
+     "url": "http://direccion2/1:0:1:769A:41E:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LA LIGA TV BAR 1 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/9410ab9f81b36359355e7c445696a0a0",
+     "url": "http://direccion3/1:0:1:769A:41E:1:C00000:0:0:0:" 
+                 },
+]
+},
+{
+"name": "LA LIGA 123 TV M1",
+"image": "https://www.mundoplus.tv/img/62257e833cd7e66f4db7dc42924ba36d",
+"stations": [
+{
+     "name": "LA LIGA 123 TV M1",
+     "image": "https://www.mundoplus.tv/img/62257e833cd7e66f4db7dc42924ba36d",
+     "url": "http://direccion1/1:0:1:7578:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LA LIGA 123 TV M1 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/62257e833cd7e66f4db7dc42924ba36d",
+     "url": "http://direccion2/1:0:1:7578:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LA LIGA 123 TV M1 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/62257e833cd7e66f4db7dc42924ba36d",
+     "url": "http://direccion3/1:0:1:7578:412:1:C00000:0:0:0:" 
+                  },
+]
+},
+{
+"name": "LA LIGA 123 TV M2",
+"image": "https://www.mundoplus.tv/img/6c7d68e0ada6904239a5a34f4cbb2b84",
+"stations": [
+{
+     "name": "LA LIGA 123 TV M2",
+     "image": "https://www.mundoplus.tv/img/6c7d68e0ada6904239a5a34f4cbb2b84",
+     "url": "http://direccion1/1:0:1:76A6:41E:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LA LIGA 123 TV M2 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/6c7d68e0ada6904239a5a34f4cbb2b84",
+     "url": "http://direccion2/1:0:1:76A6:41E:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LA LIGA 123 TV M2 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/6c7d68e0ada6904239a5a34f4cbb2b84",
+     "url": "http://direccion3/1:0:1:76A6:41E:1:C00000:0:0:0:" 
+                },
+]
+},
+{
+"name": "LA LIGA 123 TV M3",
+"image": "https://www.mundoplus.tv/img/65cd00cd2da9b63739669b986fd2f976",
+"stations": [
+{
+     "name": "LA LIGA 123 TV M3",
+     "image": "https://www.mundoplus.tv/img/65cd00cd2da9b63739669b986fd2f976",
+     "url": "http://direccion1/1:0:1:7574:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LA LIGA 123 TV M3 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/65cd00cd2da9b63739669b986fd2f976",
+     "url": "http://direccion2/1:0:1:7574:412:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LA LIGA 123 TV M3 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/65cd00cd2da9b63739669b986fd2f976",
+     "url": "http://direccion3/1:0:1:7574:412:1:C00000:0:0:0:"           
+                 }
 ]
 },
 {                         
 "name": "EUROSPORT",
-"image": "http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",
+"image": "https://www.mundoplus.tv/img/a4b7d413ff111ac9ab1be9a96c5b710f",
 "stations": [
 {
      "name": "EUROSPORT",
-     "image": "http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",
+     "image": "https://www.mundoplus.tv/img/a4b7d413ff111ac9ab1be9a96c5b710f",
      "url": "http://direccion1/1:0:1:74A1:41C:1:C00000:0:0:0:"                                                                            
                  },
 {
      "name": "EUROSPORT(OPCION 2)",
-     "image": "http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",
+     "image": "https://www.mundoplus.tv/img/a4b7d413ff111ac9ab1be9a96c5b710f",
      "url": "http://direccion2/1:0:1:74A1:41C:1:C00000:0:0:0:"
                  },
 {
      "name": "EUROSPORT(OPCION 3)",
-     "image": "http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",
-     "url": "http://direccion3/1:0:1:74A1:41C:1:C00000:0:0:0:"
+     "image": "https://www.mundoplus.tv/img/a4b7d413ff111ac9ab1be9a96c5b710f",
+     "url": "http://direccion3/1:0:1:74A1:41C:1:C00000:0:0:0:"                
                  },
 ]
 },
 {                         
 "name": "EUROSPORT 2",
-"image": "http://www.elektrons-k.lv/channels/eurosport_2.jpg",
+"image": "https://www.mundoplus.tv/img/7756a9f6c73900af48ddb30b27a59aa9",
 "stations": [
 {
      "name": "EUROSPORT 2",
-     "image": "http://www.elektrons-k.lv/channels/eurosport_2.jpg",
+     "image": "https://www.mundoplus.tv/img/7756a9f6c73900af48ddb30b27a59aa9",
      "url": "http://direccion1/1:0:1:760E:408:1:C00000:0:0:0:"                                                                          
                  }, 
 {
      "name": "EUROSPORT 2(OPCION 2)",
-     "image": "http://www.elektrons-k.lv/channels/eurosport_2.jpg",
+     "image": "https://www.mundoplus.tv/img/7756a9f6c73900af48ddb30b27a59aa9",
      "url": "http://direccion2/1:0:1:760E:408:1:C00000:0:0:0:"
                  }, 
 {
      "name": "EUROSPORT 2(OPCION 3)",
-     "image": "http://www.elektrons-k.lv/channels/eurosport_2.jpg",
-     "url": "http://direccion3/1:0:1:760E:408:1:C00000:0:0:0:"
+     "image": "https://www.mundoplus.tv/img/7756a9f6c73900af48ddb30b27a59aa9",
+     "url": "http://direccion3/1:0:1:760E:408:1:C00000:0:0:0:" 
+                 },    
+]
+},
+{                    
+"name": "MULTIFUTBOL 1",
+"image": "https://www.mundoplus.tv/img/1bcb34978a93a6722fe65b4d2fb3f529",
+"stations": [	   
+{
+     "name": "MULTIFUTBOL 1",
+     "image": "https://www.mundoplus.tv/img/1bcb34978a93a6722fe65b4d2fb3f529",
+     "url": "http://direccion1/1:0:1:76A7:41E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIFUTBOL 1 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/1bcb34978a93a6722fe65b4d2fb3f529",
+     "url": "http://direccion2/1:0:1:76A7:41E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIFUTBOL 1 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/1bcb34978a93a6722fe65b4d2fb3f529",
+     "url": "http://direccion3/1:0:1:76A7:41E:1:C00000:0:0:0:"
+               },    
+]
+},
+{                    
+"name": "MULTIFUTBOL 2",
+"image": "https://www.mundoplus.tv/img/a93e34b3aaeca25434cfe25c0a31aae2",
+"stations": [	   
+{
+     "name": "MULTIFUTBOL 2",
+     "image": "https://www.mundoplus.tv/img/a93e34b3aaeca25434cfe25c0a31aae2",
+     "url": "http://direccion1/1:0:1:7577:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIFUTBOL 2 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/a93e34b3aaeca25434cfe25c0a31aae2",
+     "url": "http://direccion2/1:0:1:7577:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIFUTBOL 2 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/a93e34b3aaeca25434cfe25c0a31aae2",
+     "url": "http://direccion3/1:0:1:7577:412:1:C00000:0:0:0:"
+               },    
+]
+},
+{                    
+"name": "MULTIDEPORTE",
+"image": "https://www.mundoplus.tv/img/8d89decf0c1037dcc312fe30e76564c3",
+"stations": [	   
+{
+     "name": "MULTIDEPORTE",
+     "image": "https://www.mundoplus.tv/img/8d89decf0c1037dcc312fe30e76564c3",
+     "url": "http://direccion1/1:0:1:76A3:41E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/8d89decf0c1037dcc312fe30e76564c3",
+     "url": "http://direccion2/1:0:1:76A3:41E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/8d89decf0c1037dcc312fe30e76564c3",
+     "url": "http://direccion3/1:0:1:76A3:41E:1:C00000:0:0:0:" 
+               },    
+]
+},
+{                    
+"name": "MULTIDEPORTE 1",
+"image": "https://www.mundoplus.tv/img/e9208a43218d62d6cbd49b5285a7e52b",
+"stations": [	   
+{
+     "name": "MULTIDEPORTE 1",
+     "image": "https://www.mundoplus.tv/img/e9208a43218d62d6cbd49b5285a7e52b",
+     "url": "http://direccion1/1:0:1:756C:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 1 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/e9208a43218d62d6cbd49b5285a7e52b",
+     "url": "http://direccion2/1:0:1:756C:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 1 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/e9208a43218d62d6cbd49b5285a7e52b",
+     "url": "http://direccion3/1:0:1:756C:412:1:C00000:0:0:0:" 
+                },    
+]
+},
+{                    
+"name": "MULTIDEPORTE 2",
+"image": "https://www.mundoplus.tv/img/00c531931b47becce52c2740d6493031",
+"stations": [	   
+{
+     "name": "MULTIDEPORTE 2",
+     "image": "https://www.mundoplus.tv/img/00c531931b47becce52c2740d6493031",
+     "url": "http://direccion1/1:0:1:756D:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 2 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/00c531931b47becce52c2740d6493031",
+     "url": "http://direccion2/1:0:1:756D:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 2 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/00c531931b47becce52c2740d6493031",
+     "url": "http://direccion3/1:0:1:756D:412:1:C00000:0:0:0:" 
+               },    
+]
+},
+{                    
+"name": "MULTIDEPORTE 3",
+"image": "https://www.mundoplus.tv/img/1dd6e090abeed86ea3dfadf28aa8efcb",
+"stations": [	   
+{
+     "name": "MULTIDEPORTE 3",
+     "image": "https://www.mundoplus.tv/img/1dd6e090abeed86ea3dfadf28aa8efcb",
+     "url": "http://direccion1/1:0:1:7573:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 3 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/1dd6e090abeed86ea3dfadf28aa8efcb",
+     "url": "http://direccion2/1:0:1:7573:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 3 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/1dd6e090abeed86ea3dfadf28aa8efcb",
+     "url": "http://direccion3/1:0:1:7573:412:1:C00000:0:0:0:" 
+               },    
+]
+},
+{                    
+"name": "MULTIDEPORTE 4",
+"image": "https://www.mundoplus.tv/img/4670877170a7fb61e0e9ab0b61f389e6",
+"stations": [	   
+{
+     "name": "MULTIDEPORTE 4",
+     "image": "https://www.mundoplus.tv/img/4670877170a7fb61e0e9ab0b61f389e6",
+     "url": "http://direccion1/1:0:1:7575:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 4 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/4670877170a7fb61e0e9ab0b61f389e6",
+     "url": "http://direccion2/1:0:1:7575:412:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 4 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/4670877170a7fb61e0e9ab0b61f389e6",
+     "url": "http://direccion3/1:0:1:7575:412:1:C00000:0:0:0:"
+               },    
+]
+},
+{                    
+"name": "MULTIDEPORTE 5",
+"image": "https://www.mundoplus.tv/img/9f0f556e31a3e545cc342deff05a038c",
+"stations": [	   
+{
+     "name": "MULTIDEPORTE 5",
+     "image": "https://www.mundoplus.tv/img/9f0f556e31a3e545cc342deff05a038c",
+     "url": "http://direccion1/1:0:1:7693:41E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 5 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/9f0f556e31a3e545cc342deff05a038c",
+     "url": "http://direccion2/1:0:1:7693:41E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 5 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/9f0f556e31a3e545cc342deff05a038c",
+     "url": "http://direccion3/1:0:1:7693:41E:1:C00000:0:0:0:"
+               },    
+]
+},
+{                    
+"name": "MULTIDEPORTE 6",
+"image": "https://www.mundoplus.tv/img/d72385b56e1dd1e381bd0d449305144c",
+"stations": [	   
+{
+     "name": "MULTIDEPORTE 6",
+     "image": "https://www.mundoplus.tv/img/d72385b56e1dd1e381bd0d449305144c",
+     "url": "http://direccion1/1:0:1:76C2:40E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 6 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/d72385b56e1dd1e381bd0d449305144c",
+     "url": "http://direccion2/1:0:1:76C2:40E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "MULTIDEPORTE 6 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/d72385b56e1dd1e381bd0d449305144c",
+     "url": "http://direccion3/1:0:1:76C2:40E:1:C00000:0:0:0:"               
                  },    
 ]
 },
 {                    
 "name": "TELEDEPORTE",
-"image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"image": "https://www.mundoplus.tv/img/f9c763220d0c3892ff5064ad49bf0906",
 "stations": [	   
 {
      "name": "TELEDEPORTE",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+     "image": "https://www.mundoplus.tv/img/f9c763220d0c3892ff5064ad49bf0906",
      "url": "http://direccion1/1:0:1:76CC:40E:1:C00000:0:0:0:" 
                },     
 {
      "name": "TELEDEPORTE (OPCION 2)",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+     "image": "https://www.mundoplus.tv/img/f9c763220d0c3892ff5064ad49bf0906",
      "url": "http://direccion2/1:0:1:76CC:40E:1:C00000:0:0:0:" 
                },     
 {
      "name": "TELEDEPORTE (OPCION 3)",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-     "url": "http://direccion3/1:0:1:76CC:40E:1:C00000:0:0:0:"
+     "image": "https://www.mundoplus.tv/img/f9c763220d0c3892ff5064ad49bf0906",
+     "url": "http://direccion3/1:0:1:76CC:40E:1:C00000:0:0:0:"              
                },
 ]
 },
 {                    
 "name": "REAL MADRID TV",
-"image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
+"image": "https://www.mundoplus.tv/img/53d91d6e44893efe683fdf6d2326b634",
 "stations": [  
 {
      "name": "REAL MADRID TV",
-     "image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
+     "image": "https://www.mundoplus.tv/img/53d91d6e44893efe683fdf6d2326b634",
      "url": "http://direccion1/1:0:1:7601:408:1:C00000:0:0:0:" 
                 },
 {
      "name": "REAL MADRID TV (OPCION 2)",
-     "image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
+     "image": "https://www.mundoplus.tv/img/53d91d6e44893efe683fdf6d2326b634",
      "url": "http://direccion2/1:0:1:7601:408:1:C00000:0:0:0:"                         
                 },
 {
      "name": "REAL MADRID TV (OPCION 3)",
-     "image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
+     "image": "https://www.mundoplus.tv/img/53d91d6e44893efe683fdf6d2326b634",
      "url": "http://direccion3/1:0:1:7601:408:1:C00000:0:0:0:"
+                },
+{
+     "name": "REAL MADRID TV (OPCION 4)",
+     "image": "https://www.mundoplus.tv/img/53d91d6e44893efe683fdf6d2326b634",
+     "url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8"
                 },
 ]
 },
 {                    
 "name": "BARÇA TV",
-"image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
+"image": "https://www.mundoplus.tv/img/4f2e4f04e54dd5725f36fc31b0cb6feb",
 "stations": [
 {
      "name": "BARÇA TV",
-     "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
+     "image": "https://www.mundoplus.tv/img/4f2e4f04e54dd5725f36fc31b0cb6feb",
      "url": "http://direccion1/1:0:1:74A0:41C:1:C00000:0:0:0:" 
                  },
 {
      "name": "BARÇA TV (OPCION 2)",
-     "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
+     "image": "https://www.mundoplus.tv/img/4f2e4f04e54dd5725f36fc31b0cb6feb",
      "url": "http://direccion2/1:0:1:74A0:41C:1:C00000:0:0:0:"
                  },
 {
      "name": "BARÇA TV (OPCION 3)",
-     "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
-     "url": "http://direccion3/1:0:1:74A0:41C:1:C00000:0:0:0:"
+     "image": "https://www.mundoplus.tv/img/4f2e4f04e54dd5725f36fc31b0cb6feb",
+     "url": "http://direccion3/1:0:1:74A0:41C:1:C00000:0:0:0:" 
+                  },
+]
+},
+{                    
+"name": "MOVISTAR ESPORTS",
+"image": "https://www.mundoplus.tv/img/2f8dbf8d0931ae98b330c50a0704ad3b",
+"stations": [
+{
+     "name": "MOVISTAR ESPORTS",
+     "image": "https://www.mundoplus.tv/img/2f8dbf8d0931ae98b330c50a0704ad3b",
+     "url": "http://direccion1/1:0:1:7607:408:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "MOVISTAR ESPORTS (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/2f8dbf8d0931ae98b330c50a0704ad3b",
+     "url": "http://direccion2/1:0:1:7607:408:1:C00000:0:0:0:"
+                 },
+{
+     "name": "MOVISTAR ESPORTS (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/2f8dbf8d0931ae98b330c50a0704ad3b",
+     "url": "http://direccion3/1:0:1:7607:408:1:C00000:0:0:0:"               
                  },
 ]
 },
 {                    
-"name": "TOROS TV",
-"image": "http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",
+"name": "TOROS",
+"image": "https://www.mundoplus.tv/img/b96339be2197b79a5b45a1ce1c7dc336",
 "stations": [
 {
-     "name": "TOROS TV",
-     "image": "http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",
+     "name": "TOROS",
+     "image": "https://www.mundoplus.tv/img/b96339be2197b79a5b45a1ce1c7dc336",
      "url": "http://direccion1/1:0:1:7570:412:1:C00000:0:0:0:"
                 },
 {
-     "name": "TOROS TV (OPCION 2)",
-     "image": "http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",
+     "name": "TOROS (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/b96339be2197b79a5b45a1ce1c7dc336",
      "url": "http://direccion2/1:0:1:7570:412:1:C00000:0:0:0:"                                                  
                 },
 {
-     "name": "TOROS TV (OPCION 3)",
-     "image": "http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",
-     "url": "http://direccion3/1:0:1:7570:412:1:C00000:0:0:0:"                
+     "name": "TOROS (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/b96339be2197b79a5b45a1ce1c7dc336",
+     "url": "http://direccion3/1:0:1:7570:412:1:C00000:0:0:0:"                                
                 }, 
 ]
 },
 {                    
 "name": "CAZA Y PESCA",
-"image": "http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg",
+"image": "https://www.mundoplus.tv/img/5f86fa4e28df4f93a098014f42438fcc",
 "stations": [ 
 {
      "name": "CAZA Y PESCA",
-     "image": "http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg",
+     "image": "https://www.mundoplus.tv/img/5f86fa4e28df4f93a098014f42438fcc",
      "url": "http://direccion1/1:0:1:772B:416:1:C00000:0:0:0:" 
                   }, 
 {
      "name": "CAZA Y PESCA (OPCION 2)",
-     "image": "http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg",
+     "image": "https://www.mundoplus.tv/img/5f86fa4e28df4f93a098014f42438fcc",
      "url": "http://direccion2/1:0:1:772B:416:1:C00000:0:0:0:"
                   }, 
 {
      "name": "CAZA Y PESCA (OPCION 3)",
-     "image": "http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg",
-     "url": "http://direccion3/1:0:1:772B:416:1:C00000:0:0:0:"
-                  }, 
+     "image": "https://www.mundoplus.tv/img/5f86fa4e28df4f93a098014f42438fcc",
+     "url": "http://direccion3/1:0:1:772B:416:1:C00000:0:0:0:"  
+	 }, 
 ]
 },
 {                         
 "name": "IBERALIA TV",
-"image": "http://www.ardesa.com/fotos/logo_iberalia_horizontal_positivo_780x250_14622997461.jpg",
+"image": "https://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a",
 "stations": [
 {
      "name": "IBERALIA TV",
-     "image": "http://www.ardesa.com/fotos/logo_iberalia_horizontal_positivo_780x250_14622997461.jpg",
+     "image": "https://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a",
      "url": "http://direccion1/1:0:1:746A:3F0:1:C00000:0:0:0:"
                }, 
 {
      "name": "IBERALIA TV (OPCION 2)",
-     "image": "http://www.ardesa.com/fotos/logo_iberalia_horizontal_positivo_780x250_14622997461.jpg",
+     "image": "https://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a",
      "url": "http://direccion2/1:0:1:746A:3F0:1:C00000:0:0:0:"
                 }, 
 {
      "name": "IBERALIA TV (OPCION 3)",
-     "image": "http://www.ardesa.com/fotos/logo_iberalia_horizontal_positivo_780x250_14622997461.jpg",
-     "url": "http://direccion3/1:0:1:746A:3F0:1:C00000:0:0:0:"
-                },                                                                                          
-]
-},
-]
-},
-{
-"name": "CINE Y SERIES",
-"image": "https://fotografias.lasexta.com/clipping/cmsimages02/2015/10/27/6A638DA2-F014-4FCE-BC05-7FB0BDBFABE1/58.jpg",
-"groups": [
-{                    
-"name": "MOVISTAR #0",
-"image": "http://vercanalestv.com/logos/canal-0.png",
-"stations": [       
-{
-     "name": "MOVISTAR #0",
-     "image": "http://vercanalestv.com/logos/canal-0.png",
-     "url": "http://direccion1/1:0:1:7478:3F0:1:C00000:0:0:0:"                  
-               },    
-{
-     "name": "MOVISTAR #0 (OPCION 2)",
-     "image": "http://vercanalestv.com/logos/canal-0.png",
-     "url": "http://direccion2/1:0:1:7478:3F0:1:C00000:0:0:0:"
-               },    
-{
-     "name": "MOVISTAR #0 (OPCION 3)",
-     "image": "http://vercanalestv.com/logos/canal-0.png",
-     "url": "http://direccion3/1:0:1:7478:3F0:1:C00000:0:0:0:"
-               },
-]
-},
-{                    
-"name": "MOVISTAR SERIES XTRA",
-"image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png",
-"stations": [
-{
-     "name": "MOVISTAR SERIES XTRA",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png",
-     "url": "http://direccion1/1:0:1:76CA:40E:1:C00000:0:0:0:"  
-                },
-{
-     "name": "MOVISTAR SERIES XTRA (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png",
-     "url": "http://direccion2/1:0:1:76CA:40E:1:C00000:0:0:0:"
-                },
-{
-     "name": "MOVISTAR SERIES XTRA (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png",
-     "url": "http://direccion3/1:0:1:76CA:40E:1:C00000:0:0:0:"
-                },
-]
-},
-{                    
-"name": "MOVISTAR ESTRENOS",
-"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",
-"stations": [
-{
-     "name": "MOVISTAR ESTRENOS",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",
-     "url": "http://direccion1/1:0:1:76C0:40E:1:C00000:0:0:0:"                   
-               },
-{
-     "name": "MOVISTAR ESTRENOS (OPCION 2)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",
-     "url": "http://direccion2/1:0:1:76C0:40E:1:C00000:0:0:0:"  
-               },
-{
-     "name": "MOVISTAR ESTRENOS (OPCION 3)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",
-     "url": "http://direccion3/1:0:1:76C0:40E:1:C00000:0:0:0:"
-               },
-]
-},
-{                    
-"name": "MOVISTAR XTRA",
-"image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo-xtra.png",
-"stations": [
-{
-     "name": "MOVISTAR XTRA",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo-xtra.png",
-     "url": "http://direccion1/1:0:1:77C5:40A:1:C00000:0:0:0:" 
-                },
-{
-     "name": "MOVISTAR XTRA (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo-xtra.png",
-     "url": "http://direccion2/1:0:1:77C5:40A:1:C00000:0:0:0:"
-               },
-{
-     "name": "MOVISTAR XTRA (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo-xtra.png",
-     "url": "http://direccion3/1:0:1:77C5:40A:1:C00000:0:0:0:"
-               },
-]
-},
-{                    
-"name": "MOVISTAR ACCION",
-"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",
-"stations": [
-{
-     "name": "MOVISTAR ACCION",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",
-     "url": "http://direccion1/1:0:1:746C:3F0:1:C00000:0:0:0:"            
-               },
-{
-     "name": "MOVISTAR ACCION (OPCION 2)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",
-     "url": "http://direccion2/1:0:1:746C:3F0:1:C00000:0:0:0:"
-               },
-{
-     "name": "MOVISTAR ACCION (OPCION 3)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",
-     "url": "http://direccion3/1:0:1:746C:3F0:1:C00000:0:0:0:"
-               },
-]
-},
-{                    
-"name": "MOVISTAR COMEDIA",
-"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",
-"stations": [
-{
-     "name": "MOVISTAR COMEDIA",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",
-     "url": "http://direccion1/1:0:1:746D:3F0:1:C00000:0:0:0:"              
-               },
-{
-     "name": "MOVISTAR COMEDIA (OPCION 2)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",
-     "url": "http://direccion2/1:0:1:746D:3F0:1:C00000:0:0:0:"
-                },
-{
-     "name": "MOVISTAR COMEDIA (OPCION 3)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",
-     "url": "http://direccion3/1:0:1:746D:3F0:1:C00000:0:0:0:"
-                },
-]
-},
-{                         
-"name": "MOVISTAR DCINE",
-"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",
-"stations": [
-{
-     "name": "MOVISTAR DCINE",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",
-     "url": "http://direccion1/1:0:1:746E:3F0:1:C00000:0:0:0:"
-                },
-{
-     "name": "MOVISTAR DCINE (OPCION 2)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",
-     "url": "http://direccion2/1:0:1:746E:3F0:1:C00000:0:0:0:"
-               },
-{
-     "name": "MOVISTAR DCINE (OPCION 3)",
-     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",
-     "url": "http://direccion3/1:0:1:746E:3F0:1:C00000:0:0:0:"
-               },
-]
-},
-{                         
-"name": "MOVISTAR SERIES",
-"image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",
-"stations": [              
-{
-     "name": "MOVISTAR SERIES",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",
-     "url": "http://direccion1/1:0:1:7696:41E:1:C00000:0:0:0:"            
-               },
-{
-     "name": "MOVISTAR SERIES (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",
-     "url": "http://direccion2/1:0:1:7696:41E:1:C00000:0:0:0:"
-               },
-{
-     "name": "MOVISTAR SERIES (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",
-     "url": "http://direccion3/1:0:1:7696:41E:1:C00000:0:0:0:"
-                },
-]
-},
-{                         
-"name": "MOVISTAR CINE Ñ",
-"image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo-cine-n.png",
-"stations": [                 
-{
-     "name": "MOVISTAR CINE Ñ",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo-cine-n.png",
-     "url": "http://direccion1/1:0:1:7736:416:1:C00000:0:0:0:"                
-                 },
-{
-     "name": "MOVISTAR CINE Ñ (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo-cine-n.png",
-     "url": "http://direccion2/1:0:1:7736:416:1:C00000:0:0:0:"
-                 },
-{
-     "name": "MOVISTAR CINE Ñ (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo-cine-n.png",
-     "url": "http://direccion3/1:0:1:7736:416:1:C00000:0:0:0:"
-                 },
-]
-},
-{                         
-"name": "PARAMOUNT CHANNEL",
-"image": "http://www.bbox-actus.com/img/large/paramount-channel.jpg",
-"stations": [
-{
-     "name": "PARAMOUNT CHANNEL",
-     "image": "http://www.bbox-actus.com/img/large/paramount-channel.jpg",
-     "url": "http://direccion1/1:0:1:75F9:408:1:C00000:0:0:0:"                
-                },
-{
-     "name": "PARAMOUNT CHANNEL (OPCION 2)",
-     "image": "http://www.bbox-actus.com/img/large/paramount-channel.jpg",
-     "url": "http://direccion2/1:0:1:75F9:408:1:C00000:0:0:0:"
-                },
-{
-     "name": "PARAMOUNT CHANNEL (OPCION 3)",
-     "image": "http://www.bbox-actus.com/img/large/paramount-channel.jpg",
-     "url": "http://direccion3/1:0:1:75F9:408:1:C00000:0:0:0:"
-                },                                                                                                                                  
-]
-},
-{                         
-"name": "NONSTOPEOPLE",
-"image": "http://i.blogs.es/f5f211/non-stop-people/650_1200.jpg",
-"stations": [               
-{
-     "name": "NONSTOPEOPLE",
-     "image": "http://i.blogs.es/f5f211/non-stop-people/650_1200.jpg",
-     "url": "http://direccion1/1:0:1:772E:416:1:C00000:0:0:0:"               
-                },
-{
-     "name": "NONSTOPEOPLE (OPCION 2)",
-     "image": "http://i.blogs.es/f5f211/non-stop-people/650_1200.jpg",
-     "url": "http://direccion2/1:0:1:772E:416:1:C00000:0:0:0:"
-                },
-{
-     "name": "NONSTOPEOPLE (OPCION 3)",
-     "image": "http://i.blogs.es/f5f211/non-stop-people/650_1200.jpg",
-     "url": "http://direccion3/1:0:1:772E:416:1:C00000:0:0:0:"
-                },
-]
-},
-{                         
-"name": "CALLE 13",
-"image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
-"stations": [
-{
-     "name": "CALLE 13",
-     "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
-     "url": "http://direccion1/1:0:1:7790:424:1:C00000:0:0:0:"               
-               },
-{
-     "name": "CALLE 13 (OPCION 2)",
-     "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
-     "url": "http://direccion2/1:0:1:7790:424:1:C00000:0:0:0:"
-                },
-{
-     "name": "CALLE 13 (OPCION 3)",
-     "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
-     "url": "http://direccion3/1:0:1:7790:424:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "FOX",
-"image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
-"stations": [
-{
-     "name": "FOX",
-     "image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
-     "url": "http://direccion1/1:0:1:746F:3F0:1:C00000:0:0:0:"              
-               },
-{
-     "name": "FOX (OPCION 2)",
-     "image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
-     "url": "http://direccion2/1:0:1:746F:3F0:1:C00000:0:0:0:"
-               },
-{
-     "name": "FOX (OPCION 3)",
-     "image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
-     "url": "http://direccion3/1:0:1:746F:3F0:1:C00000:0:0:0:"
-               }, 
-]
-},
-{                         
-"name": "FOX LIFE",
-"image": "http://2.bp.blogspot.com/-Jrfe5dQ6DMg/U_4UEoMYj9I/AAAAAAAAAKk/0JuZzEAHJ1w/s1600/fox.png",
-"stations": [
-{
-     "name": "FOX LIFE",
-     "image": "http://2.bp.blogspot.com/-Jrfe5dQ6DMg/U_4UEoMYj9I/AAAAAAAAAKk/0JuZzEAHJ1w/s1600/fox.png",
-     "url": "http://direccion1/1:0:19:78BA:3EC:1:C00000:0:0:0:"              
-                },
-{
-     "name": "FOX LIFE (OPCION 2)",
-     "image": "http://2.bp.blogspot.com/-Jrfe5dQ6DMg/U_4UEoMYj9I/AAAAAAAAAKk/0JuZzEAHJ1w/s1600/fox.png",
-     "url": "http://direccion2/1:0:19:78BA:3EC:1:C00000:0:0:0:"
-                },
-{
-     "name": "FOX LIFE (OPCION 3)",
-     "image": "http://2.bp.blogspot.com/-Jrfe5dQ6DMg/U_4UEoMYj9I/AAAAAAAAAKk/0JuZzEAHJ1w/s1600/fox.png",
-     "url": "http://direccion3/1:0:19:78BA:3EC:1:C00000:0:0:0:"
-                },                
-]
-},
-{                         
-"name": "AXN",
-"image": "http://i.imgur.com/UsnZWam.png",
-"stations": [
-{
-     "name": "AXN",
-     "image": "http://i.imgur.com/UsnZWam.png",
-     "url": "http://direccion1/1:0:1:7477:3F0:1:C00000:0:0:0:"               
-                },
-{
-     "name": "AXN (OPCION 2)",
-     "image": "http://i.imgur.com/UsnZWam.png",
-     "url": "http://direccion2/1:0:1:7477:3F0:1:C00000:0:0:0:"
-                },
-{
-     "name": "AXN (OPCION 3)",
-     "image": "http://i.imgur.com/UsnZWam.png",
-     "url": "http://direccion3/1:0:1:7477:3F0:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "AXN WHITE",
-"image": "http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png",
-"stations": [
-{
-     "name": "AXN WHITE",
-     "image": "http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png",
-     "url": "http://direccion1/1:0:19:74DB:3F8:1:C00000:0:0:0:"              
-                },
-{
-     "name": "AXN WHITE (OPCION 2)",
-     "image": "http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png",
-     "url": "http://direccion2/1:0:19:74DB:3F8:1:C00000:0:0:0:"
-                },
-{
-     "name": "AXN WHITE (OPCION 3)",
-     "image": "http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png",
-     "url": "http://direccion3/1:0:19:74DB:3F8:1:C00000:0:0:0:"
-                },  
-]
-},
-{                         
-"name": "SUNDANCE CHANNEL",
-"image": "http://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525.jpg",
-"stations": [
-{
-     "name": "SUNDANCE CHANNEL",
-     "image": "http://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525.jpg",
-     "url": "http://direccion1/1:0:1:76A5:41E:1:C00000:0:0:0:"                                                              
-                },
-{
-     "name": "SUNDANCE CHANNEL (OPCION 2)",
-     "image": "http://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525.jpg",
-     "url": "http://direccion2/1:0:1:76A5:41E:1:C00000:0:0:0:"
-                },
-{
-     "name": "SUNDANCE CHANNEL (OPCION 3)",
-     "image": "http://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525.jpg",
-     "url": "http://direccion3/1:0:1:76A5:41E:1:C00000:0:0:0:"
-                },  
-]
-},
-{                         
-"name": "SYFY",
-"image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
-"stations": [
-{
-     "name": "SYFY",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
-     "url": "http://direccion1/1:0:19:74CD:3F8:1:C00000:0:0:0:"             
-               },
-{
-     "name": "SYFY (OPCION 2)",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
-     "url": "http://direccion2/1:0:19:74CD:3F8:1:C00000:0:0:0:"
-                },
-{
-     "name": "SYFY (OPCION 3)",
-     "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
-     "url": "http://direccion3/1:0:19:74CD:3F8:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "TCM",
-"image": "http://www.shdlogistics.com/content-images/news/TCM_logo.jpg",
-"stations": [
-{
-     "name": "TCM",
-     "image": "http://www.shdlogistics.com/content-images/news/TCM_logo.jpg",
-     "url": "http://direccion1/1:0:1:76C7:40E:1:C00000:0:0:0:"          
-                },
-{
-     "name": "TCM (OPCION 2)",
-     "image": "http://www.shdlogistics.com/content-images/news/TCM_logo.jpg",
-     "url": "http://direccion2/1:0:1:76C7:40E:1:C00000:0:0:0:"
-                },
-{
-     "name": "TCM (OPCION 3)",
-     "image": "http://www.shdlogistics.com/content-images/news/TCM_logo.jpg",
-     "url": "http://direccion3/1:0:1:76C7:40E:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "COSMO",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/245px-Cosmo_TV_logo.svg.png",
-"stations": [
-{
-     "name": "COSMO",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/245px-Cosmo_TV_logo.svg.png",
-     "url": "http://direccion1/1:0:1:7730:416:1:C00000:0:0:0:"                  
-                 },
-{
-     "name": "COSMO (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/245px-Cosmo_TV_logo.svg.png",
-     "url": "http://direccion2/1:0:1:7730:416:1:C00000:0:0:0:"
-                 },
-{
-     "name": "COSMO (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/245px-Cosmo_TV_logo.svg.png",
-     "url": "http://direccion3/1:0:1:7730:416:1:C00000:0:0:0:"
-                 }, 
-]
-},
-{                         
-"name": "AMC",
-"image": "http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png",
-"stations": [
-{
-     "name": "AMC",
-     "image": "http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png",
-     "url": "http://direccion1/1:0:1:76CF:40E:1:C00000:0:0:0:"                  
-                 },
-{
-     "name": "AMC (OPCION 2)",
-     "image": "http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png",
-     "url": "http://direccion2/1:0:1:76CF:40E:1:C00000:0:0:0:"
-                 },
-{
-     "name": "AMC (OPCION 3)",
-     "image": "http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png",
-     "url": "http://direccion3/1:0:1:76CF:40E:1:C00000:0:0:0:"
-                 }, 
-]
-},
-{                         
-"name": "COMEDY CENTRAL",
-"image": "http://www.livetvfreestreaming.com/wp-content/uploads/2013/02/Comedy_Central_logo.png",
-"stations": [
-{
-     "name": "COMEDY CENTRAL",
-     "image": "http://www.livetvfreestreaming.com/wp-content/uploads/2013/02/Comedy_Central_logo.png",
-     "url": "http://direccion1/1:0:1:76C8:40E:1:C00000:0:0:0:"                 
-                },
-{
-     "name": "COMEDY CENTRAL (OPCION 2)",
-     "image": "http://www.livetvfreestreaming.com/wp-content/uploads/2013/02/Comedy_Central_logo.png",
-     "url": "http://direccion2/1:0:1:76C8:40E:1:C00000:0:0:0:"
-                },
-{
-     "name": "COMEDY CENTRAL (OPCION 3)",
-     "image": "http://www.livetvfreestreaming.com/wp-content/uploads/2013/02/Comedy_Central_logo.png",
-     "url": "http://direccion3/1:0:1:76C8:40E:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "HOLLYWOOD",
-"image": "http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png",
-"stations": [ 
-{
-     "name": "HOLLYWOOD",
-     "image": "http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png",
-     "url": "http://direccion1/1:0:1:77C1:40A:1:C00000:0:0:0:"               
-                },
-{
-     "name": "HOLLYWOOD (OPCION 2)",
-     "image": "http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png",
-     "url": "http://direccion2/1:0:1:77C1:40A:1:C00000:0:0:0:"
-                },
-{
-     "name": "HOLLYWOOD (OPCION 3)",
-     "image": "http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png",
-     "url": "http://direccion3/1:0:1:77C1:40A:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "TNT",
-"image": "https://programetv.telekom.ro/media/channels/channel/15/12/09/6c726777-25d7-41f6-8f03-a76d39e9d9d1.png",
-"stations": [
-{
-     "name": "TNT",
-     "image": "https://programetv.telekom.ro/media/channels/channel/15/12/09/6c726777-25d7-41f6-8f03-a76d39e9d9d1.png",
-     "url": "http://direccion1/1:0:19:7888:414:1:C00000:0:0:0:"                
-               },
-{
-     "name": "TNT (OPCION 2)",
-     "image": "https://programetv.telekom.ro/media/channels/channel/15/12/09/6c726777-25d7-41f6-8f03-a76d39e9d9d1.png",
-     "url": "http://direccion2/1:0:19:7888:414:1:C00000:0:0:0:"
-               },
-{
-     "name": "TNT (OPCION 3)",
-     "image": "https://programetv.telekom.ro/media/channels/channel/15/12/09/6c726777-25d7-41f6-8f03-a76d39e9d9d1.png",
-     "url": "http://direccion3/1:0:19:7888:414:1:C00000:0:0:0:"
-               },      
-]
-},
-]
-},
-{
-"name": "TEMATICOS",
-"image": "http://www.aula-51.com/img/blog/images/Taller-Documentales-Cebras-Sabana.jpg",
-"groups": [
-{                   
-"name": "CRIMEN E INVESTIGACION",
-"image": "http://blog.mundo-r.com/wp-content/uploads/2015/04/crimen_investigacion.png",
-"stations": [
-{
-     "name": "CRIMEN E INVESTIGACION",
-     "image": "https://3.bp.blogspot.com/-yCXkE9yoEkU/Vt1mku4foQI/AAAAAAAAfoE/9ItqZ7_POrg/s1600/crimen-investigacion.jpg",
-     "url": "http://direccion1/1:0:1:7732:416:1:C00000:0:0:0:"             
-               },
-{
-     "name": "CRIMEN E INVESTIGACION (OPCION 2)",
-     "image": "https://3.bp.blogspot.com/-yCXkE9yoEkU/Vt1mku4foQI/AAAAAAAAfoE/9ItqZ7_POrg/s1600/crimen-investigacion.jpg",
-     "url": "http://direccion2/1:0:1:7732:416:1:C00000:0:0:0:"
-               },
-{
-     "name": "CRIMEN E INVESTIGACION (OPCION 3)",
-     "image": "https://3.bp.blogspot.com/-yCXkE9yoEkU/Vt1mku4foQI/AAAAAAAAfoE/9ItqZ7_POrg/s1600/crimen-investigacion.jpg",
-     "url": "http://direccion3/1:0:1:7732:416:1:C00000:0:0:0:"
-               },
-]
-},
-{                         
-"name": "DISCOVERY CHANNEL",
-"image": "https://media2.pl/g/0/38443.jpg",
-"stations": [
-{
-     "name": "DISCOVERY CHANNEL",
-     "image": "https://media2.pl/g/0/38443.jpg",
-     "url": "http://direccion1/1:0:1:772F:416:1:C00000:0:0:0:"             
-               },
-{
-     "name": " DISCOVERY CHANNEL (OPCION 2)",
-     "image": "https://media2.pl/g/0/38443.jpg",
-     "url": "http://direccion2/1:0:1:772F:416:1:C00000:0:0:0:"
-               },
-{
-     "name": "DISCOVERY CHANNEL (OPCION 3)",
-     "image": "https://media2.pl/g/0/38443.jpg",
-     "url": "http://direccion3/1:0:1:772F:416:1:C00000:0:0:0:"
-               }, 
-]
-},
-{                         
-"name": "NATIONAL GEOGRAPHIC",
-"image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
-"stations": [
-{
-     "name": "NATIONAL GEOGRAPHIC",
-     "image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
-     "url": "http://direccion1/1:0:1:778D:424:1:C00000:0:0:0:"                              
-                },
-{
-     "name": "NATIONAL GEOGRAPHIC (OPCION 2)",
-     "image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
-     "url": "http://direccion2/1:0:1:778D:424:1:C00000:0:0:0:"
-                },
-{
-     "name": "NATIONAL GEOGRAPHIC (OPCION 3)",
-     "image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
-     "url": "http://direccion3/1:0:1:778D:424:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "NAT GEO WILD",
-"image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
-"stations": [
-{
-     "name": "NAT GEO WILD",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
-     "url": "http://direccion1/1:0:1:77D8:40A:1:C00000:0:0:0:"              
-                },
-{
-     "name": "NAT GEO WILD (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
-     "url": "http://direccion2/1:0:1:77D8:40A:1:C00000:0:0:0:"
-                },
-{
-     "name": "NAT GEO WILD (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
-     "url": "http://direccion3/1:0:1:77D8:40A:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "HISTORIA",
-"image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
-"stations": [
-{
-     "name": "HISTORIA",
-     "image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
-     "url": "http://direccion1/1:0:1:7731:416:1:C00000:0:0:0:"             
-               }, 
-{
-     "name": "HISTORIA (OPCION 2)",
-     "image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
-     "url": "http://direccion2/1:0:1:7731:416:1:C00000:0:0:0:"
-                }, 
-{
-     "name": "HISTORIA (OPCION 3)",
-     "image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
-     "url": "http://direccion3/1:0:1:7731:416:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "BLAZE",
-"image": "http://tveonline.webcindario.com/BLAZE.png",
-"stations": [
-{
-     "name": "BLAZE",
-     "image": "http://tveonline.webcindario.com/BLAZE.png",
-     "url": "http://direccion1/1:0:1:772D:416:1:C00000:0:0:0:"                    
-                 }, 
-{
-     "name": "BLAZE (OPCION 2)",
-     "image": "http://tveonline.webcindario.com/BLAZE.png",
-     "url": "http://direccion2/1:0:1:772D:416:1:C00000:0:0:0:"
-                 }, 
-{
-     "name": "BLAZE (OPCION 3)",
-     "image": "http://tveonline.webcindario.com/BLAZE.png",
-     "url": "http://direccion3/1:0:1:772D:416:1:C00000:0:0:0:"
-				 }, 
-]
-},
-{                         
-"name": "ODISEA",
-"image": "http://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg",
-"stations": [
-{
-     "name": "ODISEA",
-     "image": "http://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg",
-     "url": "http://direccion1/1:0:1:778A:424:1:C00000:0:0:0:"              
-                 }, 
-{
-     "name": "ODISEA (OPCION 2)",
-     "image": "http://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg",
-     "url": "http://direccion2/1:0:1:778A:424:1:C00000:0:0:0:"
-                 }, 
-{
-     "name": "ODISEA (OPCION 3)",
-     "image": "http://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg",
-     "url": "http://direccion3/1:0:1:778A:424:1:C00000:0:0:0:"
-                 },  
-]
-},
-{                         
-"name": "CANAL COCINA",
-"image": "http://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-398-299.JPG",
-"stations": [
-{
-     "name": "CANAL COCINA",
-     "image": "http://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-398-299.JPG",
-     "url": "http://direccion1/1:0:1:76CE:40E:1:C00000:0:0:0:"                 
-                  },
-{
-     "name": "CANAL COCINA (OPCION 2)",
-     "image": "http://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-398-299.JPG",
-     "url": "http://direccion2/1:0:1:76CE:40E:1:C00000:0:0:0:"
-                  },
-{
-     "name": "CANAL COCINA (OPCION 3)",
-     "image": "http://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-398-299.JPG",
-     "url": "http://direccion3/1:0:1:76CE:40E:1:C00000:0:0:0:"
-                  }, 
-]
-},
-{                         
-"name": "DECASA",
-"image": "http://www.exclusivadigital.com/fotos/13306995991.jpg",
-"stations": [
-{
-     "name": "DECASA",
-     "image": "http://www.exclusivadigital.com/fotos/13306995991.jpg",
-     "url": "http://direccion1/1:0:1:7795:424:1:C00000:0:0:0:"                
-                }, 
-{
-     "name": "DECASA (OPCION 2)",
-     "image": "http://www.exclusivadigital.com/fotos/13306995991.jpg",
-     "url": "http://direccion2/1:0:1:7795:424:1:C00000:0:0:0:"
-                }, 
-{
-     "name": "DECASA (OPCION 3)",
-     "image": "http://www.exclusivadigital.com/fotos/13306995991.jpg",
-     "url": "http://direccion3/1:0:1:7795:424:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "VIAJAR",
-"image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
-"stations": [
-{
-     "name": "VIAJAR",
-     "image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
-     "url": "http://direccion1/1:0:1:76C9:40E:1:C00000:0:0:0:"                
-                 },
-{
-     "name": "VIAJAR (OPCION 2)",
-     "image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
-     "url": "http://direccion2/1:0:1:76C9:40E:1:C00000:0:0:0:"
-                 },
-{
-     "name": "VIAJAR (OPCION 3)",
-     "image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
-     "url": "http://direccion3/1:0:1:76C9:40E:1:C00000:0:0:0:"
-                 },
-{
-     "name": "VIAJAR HD (OPCION 4)",
-     "image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
-     "url": "http://ftvnext.stmteam.org:8000/Alberto11/Alberto11/1274.ch"                                                    
-                 }, 
-]
-},
-]
-},
-{
-"name": "INFANTILES",
-"image": "https://www.muralesyvinilos.com/murales/thum2/33556267[1].jpg",
-"groups": [
-{                    
-"name": "BOING",
-"image": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg",
-"stations": [ 
-{
-     "name": "BOING",
-     "image": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg",
-     "url": "http://direccion1/1:0:1:749E:41C:1:C00000:0:0:0:"               
-               }, 
-{
-     "name": "BOING (OPCION 2)",
-     "image": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg",
-     "url": "http://direccion2/1:0:1:749E:41C:1:C00000:0:0:0:"
-               }, 
-{
-     "name": "BOING (OPCION 3)",
-     "image": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg",
-     "url": "http://direccion3/1:0:1:749E:41C:1:C00000:0:0:0:"
-               }, 
-]
-},
-{                         
-"name": "BABY TV",
-"image": "http://vignette2.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png/revision/latest?cb=20140203022623",
-"stations": [
-{
-     "name": "BABY TV",
-     "image": "http://vignette2.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png/revision/latest?cb=20140203022623",
-     "url": "http://direccion1/1:0:1:749C:41C:1:C00000:0:0:0:"                
-                 }, 
-{
-     "name": "BABY TV (OPCION 2)",
-     "image": "http://vignette2.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png/revision/latest?cb=20140203022623",
-     "url": "http://direccion2/1:0:1:749C:41C:1:C00000:0:0:0:"
-                 }, 
-{
-     "name": "BABY TV (OPCION 3)",
-     "image": "http://vignette2.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png/revision/latest?cb=20140203022623",
-     "url": "http://direccion3/1:0:1:749C:41C:1:C00000:0:0:0:"
-                 }, 
-]
-},
-{                         
-"name": "CLAN TV",
-"image": "http://blog.phonehouse.es/wp-content/uploads/2014/08/Logo_Clan_TVE.jpg",
-"stations": [
-{
-     "name": "CLAN TV",
-     "image": "http://blog.phonehouse.es/wp-content/uploads/2014/08/Logo_Clan_TVE.jpg",
-     "url": "http://direccion1/1:0:1:77BE:40A:1:C00000:0:0:0:"                  
-                 }, 
-{
-     "name": "CLAN TV (OPCION 2)",
-     "image": "http://blog.phonehouse.es/wp-content/uploads/2014/08/Logo_Clan_TVE.jpg",
-     "url": "http://direccion2/1:0:1:77BE:40A:1:C00000:0:0:0:"
-                 }, 
-{
-     "name": "CLAN TV (OPCION 3)",
-     "image": "http://blog.phonehouse.es/wp-content/uploads/2014/08/Logo_Clan_TVE.jpg",
-     "url": "http://direccion3/1:0:1:77BE:40A:1:C00000:0:0:0:"
-                 }, 
-]
-},
-{                         
-"name": "DISNEY CHANNEL",
-"image": "http://img3.wikia.nocookie.net/__cb20140522224840/logopedia/images/8/87/Disney_Channel_2014.png",
-"stations": [
-{
-     "name": "DISNEY CHANNEL",
-     "image": "http://img3.wikia.nocookie.net/__cb20140522224840/logopedia/images/8/87/Disney_Channel_2014.png",
-     "url": "http://direccion1/1:0:1:76C3:40E:1:C00000:0:0:0:"                
-                 },
-{
-     "name": "DISNEY CHANNEL (OPCION 2)",
-     "image": "http://img3.wikia.nocookie.net/__cb20140522224840/logopedia/images/8/87/Disney_Channel_2014.png",
-     "url": "http://direccion2/1:0:1:76C3:40E:1:C00000:0:0:0:"
-                 },
-{
-     "name": "DISNEY CHANNEL (OPCION 3)",
-     "image": "http://img3.wikia.nocookie.net/__cb20140522224840/logopedia/images/8/87/Disney_Channel_2014.png",
-     "url": "http://direccion3/1:0:1:76C3:40E:1:C00000:0:0:0:"
-                 }, 
-]
-},
-{                         
-"name": "DISNEY JUNIOR",
-"image": "http://cincomom.com/wp-content/uploads/2012/08/Disney-Junior.png",
-"stations": [
-{
-     "name": "DISNEY JUNIOR",
-     "image": "http://cincomom.com/wp-content/uploads/2012/08/Disney-Junior.png",
-     "url": "http://direccion1/1:0:1:746B:3F0:1:C00000:0:0:0:"              
-                 }, 
-{
-     "name": "DISNEY JUNIOR (OPCION 2)",
-     "image": "http://cincomom.com/wp-content/uploads/2012/08/Disney-Junior.png",
-     "url": "http://direccion2/1:0:1:746B:3F0:1:C00000:0:0:0:"
-                 }, 
-{
-     "name": "DISNEY JUNIOR (OPCION 3)",
-     "image": "http://cincomom.com/wp-content/uploads/2012/08/Disney-Junior.png",
-     "url": "http://direccion3/1:0:1:746B:3F0:1:C00000:0:0:0:"
-                 }, 
-]
-},
-{                         
-"name": "PANDA",
-"image": "http://blog.ono.es/wp-content/uploads/2011/03/canalpandatelevisionono.jpg",
-"stations": [
-{
-     "name": "PANDA",
-     "image": "http://blog.ono.es/wp-content/uploads/2011/03/canalpandatelevisionono.jpg",
-     "url": "http://direccion1/1:0:1:75FF:408:1:C00000:0:0:0:"                
-                }, 
-{
-     "name": "PANDA (OPCION 2)",
-     "image": "http://blog.ono.es/wp-content/uploads/2011/03/canalpandatelevisionono.jpg",
-     "url": "http://direccion2/1:0:1:75FF:408:1:C00000:0:0:0:"
-                }, 
-{
-     "name": "PANDA (OPCION 3)",
-     "image": "http://blog.ono.es/wp-content/uploads/2011/03/canalpandatelevisionono.jpg",
-     "url": "http://direccion3/1:0:1:75FF:408:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "DISNEY XD",
-"image": "http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo.jpg",
-"stations": [
-{
-     "name": "DISNEY XD",
-     "image": "http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo.jpg",
-     "url": "http://direccion1/1:0:1:772A:416:1:C00000:0:0:0:"                 
-                 }, 
-{
-     "name": "DISNEY XD (OPCION 2)",
-     "image": "http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo.jpg",
-     "url": "http://direccion2/1:0:1:772A:416:1:C00000:0:0:0:"
-                 }, 
-{
-     "name": "DISNEY XD (OPCION 3)",
-     "image": "http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo.jpg",
-     "url": "http://direccion3/1:0:1:772A:416:1:C00000:0:0:0:"
-                 }, 
-]
-},
-{                         
-"name": "NICK JR",
-"image": "https://s-media-cache-ak0.pinimg.com/originals/76/8a/9b/768a9b1cd2f254b14f89259dce0847f8.jpg",
-"stations": [
-{
-     "name": "NICK JR",
-     "image": "https://s-media-cache-ak0.pinimg.com/originals/76/8a/9b/768a9b1cd2f254b14f89259dce0847f8.jpg",
-     "url": "http://direccion1/1:0:1:7602:408:1:C00000:0:0:0:"               
-                }, 
-{
-     "name": "NICK JR (OPCION 2)",
-     "image": "https://s-media-cache-ak0.pinimg.com/originals/76/8a/9b/768a9b1cd2f254b14f89259dce0847f8.jpg",
-     "url": "http://direccion2/1:0:1:7602:408:1:C00000:0:0:0:"
-                }, 
-{
-     "name": "NICK JR (OPCION 3)",
-     "image": "https://s-media-cache-ak0.pinimg.com/originals/76/8a/9b/768a9b1cd2f254b14f89259dce0847f8.jpg",
-     "url": "http://direccion3/1:0:1:7602:408:1:C00000:0:0:0:"
-                }, 
-]
-},
-{                         
-"name": "NICKELODEON",
-"image": "http://img2.wikia.nocookie.net/__cb20121101125033/logopedia/images/6/6b/Nickelodeon_OlderSplat.png",
-"stations": [
-{
-     "name": "NICKELODEON",
-     "image": "http://img2.wikia.nocookie.net/__cb20121101125033/logopedia/images/6/6b/Nickelodeon_OlderSplat.png",
-     "url": "http://direccion1/1:0:1:6FF4:42A:1:C00000:0:0:0:"                 
-                }, 
-{
-     "name": "NICKELODEON (OPCION 2)",
-     "image": "http://img2.wikia.nocookie.net/__cb20121101125033/logopedia/images/6/6b/Nickelodeon_OlderSplat.png",
-     "url": "http://direccion2/1:0:1:6FF4:42A:1:C00000:0:0:0:"
-                }, 
-{
-     "name": "NICKELODEON (OPCION 3)",
-     "image": "http://img2.wikia.nocookie.net/__cb20121101125033/logopedia/images/6/6b/Nickelodeon_OlderSplat.png",
-     "url": "http://direccion3/1:0:1:6FF4:42A:1:C00000:0:0:0:"
+     "image": "https://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a",
+     "url": "http://direccion3/1:0:1:746A:3F0:1:C00000:0:0:0:"                  	           
                 },                                                                            
 ]
 },
 ]
 },
 {
-"name": "TDT",
-"image": "http://canaletestereo.com/wp-content/uploads/2018/01/tdt-en-colombia.jpg",
+"name": "📺DIGITAL.TV📺",
+"image": "https://www.downgraf.com/wp-content/uploads/2015/09/Digital-TV-making-waves-in-2015.jpg",
+"groups": [
+{                                    
+"name": "MOVISTAR #0",
+"image": "https://www.mundoplus.tv/img/55d1677dd51d40f55d12190e905e0763",
+"stations": [       
+{
+     "name": "MOVISTAR #0",
+     "image": "https://www.mundoplus.tv/img/55d1677dd51d40f55d12190e905e0763",
+     "url": "http://direccion1/1:0:1:7478:3F0:1:C00000:0:0:0:"                  
+               },    
+{
+     "name": "MOVISTAR #0 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/55d1677dd51d40f55d12190e905e0763",
+     "url": "http://direccion2/1:0:1:7478:3F0:1:C00000:0:0:0:"
+               },    
+{
+     "name": "MOVISTAR #0 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/55d1677dd51d40f55d12190e905e0763",
+     "url": "http://direccion3/1:0:1:7478:3F0:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "MOVISTAR SERIESMANIA",
+"image": "https://www.mundoplus.tv/img/a628ddeac73878b6b17426b814de199f",
+"stations": [
+{
+     "name": "MOVISTAR SERIESMANIA",
+     "image": "https://www.mundoplus.tv/img/a628ddeac73878b6b17426b814de199f",
+     "url": "http://direccion1/1:0:1:76CA:40E:1:C00000:0:0:0:"  
+                },
+{
+     "name": "MOVISTAR SERIESMANIA (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/a628ddeac73878b6b17426b814de199f",
+     "url": "http://direccion2/1:0:1:76CA:40E:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR SERIESMANIA (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/a628ddeac73878b6b17426b814de199f",
+     "url": "http://direccion3/1:0:1:76CA:40E:1:C00000:0:0:0:"
+                },
+]
+},
+{                    
+"name": "MOVISTAR ESTRENOS",
+"image": "https://www.mundoplus.tv/img/c9351725c23f8a4fd920fb2cf5cd2086",
+"stations": [
+{
+     "name": "MOVISTAR ESTRENOS",
+     "image": "https://www.mundoplus.tv/img/c9351725c23f8a4fd920fb2cf5cd2086",
+     "url": "http://direccion1/1:0:1:76C0:40E:1:C00000:0:0:0:"                   
+               },
+{
+     "name": "MOVISTAR ESTRENOS (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/c9351725c23f8a4fd920fb2cf5cd2086",
+     "url": "http://direccion2/1:0:1:76C0:40E:1:C00000:0:0:0:"  
+               },
+{
+     "name": "MOVISTAR ESTRENOS (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/c9351725c23f8a4fd920fb2cf5cd2086",
+     "url": "http://direccion3/1:0:1:76C0:40E:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "MOVISTAR DRAMA",
+"image": "https://www.mundoplus.tv/img/7445e311443a2e6e27e31c8d6e4d08f2",
+"stations": [
+{
+     "name": "MOVISTAR DRAMA",
+     "image": "https://www.mundoplus.tv/img/7445e311443a2e6e27e31c8d6e4d08f2",
+     "url": "http://direccion1/1:0:19:750B:420:1:C00000:0:0:0:" 
+                },
+{
+     "name": "MOVISTAR DRAMA (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/7445e311443a2e6e27e31c8d6e4d08f2",
+     "url": "http://direccion2/1:0:19:750B:420:1:C00000:0:0:0:"
+               },
+{
+     "name": "MOVISTAR DRAMA (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/7445e311443a2e6e27e31c8d6e4d08f2",
+     "url": "http://direccion3/1:0:19:750B:420:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "MOVISTAR ACCION",
+"image": "https://www.mundoplus.tv/img/750e63a2a12c636606d4ded3fe1962b5",
+"stations": [
+{
+     "name": "MOVISTAR ACCION",
+     "image": "https://www.mundoplus.tv/img/750e63a2a12c636606d4ded3fe1962b5",
+     "url": "http://direccion1/1:0:1:746C:3F0:1:C00000:0:0:0:"            
+               },
+{
+     "name": "MOVISTAR ACCION (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/750e63a2a12c636606d4ded3fe1962b5",
+     "url": "http://direccion2/1:0:1:746C:3F0:1:C00000:0:0:0:"
+               },
+{
+     "name": "MOVISTAR ACCION (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/750e63a2a12c636606d4ded3fe1962b5",
+     "url": "http://direccion3/1:0:1:746C:3F0:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "MOVISTAR COMEDIA",
+"image": "https://www.mundoplus.tv/img/2834b75ebd179611356cbdeb8c38fad4",
+"stations": [
+{
+     "name": "MOVISTAR COMEDIA",
+     "image": "https://www.mundoplus.tv/img/2834b75ebd179611356cbdeb8c38fad4",
+     "url": "http://direccion1/1:0:1:746D:3F0:1:C00000:0:0:0:"              
+               },
+{
+     "name": "MOVISTAR COMEDIA (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/2834b75ebd179611356cbdeb8c38fad4",
+     "url": "http://direccion2/1:0:1:746D:3F0:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR COMEDIA (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/2834b75ebd179611356cbdeb8c38fad4",
+     "url": "http://direccion3/1:0:1:746D:3F0:1:C00000:0:0:0:"
+                },
+]
+},
+{                         
+"name": "MOVISTAR SERIES",
+"image": "https://www.mundoplus.tv/img/2b86b4249f80a36ec74e387ec1cc631d",
+"stations": [              
+{
+     "name": "MOVISTAR SERIES",
+     "image": "https://www.mundoplus.tv/img/2b86b4249f80a36ec74e387ec1cc631d",
+     "url": "http://direccion1/1:0:1:7696:41E:1:C00000:0:0:0:"            
+               },
+{
+     "name": "MOVISTAR SERIES (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/2b86b4249f80a36ec74e387ec1cc631d",
+     "url": "http://direccion2/1:0:1:7696:41E:1:C00000:0:0:0:"
+               },
+{
+     "name": "MOVISTAR SERIES (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/2b86b4249f80a36ec74e387ec1cc631d",
+     "url": "http://direccion3/1:0:1:7696:41E:1:C00000:0:0:0:"
+                },
+]
+},
+{                         
+"name": "MOVISTAR CINEDOC&AMP;ROLL",
+"image": "https://www.mundoplus.tv/img/a0586448810924733a48424ac4571431",
+"stations": [              
+{
+     "name": "MOVISTAR CINEDOC&AMP;ROLL",
+     "image": "https://www.mundoplus.tv/img/a0586448810924733a48424ac4571431",
+     "url": "http://direccion1/1:0:1:77C6:40A:1:C00000:0:0:0:"            
+               },
+{
+     "name": "MOVISTAR CINEDOC&AMP;ROLL (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/a0586448810924733a48424ac4571431",
+     "url": "http://direccion2/1:0:1:77C6:40A:1:C00000:0:0:0:"
+               },
+{
+     "name": "MOVISTAR CINEDOC&AMP;ROLL (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/a0586448810924733a48424ac4571431",
+     "url": "http://direccion3/1:0:1:77C6:40A:1:C00000:0:0:0:"
+                },
+]
+},
+{                         
+"name": "MOVISTAR CINE Ñ",
+"image": "https://www.mundoplus.tv/img/7b621a3d99719b3cba88301d67147f65",
+"stations": [                 
+{
+     "name": "MOVISTAR CINE Ñ",
+     "image": "https://www.mundoplus.tv/img/7b621a3d99719b3cba88301d67147f65",
+     "url": "http://direccion1/1:0:1:7736:416:1:C00000:0:0:0:"                
+                 },
+{
+     "name": "MOVISTAR CINE Ñ (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/7b621a3d99719b3cba88301d67147f65",
+     "url": "http://direccion2/1:0:1:7736:416:1:C00000:0:0:0:"
+                 },
+{
+     "name": "MOVISTAR CINE Ñ (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/7b621a3d99719b3cba88301d67147f65",
+     "url": "http://direccion3/1:0:1:7736:416:1:C00000:0:0:0:"
+                 },
+]
+},
+{                         
+"name": "PARAMOUNT NETWORK",
+"image": "https://www.mundoplus.tv/img/38b683f76088b06703544d3eb0960a7a",
+"stations": [
+{
+     "name": "PARAMOUNT NETWORK",
+     "image": "https://www.mundoplus.tv/img/38b683f76088b06703544d3eb0960a7a",
+     "url": "http://direccion1/1:0:1:75F9:408:1:C00000:0:0:0:"                
+                },
+{
+     "name": "PARAMOUNT NETWORK (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/38b683f76088b06703544d3eb0960a7a",
+     "url": "http://direccion2/1:0:1:75F9:408:1:C00000:0:0:0:"
+                },
+{
+     "name": "PARAMOUNT NETWORK (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/38b683f76088b06703544d3eb0960a7a",
+     "url": "http://direccion3/1:0:1:75F9:408:1:C00000:0:0:0:"
+                },                                                                                                                                  
+]
+},
+{                         
+"name": "CALLE 13",
+"image": "https://www.mundoplus.tv/img/29f66a85e99a52684a6f3a79309e383d",
+"stations": [
+{
+     "name": "CALLE 13",
+     "image": "https://www.mundoplus.tv/img/29f66a85e99a52684a6f3a79309e383d",
+     "url": "http://direccion1/1:0:1:7790:424:1:C00000:0:0:0:"               
+               },
+{
+     "name": "CALLE 13 (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/29f66a85e99a52684a6f3a79309e383d",
+     "url": "http://direccion2/1:0:1:7790:424:1:C00000:0:0:0:"
+                },
+{
+     "name": "CALLE 13 (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/29f66a85e99a52684a6f3a79309e383d",
+     "url": "http://direccion3/1:0:1:7790:424:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "FOX",
+"image": "https://www.mundoplus.tv/img/ccff2380b99c0e0230986e55f1528a5c",
+"stations": [
+{
+     "name": "FOX",
+     "image": "https://www.mundoplus.tv/img/ccff2380b99c0e0230986e55f1528a5c",
+     "url": "http://direccion1/1:0:1:746F:3F0:1:C00000:0:0:0:"              
+               },
+{
+     "name": "FOX (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/ccff2380b99c0e0230986e55f1528a5c",
+     "url": "http://direccion2/1:0:1:746F:3F0:1:C00000:0:0:0:"
+               },
+{
+     "name": "FOX (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/ccff2380b99c0e0230986e55f1528a5c",
+     "url": "http://direccion3/1:0:1:746F:3F0:1:C00000:0:0:0:"
+               }, 
+]
+},
+{                         
+"name": "FOX LIFE",
+"image": "https://www.mundoplus.tv/img/ecfc0769117ac14fb3ddbd0fe6237c3f",
+"stations": [
+{
+     "name": "FOX LIFE",
+     "image": "https://www.mundoplus.tv/img/ecfc0769117ac14fb3ddbd0fe6237c3f",
+     "url": "http://direccion1/1:0:19:78BA:3EC:1:C00000:0:0:0:"              
+                },
+{
+     "name": "FOX LIFE (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/ecfc0769117ac14fb3ddbd0fe6237c3f",
+     "url": "http://direccion2/1:0:19:78BA:3EC:1:C00000:0:0:0:"
+                },
+{
+     "name": "FOX LIFE (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/ecfc0769117ac14fb3ddbd0fe6237c3f",
+     "url": "http://direccion3/1:0:19:78BA:3EC:1:C00000:0:0:0:"
+                },                
+]
+},
+{                         
+"name": "AXN",
+"image": "https://www.mundoplus.tv/img/584fdc160686269af660227dd0ca098e",
+"stations": [
+{
+     "name": "AXN",
+     "image": "https://www.mundoplus.tv/img/584fdc160686269af660227dd0ca098e",
+     "url": "http://direccion1/1:0:1:7477:3F0:1:C00000:0:0:0:"               
+                },
+{
+     "name": "AXN (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/584fdc160686269af660227dd0ca098e",
+     "url": "http://direccion2/1:0:1:7477:3F0:1:C00000:0:0:0:"
+                },
+{
+     "name": "AXN (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/584fdc160686269af660227dd0ca098e",
+     "url": "http://direccion3/1:0:1:7477:3F0:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "AXN WHITE",
+"image": "https://www.mundoplus.tv/img/952ef37dc0d1106fda712396046cbfd5",
+"stations": [
+{
+     "name": "AXN WHITE",
+     "image": "https://www.mundoplus.tv/img/952ef37dc0d1106fda712396046cbfd5",
+     "url": "http://direccion1/1:0:19:74DB:3F8:1:C00000:0:0:0:"              
+                },
+{
+     "name": "AXN WHITE (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/952ef37dc0d1106fda712396046cbfd5",
+     "url": "http://direccion2/1:0:19:74DB:3F8:1:C00000:0:0:0:"
+                },
+{
+     "name": "AXN WHITE (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/952ef37dc0d1106fda712396046cbfd5",
+     "url": "http://direccion3/1:0:19:74DB:3F8:1:C00000:0:0:0:"
+                },  
+]
+},
+{                         
+"name": "SUNDANCE CHANNEL",
+"image": "https://www.mundoplus.tv/img/433076e94a6cd1cfb92f9559377831b9",
+"stations": [
+{
+     "name": "SUNDANCE CHANNEL",
+     "image": "https://www.mundoplus.tv/img/433076e94a6cd1cfb92f9559377831b9",
+     "url": "http://direccion1/1:0:1:76A5:41E:1:C00000:0:0:0:"                                                              
+                },
+{
+     "name": "SUNDANCE CHANNEL (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/433076e94a6cd1cfb92f9559377831b9",
+     "url": "http://direccion2/1:0:1:76A5:41E:1:C00000:0:0:0:"
+                },
+{
+     "name": "SUNDANCE CHANNEL (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/433076e94a6cd1cfb92f9559377831b9",
+     "url": "http://direccion3/1:0:1:76A5:41E:1:C00000:0:0:0:"
+                },  
+]
+},
+{                         
+"name": "SYFY",
+"image": "https://www.mundoplus.tv/img/f4dd7f98ef9f250af17d31ccb4b32603",
+"stations": [
+{
+     "name": "SYFY",
+     "image": "https://www.mundoplus.tv/img/f4dd7f98ef9f250af17d31ccb4b32603",
+     "url": "http://direccion1/1:0:19:74CD:3F8:1:C00000:0:0:0:"             
+               },
+{
+     "name": "SYFY (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/f4dd7f98ef9f250af17d31ccb4b32603",
+     "url": "http://direccion2/1:0:19:74CD:3F8:1:C00000:0:0:0:"
+                },
+{
+     "name": "SYFY (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/f4dd7f98ef9f250af17d31ccb4b32603",
+     "url": "http://direccion3/1:0:19:74CD:3F8:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "TCM",
+"image": "https://www.mundoplus.tv/img/02c52c21d587c2fd6237d72a020bb9f3",
+"stations": [
+{
+     "name": "TCM",
+     "image": "https://www.mundoplus.tv/img/02c52c21d587c2fd6237d72a020bb9f3",
+     "url": "http://direccion1/1:0:1:76C7:40E:1:C00000:0:0:0:"          
+                },
+{
+     "name": "TCM (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/02c52c21d587c2fd6237d72a020bb9f3",
+     "url": "http://direccion2/1:0:1:76C7:40E:1:C00000:0:0:0:"
+                },
+{
+     "name": "TCM (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/02c52c21d587c2fd6237d72a020bb9f3",
+     "url": "http://direccion3/1:0:1:76C7:40E:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "COSMO",
+"image": "https://www.mundoplus.tv/img/b24417133ee2ba8253b273f68b7aeb4d",
+"stations": [
+{
+     "name": "COSMO",
+     "image": "https://www.mundoplus.tv/img/b24417133ee2ba8253b273f68b7aeb4d",
+     "url": "http://direccion1/1:0:1:7730:416:1:C00000:0:0:0:"                  
+                 },
+{
+     "name": "COSMO (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/b24417133ee2ba8253b273f68b7aeb4d",
+     "url": "http://direccion2/1:0:1:7730:416:1:C00000:0:0:0:"
+                 },
+{
+     "name": "COSMO (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/b24417133ee2ba8253b273f68b7aeb4d",
+     "url": "http://direccion3/1:0:1:7730:416:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "AMC",
+"image": "https://www.mundoplus.tv/img/eedafd187f318f3ef0da235b83105ac4",
+"stations": [
+{
+     "name": "AMC",
+     "image": "https://www.mundoplus.tv/img/eedafd187f318f3ef0da235b83105ac4",
+     "url": "http://direccion1/1:0:1:76CF:40E:1:C00000:0:0:0:"                  
+                 },
+{
+     "name": "AMC (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/eedafd187f318f3ef0da235b83105ac4",
+     "url": "http://direccion2/1:0:1:76CF:40E:1:C00000:0:0:0:"
+                 },
+{
+     "name": "AMC (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/eedafd187f318f3ef0da235b83105ac4",
+     "url": "http://direccion3/1:0:1:76CF:40E:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "COMEDY CENTRAL",
+"image": "https://www.mundoplus.tv/img/aae9a64d238eb7a6b1ee2fd1c69510fa",
+"stations": [
+{
+     "name": "COMEDY CENTRAL",
+     "image": "https://www.mundoplus.tv/img/aae9a64d238eb7a6b1ee2fd1c69510fa",
+     "url": "http://direccion1/1:0:1:76C8:40E:1:C00000:0:0:0:"                 
+                },
+{
+     "name": "COMEDY CENTRAL (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/aae9a64d238eb7a6b1ee2fd1c69510fa",
+     "url": "http://direccion2/1:0:1:76C8:40E:1:C00000:0:0:0:"
+                },
+{
+     "name": "COMEDY CENTRAL (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/aae9a64d238eb7a6b1ee2fd1c69510fa",
+     "url": "http://direccion3/1:0:1:76C8:40E:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "HOLLYWOOD",
+"image": "https://www.mundoplus.tv/img/58a679f83b6075dd3ecff75fa63c5515",
+"stations": [ 
+{
+     "name": "HOLLYWOOD",
+     "image": "https://www.mundoplus.tv/img/58a679f83b6075dd3ecff75fa63c5515",
+     "url": "http://direccion1/1:0:1:77C1:40A:1:C00000:0:0:0:"               
+                },
+{
+     "name": "HOLLYWOOD (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/58a679f83b6075dd3ecff75fa63c5515",
+     "url": "http://direccion2/1:0:1:77C1:40A:1:C00000:0:0:0:"
+                },
+{
+     "name": "HOLLYWOOD (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/58a679f83b6075dd3ecff75fa63c5515",
+     "url": "http://direccion3/1:0:1:77C1:40A:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "TNT",
+"image": "https://www.mundoplus.tv/img/8054707c37e74db0952f9a30d42a9246",
+"stations": [
+{
+     "name": "TNT",
+     "image": "https://www.mundoplus.tv/img/8054707c37e74db0952f9a30d42a9246",
+     "url": "http://direccion1/1:0:19:7888:414:1:C00000:0:0:0:"                
+               },
+{
+     "name": "TNT (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/8054707c37e74db0952f9a30d42a9246",
+     "url": "http://direccion2/1:0:19:7888:414:1:C00000:0:0:0:"
+               },
+{
+     "name": "TNT (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/8054707c37e74db0952f9a30d42a9246",
+     "url": "http://direccion3/1:0:19:7888:414:1:C00000:0:0:0:"
+},                                                                            
+]
+},
+]
+},
+{
+"name": "🌏TEMATICOS🌏",
+"image": "http://i.imgur.com/TpJJa.jpg",
+"groups": [
+{                              
+"name": "CRIMEN E INVESTIGACION",
+"image": "https://www.mundoplus.tv/img/ac716c7dd28a5416e733e183884158aa",
+"stations": [
+{
+     "name": "CRIMEN E INVESTIGACION",
+     "image": "https://www.mundoplus.tv/img/ac716c7dd28a5416e733e183884158aa",
+     "url": "http://direccion1/1:0:1:7732:416:1:C00000:0:0:0:"             
+               },
+{
+     "name": "CRIMEN E INVESTIGACION (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/ac716c7dd28a5416e733e183884158aa",
+     "url": "http://direccion2/1:0:1:7732:416:1:C00000:0:0:0:"
+               },
+{
+     "name": "CRIMEN E INVESTIGACION (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/ac716c7dd28a5416e733e183884158aa",
+     "url": "http://direccion3/1:0:1:7732:416:1:C00000:0:0:0:"
+               },
+]
+},
+{                         
+"name": "DISCOVERY CHANNEL",
+"image": "https://www.mundoplus.tv/img/dfee4613780f33813fdc06919dbc39ee",
+"stations": [
+{
+     "name": "DISCOVERY CHANNEL",
+     "image": "https://www.mundoplus.tv/img/dfee4613780f33813fdc06919dbc39ee",
+     "url": "http://direccion1/1:0:1:772F:416:1:C00000:0:0:0:"             
+               },
+{
+     "name": " DISCOVERY CHANNEL (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/dfee4613780f33813fdc06919dbc39ee",
+     "url": "http://direccion2/1:0:1:772F:416:1:C00000:0:0:0:"
+               },
+{
+     "name": "DISCOVERY CHANNEL (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/dfee4613780f33813fdc06919dbc39ee",
+     "url": "http://direccion3/1:0:1:772F:416:1:C00000:0:0:0:"
+               }, 
+]
+},
+{                         
+"name": "NATIONAL GEOGRAPHIC",
+"image": "https://www.mundoplus.tv/img/7e0c8cc11964a92385358f99ce9ec9af",
+"stations": [
+{
+     "name": "NATIONAL GEOGRAPHIC",
+     "image": "https://www.mundoplus.tv/img/7e0c8cc11964a92385358f99ce9ec9af",
+     "url": "http://direccion1/1:0:1:778D:424:1:C00000:0:0:0:"                              
+                },
+{
+     "name": "NATIONAL GEOGRAPHIC (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/7e0c8cc11964a92385358f99ce9ec9af",
+     "url": "http://direccion2/1:0:1:778D:424:1:C00000:0:0:0:"
+                },
+{
+     "name": "NATIONAL GEOGRAPHIC (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/7e0c8cc11964a92385358f99ce9ec9af",
+     "url": "http://direccion3/1:0:1:778D:424:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "NAT GEO WILD",
+"image": "https://www.mundoplus.tv/img/e799fb862a85d4d98233b557c82f2413",
+"stations": [
+{
+     "name": "NAT GEO WILD",
+     "image": "https://www.mundoplus.tv/img/e799fb862a85d4d98233b557c82f2413",
+     "url": "http://direccion1/1:0:1:77D8:40A:1:C00000:0:0:0:"              
+                },
+{
+     "name": "NAT GEO WILD (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/e799fb862a85d4d98233b557c82f2413",
+     "url": "http://direccion2/1:0:1:77D8:40A:1:C00000:0:0:0:"
+                },
+{
+     "name": "NAT GEO WILD (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/e799fb862a85d4d98233b557c82f2413",
+     "url": "http://direccion3/1:0:1:77D8:40A:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "HISTORIA",
+"image": "https://www.mundoplus.tv/img/45bbaa70786b408987f698e23196d5f7",
+"stations": [
+{
+     "name": "HISTORIA",
+     "image": "https://www.mundoplus.tv/img/45bbaa70786b408987f698e23196d5f7",
+     "url": "http://direccion1/1:0:1:7731:416:1:C00000:0:0:0:"             
+               }, 
+{
+     "name": "HISTORIA (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/45bbaa70786b408987f698e23196d5f7",
+     "url": "http://direccion2/1:0:1:7731:416:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "HISTORIA (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/45bbaa70786b408987f698e23196d5f7",
+     "url": "http://direccion3/1:0:1:7731:416:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "ODISEA",
+"image": "https://www.mundoplus.tv/img/f9612536c19ec7a35d5c6759d28cd83e",
+"stations": [
+{
+     "name": "ODISEA",
+     "image": "https://www.mundoplus.tv/img/f9612536c19ec7a35d5c6759d28cd83e",
+     "url": "http://direccion1/1:0:1:778A:424:1:C00000:0:0:0:"              
+                 }, 
+{
+     "name": "ODISEA (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/f9612536c19ec7a35d5c6759d28cd83e",
+     "url": "http://direccion2/1:0:1:778A:424:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "ODISEA (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/f9612536c19ec7a35d5c6759d28cd83e",
+     "url": "http://direccion3/1:0:1:778A:424:1:C00000:0:0:0:"
+                 },  
+]
+},
+{                         
+"name": "BLAZE",
+"image": "https://www.mundoplus.tv/img/5baaa914a1799a2c88ee007c3f834cb4",
+"stations": [
+{
+     "name": "BLAZE",
+     "image": "https://www.mundoplus.tv/img/5baaa914a1799a2c88ee007c3f834cb4",
+     "url": "http://direccion1/1:0:1:772D:416:1:C00000:0:0:0:"                    
+                 }, 
+{
+     "name": "BLAZE (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/5baaa914a1799a2c88ee007c3f834cb4",
+     "url": "http://direccion2/1:0:1:772D:416:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "BLAZE (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/5baaa914a1799a2c88ee007c3f834cb4",
+     "url": "http://direccion3/1:0:1:772D:416:1:C00000:0:0:0:"
+                 },  
+]
+},
+{                         
+"name": "CANAL COCINA",
+"image": "https://www.mundoplus.tv/img/2441e90d075846103f60c7566b26a433",
+"stations": [
+{
+     "name": "CANAL COCINA",
+     "image": "https://www.mundoplus.tv/img/2441e90d075846103f60c7566b26a433",
+     "url": "http://direccion1/1:0:1:76CE:40E:1:C00000:0:0:0:"                 
+                  },
+{
+     "name": "CANAL COCINA (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/2441e90d075846103f60c7566b26a433",
+     "url": "http://direccion2/1:0:1:76CE:40E:1:C00000:0:0:0:"
+                  },
+{
+     "name": "CANAL COCINA (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/2441e90d075846103f60c7566b26a433",
+     "url": "http://direccion3/1:0:1:76CE:40E:1:C00000:0:0:0:"
+                  }, 
+]
+},
+{                         
+"name": "DECASA",
+"image": "https://www.mundoplus.tv/img/de28fb179cdebc43de177ed8a65cd461",
+"stations": [
+{
+     "name": "DECASA",
+     "image": "https://www.mundoplus.tv/img/de28fb179cdebc43de177ed8a65cd461",
+     "url": "http://direccion1/1:0:1:7795:424:1:C00000:0:0:0:"                
+                }, 
+{
+     "name": "DECASA (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/de28fb179cdebc43de177ed8a65cd461",
+     "url": "http://direccion2/1:0:1:7795:424:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "DECASA (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/de28fb179cdebc43de177ed8a65cd461",
+     "url": "http://direccion3/1:0:1:7795:424:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "VIAJAR",
+"image": "https://www.mundoplus.tv/img/f85bf2ae60f1fe3b95ed80024e1ead21",
+"stations": [
+{
+     "name": "VIAJAR",
+     "image": "https://www.mundoplus.tv/img/f85bf2ae60f1fe3b95ed80024e1ead21",
+     "url": "http://direccion1/1:0:1:76C9:40E:1:C00000:0:0:0:"                
+                 },
+{
+     "name": "VIAJAR (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/f85bf2ae60f1fe3b95ed80024e1ead21",
+     "url": "http://direccion2/1:0:1:76C9:40E:1:C00000:0:0:0:"
+                 },
+{
+     "name": "VIAJAR (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/f85bf2ae60f1fe3b95ed80024e1ead21",
+     "url": "http://direccion3/1:0:1:76C9:40E:1:C00000:0:0:0:"                
+                 },                                                                            
+]
+},
+]
+},
+{
+"name": "🐼INFANTILES🐼",
+"image": "http://i.blogs.es/317356/la-20casa-20de-20mickey-20mouse/650_1200.jpg",
 "groups": [
 {                    
+"name": "BOING",
+"image": "https://www.mundoplus.tv/img/4e0a126015d555e4bae37641571d0754",
+"stations": [ 
+{
+     "name": "BOING",
+     "image": "https://www.mundoplus.tv/img/4e0a126015d555e4bae37641571d0754",
+     "url": "http://direccion1/1:0:1:749E:41C:1:C00000:0:0:0:"               
+               }, 
+{
+     "name": "BOING (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/4e0a126015d555e4bae37641571d0754",
+     "url": "http://direccion2/1:0:1:749E:41C:1:C00000:0:0:0:"
+               }, 
+{
+     "name": "BOING (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/4e0a126015d555e4bae37641571d0754",
+     "url": "http://direccion3/1:0:1:749E:41C:1:C00000:0:0:0:"	          
+               }, 
+]
+},
+{                         
+"name": "MOVISTAR DISNEY",
+"image": "https://www.mundoplus.tv/img/5c496d0c6722c85563c9e29d036623c2",
+"stations": [
+{
+     "name": "MOVISTAR DISNEY",
+     "image": "https://www.mundoplus.tv/img/5c496d0c6722c85563c9e29d036623c2",
+     "url": "http://direccion1/1:0:1:749D:41C:1:C00000:0:0:0:"                
+                 }, 
+{
+     "name": "MOVISTAR DISNEY (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/5c496d0c6722c85563c9e29d036623c2",
+     "url": "http://direccion2/1:0:1:749D:41C:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "MOVISTAR DISNEY (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/5c496d0c6722c85563c9e29d036623c2",
+     "url": "http://direccion3/1:0:1:749D:41C:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "BABY TV",
+"image": "https://www.mundoplus.tv/img/201f0c6d2ac3c05405006f772e57eed0",
+"stations": [
+{
+     "name": "BABY TV",
+     "image": "https://www.mundoplus.tv/img/201f0c6d2ac3c05405006f772e57eed0",
+     "url": "http://direccion1/1:0:1:749C:41C:1:C00000:0:0:0:"                
+                 }, 
+{
+     "name": "BABY TV (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/201f0c6d2ac3c05405006f772e57eed0",
+     "url": "http://direccion2/1:0:1:749C:41C:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "BABY TV (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/201f0c6d2ac3c05405006f772e57eed0",
+     "url": "http://direccion3/1:0:1:749C:41C:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "CLAN TV",
+"image": "https://www.mundoplus.tv/img/ea39340effe7759f5d285f870fdad91b",
+"stations": [
+{
+     "name": "CLAN TV",
+     "image": "https://www.mundoplus.tv/img/ea39340effe7759f5d285f870fdad91b",
+     "url": "http://direccion1/1:0:1:77BE:40A:1:C00000:0:0:0:"                  
+                 }, 
+{
+     "name": "CLAN TV (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/ea39340effe7759f5d285f870fdad91b",
+     "url": "http://direccion2/1:0:1:77BE:40A:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "CLAN TV (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/ea39340effe7759f5d285f870fdad91b",
+     "url": "http://direccion3/1:0:1:77BE:40A:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "DISNEY CHANNEL",
+"image": "https://www.mundoplus.tv/img/0481ceb61a34c316a6728ee8e277443a",
+"stations": [
+{
+     "name": "DISNEY CHANNEL",
+     "image": "https://www.mundoplus.tv/img/0481ceb61a34c316a6728ee8e277443a",
+     "url": "http://direccion1/1:0:1:76C3:40E:1:C00000:0:0:0:"                
+                 },
+{
+     "name": "DISNEY CHANNEL (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/0481ceb61a34c316a6728ee8e277443a",
+     "url": "http://direccion2/1:0:1:76C3:40E:1:C00000:0:0:0:"
+                 },
+{
+     "name": "DISNEY CHANNEL (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/0481ceb61a34c316a6728ee8e277443a",
+     "url": "http://direccion3/1:0:1:76C3:40E:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "DISNEY JUNIOR",
+"image": "https://www.mundoplus.tv/img/cdb12c8d51219b898069be15f73965bc",
+"stations": [
+{
+     "name": "DISNEY JUNIOR",
+     "image": "https://www.mundoplus.tv/img/cdb12c8d51219b898069be15f73965bc",
+     "url": "http://direccion1/1:0:1:746B:3F0:1:C00000:0:0:0:"              
+                 }, 
+{
+     "name": "DISNEY JUNIOR (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/cdb12c8d51219b898069be15f73965bc",
+     "url": "http://direccion2/1:0:1:746B:3F0:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "DISNEY JUNIOR (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/cdb12c8d51219b898069be15f73965bc",
+     "url": "http://direccion3/1:0:1:746B:3F0:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "PANDA",
+"image": "https://www.mundoplus.tv/img/09824dbc2c4ac63c0f82c48ffd4624d7",
+"stations": [
+{
+     "name": "PANDA",
+     "image": "https://www.mundoplus.tv/img/09824dbc2c4ac63c0f82c48ffd4624d7",
+     "url": "http://direccion1/1:0:1:75FF:408:1:C00000:0:0:0:"                
+                }, 
+{
+     "name": "PANDA (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/09824dbc2c4ac63c0f82c48ffd4624d7",
+     "url": "http://direccion2/1:0:1:75FF:408:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "PANDA (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/09824dbc2c4ac63c0f82c48ffd4624d7",
+     "url": "http://direccion3/1:0:1:75FF:408:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "DISNEY XD",
+"image": "https://www.mundoplus.tv/img/3be9975ab2fc2fa58ee7276a32b4c8b2",
+"stations": [
+{
+     "name": "DISNEY XD",
+     "image": "https://www.mundoplus.tv/img/3be9975ab2fc2fa58ee7276a32b4c8b2",
+     "url": "http://direccion1/1:0:1:772A:416:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "DISNEY XD (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/3be9975ab2fc2fa58ee7276a32b4c8b2",
+     "url": "http://direccion2/1:0:1:772A:416:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "DISNEY XD (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/3be9975ab2fc2fa58ee7276a32b4c8b2",
+     "url": "http://direccion3/1:0:1:772A:416:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "NICK JR",
+"image": "https://www.mundoplus.tv/img/b8a829c6993c5b119dbfe491f88cf63b",
+"stations": [
+{
+     "name": "NICK JR",
+     "image": "https://www.mundoplus.tv/img/b8a829c6993c5b119dbfe491f88cf63b",
+     "url": "http://direccion1/1:0:1:7602:408:1:C00000:0:0:0:"               
+                }, 
+{
+     "name": "NICK JR (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/b8a829c6993c5b119dbfe491f88cf63b",
+     "url": "http://direccion2/1:0:1:7602:408:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "NICK JR (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/b8a829c6993c5b119dbfe491f88cf63b",
+     "url": "http://direccion3/1:0:1:7602:408:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "NICKELODEON",
+"image": "https://www.mundoplus.tv/img/77234a0ea84dd67f0ec1da9f68058313",
+"stations": [
+{
+     "name": "NICKELODEON",
+     "image": "https://www.mundoplus.tv/img/77234a0ea84dd67f0ec1da9f68058313",
+     "url": "http://direccion1/1:0:1:6FF4:42A:1:C00000:0:0:0:"                 
+                }, 
+{
+     "name": "NICKELODEON (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/77234a0ea84dd67f0ec1da9f68058313",
+     "url": "http://direccion2/1:0:1:6FF4:42A:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "NICKELODEON (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/77234a0ea84dd67f0ec1da9f68058313",
+     "url": "http://direccion3/1:0:1:6FF4:42A:1:C00000:0:0:0:"
+                 },                                                                            
+]
+},
+]
+},
+{
+"name": "📡TDT.DIGITAL📡",
+"image": "http://www.adslzone.net/app/uploads/2014/05/apertura-tdt-logo-palabras.jpg",
+"groups": [
+{                                   
 "name": "TVE.24 HORAS",
-"image": "http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg",
+"image": "https://www.mundoplus.tv/img/56cb0234e9bb92ca92a30677185829c5",
 "stations": [ 
 {
      "name": "TVE.24 HORAS",
-     "image": "http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg",
+     "image": "https://www.mundoplus.tv/img/56cb0234e9bb92ca92a30677185829c5",
      "url": "http://direccion1/1:0:1:7738:416:1:C00000:0:0:0:"               
                }, 
 {
      "name": "TVE.24 HORAS (OPCION 2)",
-     "image": "http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg",
+     "image": "https://www.mundoplus.tv/img/56cb0234e9bb92ca92a30677185829c5",
      "url": "http://direccion2/1:0:1:7738:416:1:C00000:0:0:0:"
                }, 
 {
      "name": "TVE.24 HORAS (OPCION 3)",
-     "image": "http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg",
+     "image": "https://www.mundoplus.tv/img/56cb0234e9bb92ca92a30677185829c5",
      "url": "http://direccion3/1:0:1:7738:416:1:C00000:0:0:0:"
                }, 
 ]
 },
 {                         
 "name": "LA 1",
-"image": "http://i.bssl.es/telelocura/2015/03/LOGO1.png",
+"image": "https://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487",
 "stations": [
 {
      "name": "LA 1",
-     "image": "http://i.bssl.es/telelocura/2015/03/LOGO1.png",
+     "image": "https://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487",
      "url": "http://direccion1/1:0:19:7863:41A:1:C00000:0:0:0:"                
                  }, 
 {
      "name": "LA 1 (OPCION 2)",
-     "image": "http://i.bssl.es/telelocura/2015/03/LOGO1.png",
+     "image": "https://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487",
      "url": "http://direccion2/1:0:19:7863:41A:1:C00000:0:0:0:"
                  }, 
 {
      "name": "LA 1 (OPCION 3)",
-     "image": "http://i.bssl.es/telelocura/2015/03/LOGO1.png",
+     "image": "https://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487",
      "url": "http://direccion3/1:0:19:7863:41A:1:C00000:0:0:0:"
                  }, 
 ]
 },
 {                         
 "name": "LA 2",
-"image": "http://www.monicaesgueva.com/wp-content/uploads/2013/04/logo_tve-2-7506991.png",
+"image": "https://www.mundoplus.tv/img/cf291e3717363bb955b2cff5a1bc4080",
 "stations": [
 {
      "name": "LA 2",
-     "image": "http://www.monicaesgueva.com/wp-content/uploads/2013/04/logo_tve-2-7506991.png",
+     "image": "https://www.mundoplus.tv/img/cf291e3717363bb955b2cff5a1bc4080",
      "url": "http://direccion1/1:0:1:77C2:40A:1:C00000:0:0:0:"                  
                  }, 
 {
      "name": "LA 2 (OPCION 2)",
-     "image": "http://www.monicaesgueva.com/wp-content/uploads/2013/04/logo_tve-2-7506991.png",
+     "image": "https://www.mundoplus.tv/img/cf291e3717363bb955b2cff5a1bc4080",
      "url": "http://direccion2/1:0:1:77C2:40A:1:C00000:0:0:0:"
                  }, 
 {
      "name": "LA 2 (OPCION 3)",
-     "image": "http://www.monicaesgueva.com/wp-content/uploads/2013/04/logo_tve-2-7506991.png",
+     "image": "https://www.mundoplus.tv/img/cf291e3717363bb955b2cff5a1bc4080",
      "url": "http://direccion3/1:0:1:77C2:40A:1:C00000:0:0:0:"
                  }, 
 ]
 },
 {                         
 "name": "ANTENA 3",
-"image": "http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg",
+"image": "https://www.mundoplus.tv/img/f61861fc891c9076ccad5a160b4abe78",
 "stations": [
 {
      "name": "ANTENA 3",
-     "image": "http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg",
+     "image": "https://www.mundoplus.tv/img/f61861fc891c9076ccad5a160b4abe78",
      "url": "http://direccion1/1:0:19:7534:426:1:C00000:0:0:0:"                
                  },
 {
      "name": "ANTENA 3 (OPCION 2)",
-     "image": "http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg",
+     "image": "https://www.mundoplus.tv/img/f61861fc891c9076ccad5a160b4abe78",
      "url": "http://direccion2/1:0:19:7534:426:1:C00000:0:0:0:"
                  },
 {
      "name": "ANTENA 3 (OPCION 3)",
-     "image": "http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg",
+     "image": "https://www.mundoplus.tv/img/f61861fc891c9076ccad5a160b4abe78",
      "url": "http://direccion3/1:0:19:7534:426:1:C00000:0:0:0:"
                  }, 
 ]
 },
 {                         
 "name": "CUATRO",
-"image": "http://www.cuartoderecha.com/archivos/post_0070.png",
+"image": "https://www.mundoplus.tv/img/4b608440f4c0896c754827571fde7fe4",
 "stations": [
 {
      "name": "CUATRO",
-     "image": "http://www.cuartoderecha.com/archivos/post_0070.png",
+     "image": "https://www.mundoplus.tv/img/4b608440f4c0896c754827571fde7fe4",
      "url": "http://direccion1/1:0:19:7535:426:1:C00000:0:0:0:"              
                  }, 
 {
      "name": "CUATRO (OPCION 2)",
-     "image": "http://www.cuartoderecha.com/archivos/post_0070.png",
+     "image": "https://www.mundoplus.tv/img/4b608440f4c0896c754827571fde7fe4",
      "url": "http://direccion2/1:0:19:7535:426:1:C00000:0:0:0:"
                  }, 
 {
      "name": "CUATRO (OPCION 3)",
-     "image": "http://www.cuartoderecha.com/archivos/post_0070.png",
+     "image": "https://www.mundoplus.tv/img/4b608440f4c0896c754827571fde7fe4",
      "url": "http://direccion3/1:0:19:7535:426:1:C00000:0:0:0:"
                  }, 
 ]
 },
 {                         
 "name": "TELECINCO",
-"image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",
+"image": "https://www.mundoplus.tv/img/704cf4d25200c57fcb183295db65078b",
 "stations": [
 {
      "name": "TELECINCO",
-     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",
+     "image": "https://www.mundoplus.tv/img/704cf4d25200c57fcb183295db65078b",
      "url": "http://direccion1/1:0:19:7536:426:1:C00000:0:0:0:"                
                 }, 
 {
      "name": "TELECINCO (OPCION 2)",
-     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",
+     "image": "https://www.mundoplus.tv/img/704cf4d25200c57fcb183295db65078b",
      "url": "http://direccion2/1:0:19:7536:426:1:C00000:0:0:0:"
                 }, 
 {
      "name": "TELECINCO (OPCION 3)",
-     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",
+     "image": "https://www.mundoplus.tv/img/704cf4d25200c57fcb183295db65078b",
      "url": "http://direccion3/1:0:19:7536:426:1:C00000:0:0:0:"
                 }, 
 ]
 },
 {                         
 "name": "LA SEXTA",
-"image": "https://afectadosventaviviendapublica.files.wordpress.com/2014/04/logo-de-la-sextaok.jpg",
+"image": "https://www.mundoplus.tv/img/5d3b4a38029df615858a2058042e618e",
 "stations": [
 {
      "name": "LA SEXTA",
-     "image": "https://afectadosventaviviendapublica.files.wordpress.com/2014/04/logo-de-la-sextaok.jpg",
+     "image": "https://www.mundoplus.tv/img/5d3b4a38029df615858a2058042e618e",
      "url": "http://direccion1/1:0:19:7537:426:1:C00000:0:0:0:"                 
                  }, 
 {
      "name": "LA SEXTA (OPCION 2)",
-     "image": "https://afectadosventaviviendapublica.files.wordpress.com/2014/04/logo-de-la-sextaok.jpg",
+     "image": "https://www.mundoplus.tv/img/5d3b4a38029df615858a2058042e618e",
      "url": "http://direccion2/1:0:19:7537:426:1:C00000:0:0:0:"
                  }, 
 {
      "name": "LA SEXTA (OPCION 3)",
-     "image": "https://afectadosventaviviendapublica.files.wordpress.com/2014/04/logo-de-la-sextaok.jpg",
+     "image": "https://www.mundoplus.tv/img/5d3b4a38029df615858a2058042e618e",
      "url": "http://direccion3/1:0:19:7537:426:1:C00000:0:0:0:"
                  },
 ]
 },
 {                         
 "name": "NEOX",
-"image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+"image": "https://www.mundoplus.tv/img/1d8fca31651b288e86a79c3cc11d89fb",
 "stations": [
 {
      "name": "NEOX",
-     "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+     "image": "https://www.mundoplus.tv/img/1d8fca31651b288e86a79c3cc11d89fb",
      "url": "http://direccion1/1:0:1:75FE:408:1:C00000:0:0:0:"                 
                  }, 
 {
      "name": "NEOX (OPCION 2)",
-     "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+     "image": "https://www.mundoplus.tv/img/1d8fca31651b288e86a79c3cc11d89fb",
      "url": "http://direccion2/1:0:1:75FE:408:1:C00000:0:0:0:"
                  }, 
 {
      "name": "NEOX (OPCION 3)",
-     "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+     "image": "https://www.mundoplus.tv/img/1d8fca31651b288e86a79c3cc11d89fb",
      "url": "http://direccion3/1:0:1:75FE:408:1:C00000:0:0:0:"
                  }, 
 ]
 },
 {                         
 "name": "DIVINITY",
-"image": "http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg",
+"image": "https://www.mundoplus.tv/img/308107b2b599fd4dd5ca2d4cb3c50d5f",
 "stations": [
 {
      "name": "DIVINITY",
-     "image": "http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg",
+     "image": "https://www.mundoplus.tv/img/308107b2b599fd4dd5ca2d4cb3c50d5f",
      "url": "http://direccion1/1:0:1:749A:41C:1:C00000:0:0:0:"                 
                  }, 
 {
      "name": "DIVINITY (OPCION 2)",
-     "image": "http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg",
+     "image": "https://www.mundoplus.tv/img/308107b2b599fd4dd5ca2d4cb3c50d5f",
      "url": "http://direccion2/1:0:1:749A:41C:1:C00000:0:0:0:"
                  }, 
 {
      "name": "DIVINITY (OPCION 3)",
-     "image": "http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg",
+     "image": "https://www.mundoplus.tv/img/308107b2b599fd4dd5ca2d4cb3c50d5f",
      "url": "http://direccion3/1:0:1:749A:41C:1:C00000:0:0:0:"
                  }, 	
 ]
 },
 {                         
 "name": "ENERGY",
-"image": "http://www.franciscodorado.com/web/wp-content/uploads/2014/01/Energy_logo__320.jpg",
+"image": "https://www.mundoplus.tv/img/aad967b4e9d3ad769e8cc6b31e458641",
 "stations": [
 {
      "name": "ENERGY",
-     "image": "http://www.franciscodorado.com/web/wp-content/uploads/2014/01/Energy_logo__320.jpg",
+     "image": "https://www.mundoplus.tv/img/aad967b4e9d3ad769e8cc6b31e458641",
      "url": "http://direccion1/1:0:1:749F:41C:1:C00000:0:0:0:"                 
                  }, 
 {
      "name": "ENERGY (OPCION 2)",
-     "image": "http://www.franciscodorado.com/web/wp-content/uploads/2014/01/Energy_logo__320.jpg",
+     "image": "https://www.mundoplus.tv/img/aad967b4e9d3ad769e8cc6b31e458641",
      "url": "http://direccion2/1:0:1:749F:41C:1:C00000:0:0:0:"
                  }, 
 {
      "name": "ENERGY (OPCION 3)",
-     "image": "http://www.franciscodorado.com/web/wp-content/uploads/2014/01/Energy_logo__320.jpg",
+     "image": "https://www.mundoplus.tv/img/aad967b4e9d3ad769e8cc6b31e458641",
      "url": "http://direccion3/1:0:1:749F:41C:1:C00000:0:0:0:"
                  }, 	
 ]
 },
 {                         
 "name": "FDF",
-"image": "http://2.bp.blogspot.com/-nHHLVoY88YI/VVIfW3PMAnI/AAAAAAAAdmw/3ZivPS_-s3M/s1600/fdf1.jpg",
+"image": "https://www.mundoplus.tv/img/c3908df885e2292dfe7c8f3c565125b2",
 "stations": [
 {
      "name": "FDF",
-     "image": "http://2.bp.blogspot.com/-nHHLVoY88YI/VVIfW3PMAnI/AAAAAAAAdmw/3ZivPS_-s3M/s1600/fdf1.jpg",
+     "image": "https://www.mundoplus.tv/img/c3908df885e2292dfe7c8f3c565125b2",
      "url": "http://direccion1/1:0:1:77BC:40A:1:C00000:0:0:0:"                 
                  }, 
 {
      "name": "FDF (OPCION 2)",
-     "image": "http://2.bp.blogspot.com/-nHHLVoY88YI/VVIfW3PMAnI/AAAAAAAAdmw/3ZivPS_-s3M/s1600/fdf1.jpg",
+     "image": "https://www.mundoplus.tv/img/c3908df885e2292dfe7c8f3c565125b2",
      "url": "http://direccion2/1:0:1:77BC:40A:1:C00000:0:0:0:"
                  }, 
 {
      "name": "FDF (OPCION 3)",
-     "image": "http://2.bp.blogspot.com/-nHHLVoY88YI/VVIfW3PMAnI/AAAAAAAAdmw/3ZivPS_-s3M/s1600/fdf1.jpg",
+     "image": "https://www.mundoplus.tv/img/c3908df885e2292dfe7c8f3c565125b2",
      "url": "http://direccion3/1:0:1:77BC:40A:1:C00000:0:0:0:"
                  }, 	
 ]
 },
 {                         
 "name": "NOVA",
-"image": "http://media.avtora.com/images/cut/600x450/articles/2011/09/27557.jpg",
+"image": "https://www.mundoplus.tv/img/00af9b187b42bde8c91261ead4366c82",
 "stations": [
 {
      "name": "NOVA",
-     "image": "http://media.avtora.com/images/cut/600x450/articles/2011/09/27557.jpg",
+     "image": "https://www.mundoplus.tv/img/00af9b187b42bde8c91261ead4366c82",
      "url": "http://direccion1/1:0:1:7469:3F0:1:C00000:0:0:0:"                 
                  }, 
 {
      "name": "NOVA (OPCION 2)",
-     "image": "http://media.avtora.com/images/cut/600x450/articles/2011/09/27557.jpg",
+     "image": "https://www.mundoplus.tv/img/00af9b187b42bde8c91261ead4366c82",
      "url": "http://direccion2/1:0:1:7469:3F0:1:C00000:0:0:0:"
                  }, 
 {
      "name": "NOVA (OPCION 3)",
-     "image": "http://media.avtora.com/images/cut/600x450/articles/2011/09/27557.jpg",
+     "image": "https://www.mundoplus.tv/img/00af9b187b42bde8c91261ead4366c82",
      "url": "http://direccion3/1:0:1:7469:3F0:1:C00000:0:0:0:"
                  },  	
 ]
 },
 {                         
-"name": "RT ESP",
-"image": "http://www.neonetmusic.com.ar/wp-content/uploads/2017/06/RT-Espa%C3%B1ol.png",
+"name": "BEMAD",
+"image": "https://www.mundoplus.tv/img/787fb042ebc0f5bacf8325c5e3fc0f40",
 "stations": [
 {
-     "name": "RT ESP",
-     "image": "http://www.neonetmusic.com.ar/wp-content/uploads/2017/06/RT-Espa%C3%B1ol.png",
+     "name": "BEMAD",
+     "image": "https://www.mundoplus.tv/img/787fb042ebc0f5bacf8325c5e3fc0f40",
      "url": "http://direccion1/1:0:1:1B65:3FC:1:C00000:0:0:0:"                 
                  }, 
 {
-     "name": "RT ESP (OPCION 2)",
-     "image": "http://www.neonetmusic.com.ar/wp-content/uploads/2017/06/RT-Espa%C3%B1ol.png",
+     "name": "BEMAD (OPCION 2)",
+     "image": "https://www.mundoplus.tv/img/787fb042ebc0f5bacf8325c5e3fc0f40",
      "url": "http://direccion2/1:0:1:1B65:3FC:1:C00000:0:0:0:"
                  }, 
 {
-     "name": "RT ESP (OPCION 3)",
-     "image": "http://www.neonetmusic.com.ar/wp-content/uploads/2017/06/RT-Espa%C3%B1ol.png",
+     "name": "BEMAD (OPCION 3)",
+     "image": "https://www.mundoplus.tv/img/787fb042ebc0f5bacf8325c5e3fc0f40",
      "url": "http://direccion3/1:0:1:1B65:3FC:1:C00000:0:0:0:"
-                 }, 
+                }, 
 ]
 },
 ]
 },
-{	  
-"name": "MUSICA",
-"image": "https://coobis.com/wp-content/uploads/2018/07/musica.jpg",
+{	  	  
+"name": "🎼MUSIC TV🎼",
+"image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-fXjvDjtVMGXYa-C3HjAiiijFoaddl59Lk4wQ1cFuO9vm04Oc",
 "stations": [
 {
-     "name": "90S MUSIC",
-     "image": "https://s-media-cache-ak0.pinimg.com/originals/a8/9e/46/a89e469a9b5ee3c2e5a11604ccdef7e6.png",
-     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8" 
+     "name": "LOVE HD",
+     "image": "http://lofrev.net/wp-content/photos/2014/11/Love-logo-e1415120840395.jpg",
+     "url": "http://xaliabalias.flashmediacast.com:1935/xaliabalias/livestream/playlist.m3u8" 
                 },
 {
-     "name": "CAPITAL TV",
-     "image": "https://vignette.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613",
-     "url": "http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on"                                           
-               },
-{
-     "name": "CITY TV",
-     "image": "https://i.ytimg.com/vi/Y8y_sEyS1I0/maxresdefault.jpg",
-     "url": "http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8"
-               },
-{
-     "name": "DELUXE MUSIC",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DeluxeMusic2013.svg/1200px-DeluxeMusic2013.svg.png",
-     "url": "http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8"
-               },
-{
-     "name": "DREAM TV",
-     "image": "http://vector.me/files/images/1/1/11221/dream_tv.png",
-     "url": "http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8"                                       
-               },
-{
-     "name": "FM TV",
-     "image": "https://pbs.twimg.com/profile_images/623745440178130944/wWFIYpIT.jpg",
-     "url": "http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8"                                           
+     "name": "METAL TV",
+     "image": "https://i.imgur.com/G9R4xyq.jpg",
+     "url": "http://autopilot.myowntv.org/content/33816/index.m3u8" 
                 },
 {
-     "name": "HARD LIFE",
-     "image": "https://orig00.deviantart.net/04d6/f/2007/009/0/0/hard_life_logo_by_sonictk.jpg",
-     "url": "http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8"                                                                  
+     "name": "1 MUSIC CHANNEL",
+     "image": "https://www.onlinetvplanet.com/wp-content/uploads/2017/09/First-Music-channel-Russia.png",
+     "url": "https://pbs.twimg.com/profile_images/879677753645309952/G2vqlMxX.jpg" 
                 },
 {
-     "name": "MUSIC CHANNEL",
-     "image": "http://live.moldova9.com/wp-content/uploads/1-music-channel1.png",
-     "url": "http://stream.1music.hu/stream/1music.m3u8"  
+     "name": "51 RADIO TV",
+     "image": "http://acrotv.com/images/broad/20181126130916498.png",
+     "url": "http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8"                                           
+               },
+{
+     "name": "CALIFORNIA MUSIC CHANNEL",
+     "image": "http://s3-us-west-2.amazonaws.com/gofobo/assets/screeningPartnerImages/1416860126.png",
+     "url": "http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8"             
+               },
+{
+     "name": "RADIO 105 TV",
+     "image": "https://ulango.tv/uploads/channels/3330050/logo_radio%20105%20tv.png",
+     "url": "http://fms.105.net:1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8"                                       
+               },
+{
+     "name": "CALIFORNIA MUSIC CHANNEL",
+     "image": "http://www.epochfailure.com/wp-content/uploads/2016/10/CMCjpg.jpg",
+     "url": "http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8"                                           
                 },
 {
      "name": "HIT MUSIC CHANNEL",
-     "image": "http://comptelnet.net/page/wp-content/uploads/2017/07/HiTMC_logo.png",
-     "url": "http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8"                                           
+     "image": "https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest/scale-to-width-down/300?cb=20160630155227",
+     "url": "http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8"                                                                  
                 },
 {
-     "name": "KRONEHITS",
-     "image": "https://cdn-radiotime-logos.tunein.com/s15532q.png",
-     "url": "http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8"                                                                                  
+     "name": "M2O",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo-m2o-plain-nero.jpg",
+     "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8"  
                 },
 {
-     "name": "M2O TV",
-     "image": "https://www.millecanali.it/wp-content/uploads/sites/16/2014/11/105841.jpg",
-     "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on"
+     "name": "MELODY CHANNEL",
+     "image": "http://directostv.teleame.com/wp-content/uploads/2017/10/melody-channel.png",
+     "url": "rtmp://186.155.200.118:1935/live/MelodyChannel"                                           
                 },
 {
-     "name": "MIMUSICA HD",
-     "image": "http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png",
-     "url": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8" 
+     "name": "MONTE CARLO TV",
+     "image": "https://www.freeetv.com/images/01_logo/radio_Tv_mont-carlo.jpg",
+     "url": "http://fms.105.net:1935/live/rmc1/playlist.m3u8"                                                                                  
                 },
 {
      "name": "NRJ HITS",
-     "image": "http://websitetv.16mb.com/images/NRJ-Hits-Tv.png",
-     "url": "http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8"
-                },
+     "image": "https://vignette.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png/revision/latest?cb=20100320133333",
+     "url": "http://5.196.138.6:1935/live/nrjbelgique/chunklist_w168258679.m3u8"
+	            },
+{
+     "name": "ONE 1",
+     "image": "http://online-red.com/images/tv/one-hd.png",
+     "url": "http://rtmp.one.by:1300"
+	            },
 {
      "name": "PLANETA HD",
-     "image": "https://i.ytimg.com/vi/rko-HTa3_SI/maxresdefault.jpg",
-     "url": "http://84.43.207.130/planetahd/planetahd.m3u8"  
+     "image": "https://image.roku.com/developer_channels/prod/8d6768dfc5a814985809adaa6cc4a01fb672c0a0e96145e2c878c6508ec4e57a.png",
+     "url": "http://84.43.207.130/planetahd/planetahd.m3u8?JoCaRoIPTV.m3u8"
+	            },
+{
+     "name": "PORTAL FOX MIX TV",
+     "image": "https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg",
+     "url": "http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8"
+	            },
+{
+     "name": "RADIO 105 TV",
+     "image": "http://3.bp.blogspot.com/-1SwsirtQg_Q/U25qNoZtaOI/AAAAAAAABK4/H2MgOyHlA_w/s1600/Radio+105+tv.png",
+     "url": "http://fms.105.net:1935/live/105Test1/livestream.m3u8?JoCaRoIPTV.m3u8"
                 },
 {
-     "name": "POP TV",
-     "image": "https://pbs.twimg.com/profile_images/699341599755649024/rD_8o8Lo.png",
-     "url": "http://46.101.21.42:8081/live/live2/playlist.m3u8"
+     "name": "RADIO BRUNO",
+     "image": "https://cdn-radiotime-logos.tunein.com/s63651d.png",
+     "url": "http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8"                 
                 },
 {
-     "name": "POP & COUNTRY",
-     "image": "http://www.popgoesthecountry.com/wp-content/uploads/2015/10/Pop_Goes_the_Country_Logo.png",
-     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8"  
+     "name": "RN1 TV",
+     "image": "https://i.ytimg.com/vi/Wo9H2BHAOHg/maxresdefault.jpg",
+     "url": "http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8" 
                 },
 {
-     "name": "POP HITS",
-     "image": "http://2.bp.blogspot.com/-ehGKVoz2bLc/UWWU9y64BNI/AAAAAAAAAfg/uIoyA3qmEc0/s1600/pop+hits+bubble+logo.png",
-     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8" 
-                },
-{
-     "name": "POP LATINO",
-     "image": "https://i.ytimg.com/vi/pGTdqZf04nY/maxresdefault.jpg",
-     "url": "http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8"
+     "name": "U TV",
+     "image": "https://www.arax.md/assets/channels/153.png",
+     "url": "http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8"                             
                },
 {
-     "name": "ONE HD",
-     "image": "http://www.siteoffline.com/news/siteoffline_one_hd.jpg",
-     "url": "http://server5.stweb.tv/radioone/live/playlist.m3u8" 
-                },
-{
-     "name": "RETRO TV",
-     "image": "http://www.tvnewscheck.com/marketshare/wp-content/uploads/2017/07/logo.png",
-     "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" 
-                },
-{
-     "name": "ROCK TV",
-     "image": "https://orig00.deviantart.net/7ec0/f/2016/231/e/2/catali2016_s_logo_remake__rock_tv_logo_2016_by_catali2016-daekqxh.png",
-     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8" 
-                },
-{
-     "name": "ROCK NACIONAL",
-     "image": "http://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/597/500",
-     "url": "http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8"
-               },
-{
-     "name": "TELERITMO",
-     "image": "http://www.ethnicchannels.com/images/channeldetail/teleritmo/teleritmo-logo.png",
-     "url": "http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8"
-               },
-{
-     "name": "TOP LATINO",
-     "image": "http://www.liveradio.ie/files/images/119710/resized/180x172c/logo_toplatino_300x300.jpg",
-     "url": "http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8"
-               },
-{
-     "name": "TROPICAL MUSIC",
-     "image": "http://static.wixstatic.com/media/7060b5_aa840bf35ab2076d2a65b969b8437682.png_256",
-     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8"
-               },
-{
-     "name": "VIRGIN TV",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_virgin_radio_tv.png/1200px-Logo_virgin_radio_tv.png",
-     "url": "http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8"                                                     
-                },
+     "name": "XITE",
+     "image": "https://media.glassdoor.com/sqll/1363594/xite-networks-international-squarelogo-1473233631406.png",
+     "url": "http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w352906817.m3u8"              
+	      },
 ]
 },
 {
-"name": "RADIO",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgLXcN7i3HNkylLhMod5pDJrPVwKR0V1FZuAXlB03twCBjsEBi",
+"name": "📺IPTV📺",
+"image": "https://http2.mlstatic.com/iptv-chile-hd-1-mes-premium-chile-2-dispositivos-D_NQ_NP_622472-MLC26030950850_092017-F.jpg",
 "stations": [
-{
-     "name": "TRANCE",
-     "image": "http://www.mixjunkies.com/wp-content/uploads/2011/06/i-love-trance-music.jpg",
-     "url": "http://icecast.pulsradio.com:80/pulstranceHD.mp3"
-               },
-{
-     "name": "PLUS RADIO",
-     "image": "http://www.locucionar.com/images/logo_radio_plus.png",
-     "url": "http://icecast.pulsradio.com/relaxHD.mp3"
-               },
-{
-     "name": "HOTMIX RADIO ROCK",
-     "image": "http://cdn-radiotime-logos.tunein.com/s54693q.png",
-     "url": "http://hotmixradio-rock.ice.infomaniak.ch/hotmixradio-rock-128.mp3"
-               },
-{
-     "name": "HOTMIX RADIO METAL",
-     "image": "http://cdn-radiotime-logos.tunein.com/s105876q.png",
-     "url": "http://hotmixradio-metal.ice.infomaniak.ch/hotmixradio-metal-128.mp3"
-               },
-{
-     "name": "HOTMIX RADIO DANCE",
-     "image": "http://coulissesmedias.com/wp-content/uploads/2013/02/hot_mix_radio.jpg",
-     "url": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-dance-128.mp3"
-               },
-{
-     "name": "DANCE RADIO",
-     "image": "http://www.webradio-annuaire.com/wp-content/uploads/2014/12/logo-Original-Facebook.png",
-     "url": "http://mp3stream4.abradio.cz:8000/dance128.mp3"                                                                                  
-                 },
-{
-     "name": "EUROPA FM",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqyknNQ5P7_U7zuhU-YOF1HiiQHBSJ1sgdwAy86K3nz1XK3Isbhw",
-     "url": "http://stream.irratia.net/1?1426452457556.aac"                
-                 },
-{
-     "name": "KISS FM",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkIxHlsNrqojh63OYKFAvfcq2RemcoUi8-ZS-zDPoTtgxMyhaHg",
-     "url": "http://kissfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3?1426453111785.mp3"                                             
-                 },
-{
-     "name": "HIT FM",
-     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi6bFDWkoMUvNvwJYx60AoPVZ2rOs_vRyn6vFp-TVU8dLa9jzF",
-     "url": "http://hitfm.es.audio1.glb.ipercast.net:8000/hitfm.es/mp3?1426453977542.mp3"                
-                 },
-{
-     "name": "IBIZA GLOBAL RADIO",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUEqzzmfABGmVleVR9Wy5o_UxYU98se0SiqWH8PLwlWRrCn63Lg",
-     "url": "http://ibizaglobalradio.streaming-pro.com:8024/;stream/1?1426454233880.mp3"                                                
-                 },	
-{
-     "name": "RADIO LATINA",
-     "image": "http://3.bp.blogspot.com/__v5LX99CUOA/S0zmpqg2bzI/AAAAAAAAACI/Vu2fP54lOoM/s320/17915_logo.jpg",
-     "url": "http://broadcast.infomaniak.net/start-latina-high.aac"                                              
-                 },	
-{
-     "name": "CADENA SER",
-     "image": "http://www.vectorlogo.es/wp-content/uploads/2015/10/logo-vector-cadena-ser.jpg",
-     "url": "http://18973.live.streamtheworld.com/CADENASER.mp3?hash=1487449917310.mp3"
-                 },	
-{
-     "name": "MELODIA FM",
-     "image": "https://lh4.ggpht.com/7JNhiILHkbwor_Hi_D1vcyyXC3CLKSmiXti5TPS6kWNAC1x-yNmmmTnN3fJnKfdm4Pjj=w300",
-     "url": "http://icecast-streaming.nice264.com/melodiafm?hash=1487597991614.mp3"
-                 },	
-{
-     "name": "RADIO MARCA",
-     "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Radiomarca1.jpg",
-     "url": "http://radioweb.radiomarcabarcelona.com:9000/stream"
-                 },	
-{
-     "name": "LA COPE",
-     "image": "http://diegomattarucco.com/wp-content/uploads/2016/09/cadenacope.png",
-     "url": "http://195.55.74.212/cope/net1.mp3"                  
-                 },	
-{
-     "name": "CADENA 100",
-     "image": "http://en-directo.frequence-radio.com/img/cadena-100.jpg",
-     "url": "http://195.55.74.212/cope/cadena100-low.mp3" 
-                 },	
-{
-     "name": "EUROPA FM",
-     "image": "http://static.radio.es/images/broadcasts/99/13/4935/c175.png",
-     "url": "http://icecast-streaming.nice264.com/europafm?hash=1479898610785.mp3" 
-                 },	
-{
-     "name": "LOS 40",
-     "image": "http://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png",
-     "url": "http://17893.live.streamtheworld.com/LOS40.mp3?csegid=2000&tdsdk=js-2.8&pname=TdPlayerApi&pversion=2.8&streamtheworld_user=1&sbmid=1d7b6bd1-256f-4868-b479-6ee9814effcc"                                         
-                },  
-]
-},
-{
-"name": "MEGADEDE",
-
-"image": "https://tuelectronica.es/wp-content/uploads/2018/09/megadede-500x312.jpg",
-
-"stations": [
-
 {
           
-        "name": "MEGADEDE",
+        "name": "IPTV MOVISTAR",
+        "image": "https://sc02.alicdn.com/kf/HTB1iccQJVXXXXchXXXXq6xXFXXXD/IPTV-Playlist-SPAIN-channel-TV-m3u.jpg_350x350.jpg",
+        "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
+        "userAgent": "exoplayer_video",
+        "isHost": true 
+                 },
+{             
+          "name": "TV POR INTERNET",
+          "image": "https://i.ytimg.com/vi/JJ4eq9EDTSE/maxresdefault.jpg",
+          "userAgent": "Mozilla/5.0 (Linux; Android 5.1.1; Build/LMY48U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Safari/537.36", 
+          "url": "http://tvpor-internet.net/channels",
+           "embed" : "true"   
+               },
+{
+          
+        "name": "IPTV AUTONOMICOS",
+        "image": "https://confilegal.com/wp-content/uploads/2018/02/Captura-de-pantalla-2018-02-01-a-las-19.00.06.png",
+        "url": "https://pastebin.com/raw/a0Q8tizC#.m3u",
+        "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
+        "isHost": true	
+                },
+{
+          
+        "name": "IPTV SPORTS",
+        "image": "https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg",
+        "url": "https://pastebin.com/raw/bbfxgyRM#.m3u",
+        "userAgent": "exoplayer_video",
+        "isHost": true 
+		},
+]
+},
+{
+"name": "📺SERIES Y PELICULAS📺",
+"image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+"stations": [
+{
+          
+        "name": "TV-VIP-SERIES. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
 
-        "image": "https://tuelectronica.es/wp-content/uploads/2018/09/megadede-500x312.jpg",
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "http://tv-vip.com/section/series/",
 
-        "url": "https://www.megadede.com/",
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+		 },
+{
+          
+        "name": "TV-VIP-NOVEDADES-SERIES. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "http://tv-vip.com/section/000-novedades/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+		 },
+{
+          
+        "name": "DEPLAY-SERIES. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://es.dplay.com/series/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": "" 
+                },
+{
+          
+        "name": "INKASERIES.TV. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://www.inkaseries.tv/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                },
+{
+          
+        "name": "VERSERIESONLINE.COM. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "http://www.veseriesonline.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""	
+		},
+{
+          
+        "name": "TV-VIP-PELICULAS. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "http://tv-vip.com/section/peliculas/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""              
+		},
+{
+          
+        "name": "SOLOCASTELLANO. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "http://www.solocastellano.com/lista-de-peliculas/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                },
+{
+          
+        "name": "CANAL PELIS.COM. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://canalpelis.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""	
+                  },
+{
+          
+        "name": "CINECALIDAD.TO. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://www.cinecalidad.to/espana/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                  },
+{
+          
+        "name": "CINEDETODO.COM. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://www.goserieshd.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""	
+                   },
+{
+          
+        "name": "CINEFOX.TV. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "http://www.cinefox.tv/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                  },
+{
+          
+        "name": "CINEMAHD.CO. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://www.cinemahd.co/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                  },
+{
+          
+        "name": "CUEVANA2ESPAÑOL. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://cuevana2espanol.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                  },
+{
+          
+        "name": "DOSPELIS.NET. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://www.dospelis.net/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                  },
+{
+          
+        "name": "ESTADEPELIS.COM. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "http://www.estadepelis.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                },
+{
+          
+        "name": "GNULAMOBI. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://gnula.mobi/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""
+                  },
+{
+          
+        "name": "ULTRAPELICULASHD. Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://4.bp.blogspot.com/-wU6b8S64PoQ/T7FPsITM4iI/AAAAAAAAABo/-OQRcpHwu-U/s1600/all-time-low-logo--large-msg-128549189713.jpg",
+		
+        "url": "https://www.ultrapeliculashd.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""				
+		  },		 
+]
+},
+{
+"name": "🌏DOCUMANIATV🌏",
+"image": "https://farmacon.files.wordpress.com/2008/10/documentales.jpeg?w=639",
+"stations": [
+{
+          
+        "name": "DOCUMANIATV.Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "https://images-na.ssl-images-amazon.com/images/I/31ygXifusmL._AA300_.jpg",
+
+        "url": "https://www.documaniatv.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""  	
+              },
+{
+          
+        "name": "AREA DOCUMENTAL.Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "http://3.bp.blogspot.com/-ddq0WzBtzMs/UxR1lFU8AoI/AAAAAAAAHpM/WrxQ8cl102k/s1600/documentales.png",
+
+        "url": "http://www.area-documental.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": "" 
+               },
+{
+          
+        "name": "DOCUMENTALES ONNLINE.Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "https://www.docuciencia.es/wp-content/uploads/2019/03/Documentales-de-historia-online.jpg",
+
+        "url": "https://www.documentales-online.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": "" 
+               },
+{
+          
+        "name": "PLANETA DOCUMENTAL.Dar en el simbolo de PLAY ️ ▶️ arriba lado derecho, para saltar los anuncios y reproducir a pantalla completa.",
+
+        "image": "https://www.planetadocumental.com/wp-content/uploads/2017/05/banner-pd.jpg",
+
+        "url": "https://www.planetadocumental.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": "" 	
+              },
+]
+},
+{
+"name": "📰PRENSA📰",
+"image": "http://4.bp.blogspot.com/_477yC4t6kRY/TPTXy-JKoxI/AAAAAAAAACs/OzohT2Z5eQY/s1600/UTILIZAN+LOGO+DE+PRENSA.jpg",
+"stations": [
+{
+          
+        "name": "KIOSKO.NET",
+
+        "image": "https://soyotroblog.files.wordpress.com/2008/10/kiosko.jpg",
+
+        "url": "http://kiosko.net/es/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""   	                                                         
+               },
+{
+          
+        "name": "LASPORTADAS.ES",
+
+        "image": "https://4.bp.blogspot.com/-I04gKW69KZ8/XL6ycqGCG5I/AAAAAAABpW0/nIhYzWFoZ28PCn11OLf4bH9OX-eXYxlAgCLcBGAs/s1600/debate2.png",
+
+        "url": "https://www.lasportadas.es/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": "" 
+                },
+{
+          
+        "name": "LA PRENSA DIARIA",
+
+        "image": "https://impresa.prensa.com/static/LPRPrensa/images/laprensa-logo-share.png",
+
+        "url": "https://www.laprensadiaria.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""   	                                                         
+               },
+]
+},
+{
+"name": "📻RADIO📻",
+"image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrtK-eUrAUNr6OVFuZFyCtHqIx00kvmfoalrFFr78HMenUax2TlA",
+"stations": [
+{
+          
+        "name": "GUIA RADIO",
+
+        "image": "http://2.bp.blogspot.com/__DMNHlEIrg0/TOLqHKg_s5I/AAAAAAAAACA/1xM4XxIfUk4/s1600/radiooo.jpg",
+
+        "url": "http://www.guia-radio.com/",
 
         "embed": "TRUE",
 
@@ -1974,22 +2987,13 @@
 
         "isHost": ""                             
               },
-]
-},
-{
-"name": "📽REPELISPLUS📽",
-
-"image": "https://k61.kn3.net/taringa/D/A/C/D/5/E/Meloku69/E5A.jpg",
-
-"stations": [
-
 {
           
-        "name": "REPELISPLUS",
+        "name": "RADIO ESPAÑA",
 
-        "image": "https://k61.kn3.net/taringa/D/A/C/D/5/E/Meloku69/E5A.jpg",
+        "image": "http://images.clipartpanda.com/radio-clipart-clip-art-radio-922169.jpg",
 
-        "url": "https://www.repelisplus.com/",
+        "url": "http://radio-espana.com/",
 
         "embed": "TRUE",
 
@@ -1999,6 +3003,247 @@
 
         "isHost": ""                             
               },
+{
+          
+        "name": "ESPAÑA FM",
+
+        "image": "http://cdn5.dibujos.net/dibujos/pintados/201112/26364361e72baae5913f182cb11f73b7.png",
+
+        "url": "http://www.espana.fm/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""                             
+              },
+{
+          
+        "name": "EMISORA.ES",
+
+        "image": "http://cdn5.dibujos.net/dibujos/pintados/201046/777de82a2f793e46637e168261feaeab.png",
+
+        "url": "http://www.emisora.org.es/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""                             
+               },
+]
+},
+{
+"name": "📽ESTRENOS📽",
+"image": "https://lh3.googleusercontent.com/yafKqs0s0b-lLhOXzQXYxlgv-a6zRidBZX6aFeudGTuiziO6kPXogmWxCYRKYnSs2dW0=w300",
+"stations": [
+{
+			"image": "https://turquesanews.mx/wp-content/uploads/2019/01/spider-man-lejos-de-casa-teaser-trailer.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Spider-Man: Lejos de casa",
+			"url": "http://streamcloud.eu/hagwjfg3k55n/sp1d3rm4n.f4r.fr0m.h0m3.2019.ts.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/03/15/15526490172236.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Dolor y gloria",
+			"url": "http://streamcloud.eu/qbs4vais9fsq/d0l0r.y.gl0r14.2019.ts.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i2.wp.com/micartelera.com.ar/novedades/wp-content/uploads/2019/01/Escape-Room-Sin-Salida.png?fit=828%2C315&ssl=1",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Escape Room: Sin salida",
+			"url": "http://streamcloud.eu/fwmpqnf6dhb5/3sc4p3.r00m.2019.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "http://admin.cripto247.com/wp-content/uploads/2019/03/Screen-Shot-2019-03-13-at-16.47.19.png",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Crypto",
+			"url": "http://streamcloud.eu/y0317xdw2104/Crypto.720.HDRip.cast.mp4.html"                             	                  
+              },
+{
+			"image": "https://occ-0-987-990.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABUgLCSKqGg4frCZUR5daSHsXTyfIcnlZWpkJ-Fdnz1zuWkeSd7tBc-ChMGLcnYB31p2XuV81QLLJZad-dIaTFftIvoaphYZTIQ.jpg?r=6b7",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Shaft",
+			"url": "http://streamcloud.eu/hyjko9v4g0gw/sh4ft.2019.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/z_CxQ993uuY/maxresdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Pet Sematary (Cementerio de animales)",
+			"url": "http://streamcloud.eu/0k05vu7yu4jn/p3t.s3m4t4ry.2019.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "http://e.cinescape.americadigital.pe/ima/0/0/2/3/8/238726.png",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Capitana Marvel",
+			"url": "http://streamcloud.eu/4yjbejvxqv2t/c4pt41n.m4v3l.2019.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://occ-0-990-987.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABWC9gTe1OSXvJg7_aM1EU4t_r7CJ8pRGIRllGAIjCsPVqiCqtXae5UyqYRtshcSNE79TUXEHuueuBYsTy424df1AIUi7kfpMqmETP1YwYgJHh22KhHg.jpg?r=b44",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Rim of the World (Campamento en el fin del mundo)",
+			"url": "http://streamcloud.eu/lrz07qwwxp7d/r1m.0f.th3.w0rld.2019.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/FuFGkz_uYns/maxresdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "The House That Jack Built (La casa de Jack)",
+			"url": "http://streamcloud.eu/wjv8rkv8pbcc/th3.h0us3.th4t.j4ck.bu1lt.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/fz6ZlRiUr1Q/hqdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Un caballero y su revolver",
+			"url": "http://streamcloud.eu/3e3fxmmkjd2p/th3.0ld.m4n.4nd.th3.gun.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://morirparacontar.com/wp-content/uploads/2018/09/MORIR-PARA-CONTAR-PORTADA.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Morir para contar",
+			"url": "http://streamcloud.eu/338snm5c5d0n/m0r1r.p4r4.c0nt4r.2019.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/mzTyQD1ai1k/maxresdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "The Hate U Give (El odio que das)",
+			"url": "http://streamcloud.eu/sla9i4rp4urf/th3.h4t3.u.g1v3.2018.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i0.wp.com/cinefilosfrustrados.com/wp-content/uploads/2019/05/See-You-Yesterday-NETFLIX.jpg?fit=800%2C600&ssl=1&resize=1280%2C720",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "See You Yesterday (Nos vemos ayer)",
+			"url": "http://streamcloud.eu/oj61a6e4qtik/s33.y0u.y3st3rd4y.2019.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://4.bp.blogspot.com/-fcFf6FHFxL8/XH2KZBKpVXI/AAAAAAAAn3s/GKhUBUxHmHciAHqL0hLjn-qbG7pkuLSWQCLcBGAs/s1600/Sobibor_FC_WebCont_670x250px.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Sobibor",
+			"url": "http://streamcloud.eu/tae10xb010cq/s0b1b0r.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://cr00.epimg.net/radio/imagenes/2019/03/31/de_pelicula/1554047350_388447_1554047606_noticia_normal.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Mary Queen of Scots (Las dos reinas)",
+			"url": "http://streamcloud.eu/zd3h1j8bs3u3/m4ry.qu33n.0f.sc0ts.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://1.bp.blogspot.com/-M4tXrsvkTQY/XI1gn0KNeeI/AAAAAAAAEBY/r-yOy2WyK_cFJRgSuVXWAhdtDBRXnhD-QCLcBGAs/s1600/1551397314.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Slaughterhouse Rulez",
+			"url": "http://streamcloud.eu/5bdkw9mgxq1o/sl4ught3rh0us3.rul3z.2018.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://cineoculto.com/wp-content/uploads/2019/02/PortadasOsitoMedia-20.png",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "The Mule (La mula)",
+			"url": "http://streamcloud.eu/d90raedxw6k7/th3.mul3.2019.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/1ZIcL95jWSA/maxresdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Blue Iguana",
+			"url": "http://streamcloud.eu/wqd2fcyhb769/blu3.1gu4n4.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/x49zKh4tQUQ/maxresdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Gräns (Border)",
+			"url": "http://streamcloud.eu/j3mvw2r8fviv/b04rd3r.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/gXbR3zonMRk/maxresdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Astérix: Le secret de la potion magique",
+			"url": "http://streamcloud.eu/gh8cr3l3nzgu/4st3r1x.l3.s3cr3t.d3.l4.p0t10n.m4g1qu3.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://cineoculto.com/wp-content/uploads/2018/12/white-boy-rrick.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "White Boy Rick",
+			"url": "http://streamcloud.eu/r1s986e0b5pp/wh1t3.b0y.r1ck.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "http://destinoarrakis.com/wp-content/uploads/2019/01/5808491-707x450.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Loro 1 (Silvio y los Otros)",
+			"url": "http://streamcloud.eu/y8hbgptmgmkk/l0r0.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "http://cinecelluloid.com/wp-content/uploads/2018/08/Arizona-movie-poster.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Arizona",
+			"url": "http://streamcloud.eu/o1f950e7zdt6/4r1z0n4.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/2oqWmX7GVt0/hqdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Boy Erased (Corazón borrado)",
+			"url": "http://streamcloud.eu/hm2k2mzyqjlq/b0y.3r4s3d.2018.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i.ytimg.com/vi/SDpmIXJ-lCk/maxresdefault.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Gente que viene y bah",
+			"url": "http://streamcloud.eu/vh9gt03ljr57/g3nt3.v13n3.y.b4h.2019.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://www.dosismedia.com/wp-content/uploads/2018/12/thekidwhowillbeking.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Nacido para ser rey",
+			"url": "http://streamcloud.eu/ao20381qtjhc/th3.k1d.wh0.w0uld.b3.k1ng.2018.brrs.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://i2.wp.com/www.mirales.es/wp-content/uploads/2019/05/a-pesar-de-todo-amaia-salamanca.jpg?fit=450%2C315",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "A pesar de todo",
+			"url": "http://streamcloud.eu/33wzxbzqkji7/4.p3s4r.d3.t0d0.2019.hdrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://3.bp.blogspot.com/-iCc9UuVzcV4/XB24N73WcLI/AAAAAAAAEn4/nIGjJjzlwSAALvUbHHxohj25915enQ3uACKgBGAs/s0-d/All%2BThe%2BDevil%2527s%2BMen%2BDVD%2BCover.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "All the Devil’s Men",
+			"url": "http://streamcloud.eu/h4w41lltdcgz/4ll.th3.d3v1ls.m3n.2018.brrip.720p.castellano.mp4.html"                             	                  
+              },
+{
+			"image": "https://m.media-amazon.com/images/M/MV5BODMzMjlmZTYtOGU2NS00NGM2LWI4ZDItNzQzYTYwNDA2ZmU4XkEyXkFqcGdeQXRzdGFzaWVr._V1_CR21,0,939,528_AL_UY268_CR10,0,477,268_AL_.jpg",
+			"imageScale": "centerCrop",
+			"isHost": true,
+			"name": "Alita: Ángel de combate",
+			"url": "http://streamcloud.eu/7kya5upjuzrd/4l1t4.b4ttl3.4ng3l.2019.tchq.castellano.mp4.html"                             	                  
+              },                                                             
 ]
 },
 ]

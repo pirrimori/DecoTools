@@ -58,9 +58,6 @@
       <HintPath>..\..\..\..\Desktop\RECURSOS GUI MODERN\Bunifu_UI_v1.5.3.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
-    <Reference Include="SimpleTCP, Version=1.0.24.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SimpleTCP.1.0.24\lib\net45\SimpleTCP.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Management" />
@@ -90,24 +87,6 @@
     <Compile Include="FormCccam.Designer.cs">
       <DependentUpon>FormCccam.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormDescargas.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormDescargas.Designer.cs">
-      <DependentUpon>FormDescargas.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormDownload.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormDownload.Designer.cs">
-      <DependentUpon>FormDownload.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormFtp.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormFtp.Designer.cs">
-      <DependentUpon>FormFtp.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormIptv.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -132,6 +111,12 @@
     <Compile Include="FormOpenwebif.Designer.cs">
       <DependentUpon>FormOpenwebif.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormOtros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOtros.Designer.cs">
+      <DependentUpon>FormOtros.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -149,12 +134,6 @@
     </Compile>
     <Compile Include="FormOscam.Designer.cs">
       <DependentUpon>FormOscam.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormTelnetCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormTelnetCliente.Designer.cs">
-      <DependentUpon>FormTelnetCliente.cs</DependentUpon>
     </Compile>
     <Compile Include="FormTutoriales.cs">
       <SubType>Form</SubType>
@@ -176,15 +155,6 @@
     <EmbeddedResource Include="FormCccam.resx">
       <DependentUpon>FormCccam.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormDescargas.resx">
-      <DependentUpon>FormDescargas.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormDownload.resx">
-      <DependentUpon>FormDownload.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormFtp.resx">
-      <DependentUpon>FormFtp.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormIptv.resx">
       <DependentUpon>FormIptv.cs</DependentUpon>
     </EmbeddedResource>
@@ -197,6 +167,9 @@
     <EmbeddedResource Include="FormOpenwebif.resx">
       <DependentUpon>FormOpenwebif.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormOtros.resx">
+      <DependentUpon>FormOtros.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -206,9 +179,6 @@
     <EmbeddedResource Include="FormOscam.resx">
       <DependentUpon>FormOscam.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormTelnetCliente.resx">
-      <DependentUpon>FormTelnetCliente.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormTutoriales.resx">
       <DependentUpon>FormTutoriales.cs</DependentUpon>
     </EmbeddedResource>
@@ -217,20 +187,38 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="app.manifest" />
     <None Include="packages.config" />
+    <None Include="Properties\DataSources\DecoTools_V2._0.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\DecoTools_V2._0.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\FormAcercade.datasource" />
+    <None Include="Properties\DataSources\FormCccam.datasource" />
+    <None Include="Properties\DataSources\FormDescargas.datasource" />
+    <None Include="Properties\DataSources\FormDownload.datasource" />
+    <None Include="Properties\DataSources\FormFtp.datasource" />
+    <None Include="Properties\DataSources\FormIptv.datasource" />
+    <None Include="Properties\DataSources\FormListas.datasource" />
+    <None Include="Properties\DataSources\FormMessageBox.datasource" />
+    <None Include="Properties\DataSources\FormNcam.datasource" />
+    <None Include="Properties\DataSources\FormOpenwebif.datasource" />
+    <None Include="Properties\DataSources\FormOscam.datasource" />
+    <None Include="Properties\DataSources\FormPrincipal.datasource" />
+    <None Include="Properties\DataSources\FormTelnetCliente.datasource" />
+    <None Include="Properties\DataSources\FormTutoriales.datasource" />
+    <None Include="Properties\DataSources\FormWiseplay.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -243,9 +231,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\info.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Plantilla_Openwebif.m3u" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\advertencia.png" />
@@ -264,6 +249,23 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ncam.server" />
+    <None Include="Resources\oscam.server" />
+    <None Include="Resources\Plantilla_Openwebif.m3u" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADULTOS_sorys.m3u" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DEPORTES_sorys.m3u" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Movistar+ IPLUS_sorys.m3u" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Movistar_epg_carlos.m3u" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

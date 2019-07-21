@@ -61,12 +61,32 @@ namespace DecoTools_V2._0.Properties {
         }
         
         /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Byte[].
+        /// </summary>
+        internal static byte[] ADULTOS_sorys {
+            get {
+                object obj = ResourceManager.GetObject("ADULTOS_sorys", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap advertencia {
             get {
                 object obj = ResourceManager.GetObject("advertencia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Byte[].
+        /// </summary>
+        internal static byte[] DEPORTES_sorys {
+            get {
+                object obj = ResourceManager.GetObject("DEPORTES_sorys", resourceCulture);
+                return ((byte[])(obj));
             }
         }
         
@@ -87,6 +107,46 @@ namespace DecoTools_V2._0.Properties {
             get {
                 object obj = ResourceManager.GetObject("info", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Byte[].
+        /// </summary>
+        internal static byte[] Movistar__IPLUS_sorys {
+            get {
+                object obj = ResourceManager.GetObject("Movistar__IPLUS_sorys", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Byte[].
+        /// </summary>
+        internal static byte[] Movistar_epg_carlos {
+            get {
+                object obj = ResourceManager.GetObject("Movistar_epg_carlos", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Byte[].
+        /// </summary>
+        internal static byte[] ncam {
+            get {
+                object obj = ResourceManager.GetObject("ncam", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Byte[].
+        /// </summary>
+        internal static byte[] oscam {
+            get {
+                object obj = ResourceManager.GetObject("oscam", resourceCulture);
+                return ((byte[])(obj));
             }
         }
         

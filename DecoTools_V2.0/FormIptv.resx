@@ -120,6 +120,13 @@
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <data name="label5.Text" xml:space="preserve">
+    <value>-Nota: 
+Entrar al decodificador por ftp y añadir el archivo userbouquet.ListaIPTV.tv dentro de etc/enigma2.
+Modificar el archivo etc(enigma2/bouquets.tv añadiendo al final la siguiente linea:
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ListaIPTV.tv" ORDER BY bouquet
+Guardar cambios y reiniciar el deco.</value>
+  </data>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>52</value>
   </metadata>

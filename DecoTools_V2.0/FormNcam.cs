@@ -10,7 +10,6 @@ using System.Windows.Forms;
 using System.IO;
 using Tulpep.NotificationWindow;
 using System.Threading;
-using System.IO;
 
 namespace DecoTools_V2._0
 {
@@ -54,7 +53,10 @@ namespace DecoTools_V2._0
                 int contador = 1;
                 string cadena = "Mi cadena";
                 StreamReader reader = new StreamReader(auxiliar);
-                File.AppendAllText(rutaNueva, "# ncam.server for NCAM" + Environment.NewLine + Environment.NewLine);
+                byte[] serverNcam = null;
+                serverNcam = Properties.Resources.ncam;
+                string plantilla = System.Text.Encoding.UTF8.GetString(serverNcam);
+                File.AppendAllText(rutaNueva, plantilla + Environment.NewLine + Environment.NewLine);
 
                 while (cadena != null)
                 {
@@ -90,14 +92,14 @@ namespace DecoTools_V2._0
                             return;
                         }
                         string host = clines[1];
-                        string puerto = clines[2];
+                        string port = clines[2];
                         string user = clines[3];
                         string pass = clines[4];
-                        texto = texto.Replace("label=remote_cccam", "label=remote_cccam" + contador);
-                        texto = texto.Replace("description=remote_cccam", "description=remote_cccam" + contador);
-                        texto = texto.Replace("host,puerto", host + "," + puerto);
-                        texto = texto.Replace("user=user", "user=" + user);
-                        texto = texto.Replace("password=pass", "password=" + pass);
+                        texto = texto.Replace("Server_", "Server_" + contador);
+                        //texto = texto.Replace("description=remote_cccam", "description=remote_cccam" + contador);
+                        texto = texto.Replace("ip,puerto", host + "," + port);
+                        texto = texto.Replace("usuario", user);
+                        texto = texto.Replace("contraseña", pass);
                         contador++;
                     }
                     catch
@@ -118,35 +120,6 @@ namespace DecoTools_V2._0
             }
             else
                 not.PopupNotificacion(Properties.Resources.error, "Cancelado por el usuario.", "Ncam");
-        }
-
-        //static void Main(string[] args)
-        //{
-        //    while (true)
-        //    {
-        //        Thread.Sleep(1000);
-        //        executeCommand();
-        //    }
-        //}
-        //static void executeCommand()
-        //{
-        //    System.Diagnostics.Process.Start("CMD.exe", "/K help");
-        //}
-
-        private void btnTelnet_Click(object sender, EventArgs e)
-        {
-            //<requestedExecutionLevel level="requireAdministrator" en manifest
-            //System.Diagnostics.Process.Start("‪C:\Windows\System32\telnet.exe");
-            System.Diagnostics.ProcessStartInfo procStartInfo = new System.Diagnostics.ProcessStartInfo("cmd.exe", "/k " + "cd/");
-            procStartInfo.UseShellExecute = false;
-            // Do not create the black window.
-            procStartInfo.CreateNoWindow = false;
-            // Now we create a process, assign its ProcessStartInfo and start it
-            System.Diagnostics.Process proc = new System.Diagnostics.Process();
-            proc.StartInfo = procStartInfo;
-            proc.Start();
-            proc.WaitForExit();
-
         }
     }
 }

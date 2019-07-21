@@ -14,6 +14,7 @@ namespace DecoTools_V2._0
 {
     public partial class FormOscam : Form
     {
+
         public FormOscam()
         {
             InitializeComponent();
@@ -27,29 +28,16 @@ namespace DecoTools_V2._0
         private void btnAceptar_Click(object sender, EventArgs e)
         {
             FormPrincipal not = new FormPrincipal();
-            PopupNotifier popup = new PopupNotifier();
-            popup.AnimationDuration = 500;
-            //popup.Image = Properties.Resources.info;
-            popup.TitleColor = System.Drawing.Color.FromArgb(255, 255, 255);
-            popup.BodyColor = System.Drawing.Color.FromArgb(49, 66, 82);
-            popup.BorderColor = System.Drawing.Color.FromArgb(4, 41, 68);
-            popup.ContentColor = System.Drawing.Color.FromArgb(255, 255, 255);
-            popup.TitleFont = new System.Drawing.Font("Tahoa", 20F);
-            popup.ContentFont = new System.Drawing.Font("Tahoma", 11F);
-            popup.ContentHoverColor = System.Drawing.Color.FromArgb(4, 41, 68);
-            popup.ContentHoverColor = System.Drawing.Color.FromArgb(4, 41, 68);
-            popup.TitleText = "Wiseplay info" + Environment.NewLine + Environment.NewLine;
 
-                if (txbCccam.Text == "")
-                {
-                not.PopupNotificacion(Properties.Resources.error, "Debe comer una cline como mínimo.","Oscam");
-                    return;
-                }
-                if (txbCccam.Lines.Length > 4)
-                {
+            if (txbCccam.Text == "")
+            {
+                not.PopupNotificacion(Properties.Resources.error, "Debe introducir una cline como mínimo.", "Oscam");
+                return;
+            }
+            if (txbCccam.Lines.Length > 4)
+            {
                 not.PopupNotificacion(Properties.Resources.advertencia, "Mas de 4 lineas puede causar colapso en su emuladora.", "Oscam");
-
-                }
+            }
 
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
             saveFileDialog1.FileName = "oscam.server";
@@ -63,12 +51,13 @@ namespace DecoTools_V2._0
                 string textoOrigen = texto;
                 string auxiliar = Path.Combine(Application.StartupPath, "auxiliar.txt");
                 File.WriteAllText(auxiliar, txbCccam.Text);
-                //string textoAuxiliar = File.ReadAllText(auxiliar);
                 int contador = 1;
                 string cadena = "Mi cadena";
                 StreamReader reader = new StreamReader(auxiliar);
-                //string[] clines = cadena.Split(' ');
-                //File.ReadLines(auxiliar);
+                byte[] serverOscam = null;
+                serverOscam = Properties.Resources.oscam;
+                string plantilla = System.Text.Encoding.UTF8.GetString(serverOscam);
+                File.AppendAllText(rutaNueva, plantilla + Environment.NewLine + Environment.NewLine);
 
                 while (cadena != null)
                 {
@@ -107,23 +96,20 @@ namespace DecoTools_V2._0
                         string puerto = clines[2];
                         string user = clines[3];
                         string pass = clines[4];
-                        texto = texto.Replace("label=MiCccam", "label=MiCccam" + contador);
-                        texto = texto.Replace("description=MiCccam", "description=MiCccam" + contador);
-                        texto = texto.Replace("host,puerto", host + "," + puerto);
-                        texto = texto.Replace("user=user", "user=" + user);
-                        texto = texto.Replace("password=pass", "password=" + pass);
+                        texto = texto.Replace("LINEA", "LINEA" + contador);
+                        //texto = texto.Replace("description=remote_cccam", "description=remote_cccam" + contador);
+                        texto = texto.Replace("HOST,PUERTO", host + "," + puerto);
+                        texto = texto.Replace("USUARIO", user);
+                        texto = texto.Replace("CONTRASEÑA", pass);
                         contador++;
                     }
                     catch
                     {
                         not.PopupNotificacion(Properties.Resources.info, "Falta poco.", "Oscam");
-
                     }
                     File.AppendAllText(rutaNueva, texto);
                     File.AppendAllText(rutaNueva, Environment.NewLine + Environment.NewLine);
                     texto = textoOrigen;
-
-                    //}
                 }
 
                 reader.Close();
@@ -131,7 +117,7 @@ namespace DecoTools_V2._0
                 File.Delete(ruta);
                 File.Delete(auxiliar);
                 not.PopupNotificacion(Properties.Resources.info, "Sus clines para el protocolo Oscam están listas para usarse.", "Oscam");
-
+                return;
             }
             else
                 not.PopupNotificacion(Properties.Resources.error, "Cancelado por el usuario.", "Oscam");

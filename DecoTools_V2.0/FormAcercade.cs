@@ -21,5 +21,10 @@ namespace DecoTools_V2._0
         {
             this.Close();
         }
+
+        private void lblDev_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

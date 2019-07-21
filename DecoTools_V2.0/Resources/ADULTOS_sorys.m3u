@@ -1,0 +1,74 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_1_778B_424_1_C00000_0_0_0.png",PLAYBOY TV
+#EXTVLCOPT:program=30603
+http://direccion1/1:0:1:778B:424:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_16_1009_451_35_C00000_0_0_0.png",Brazzers TV
+#EXTVLCOPT:program=4105
+http://direccion1/1:0:16:1009:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_16_100B_451_35_C00000_0_0_0.png",Hustler TV
+#EXTVLCOPT:program=4107
+http://direccion1/1:0:16:100B:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_16_FE0_451_35_C00000_0_0_0.png",Vivid
+#EXTVLCOPT:program=4064
+http://direccion1/1:0:16:FE0:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_16_1031_451_35_C00000_0_0_0.png",Brazzers TV CZ
+#EXTVLCOPT:program=4145
+http://direccion1/1:0:16:1031:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_16_100D_451_35_C00000_0_0_0.png",Hustler TV CZ
+#EXTVLCOPT:program=4109
+http://direccion1/1:0:16:100D:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_16_FE1_451_35_C00000_0_0_0.png",Vivid CZ
+#EXTVLCOPT:program=4065
+http://direccion1/1:0:16:FE1:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_85_3_85_C00000_0_0_0.png",Beate-Uhse.TV HD
+#EXTVLCOPT:program=133
+http://direccion1/1:0:19:85:3:85:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_16_201_B_85_C00000_0_0_0.png",Blue Movie
+#EXTVLCOPT:program=513
+http://direccion1/1:0:16:201:B:85:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_D3_159_B_85_C00000_0_0_0.png",Blue Movie 1
+#EXTVLCOPT:program=345
+http://direccion1/1:0:D3:159:B:85:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_D3_163_B_85_C00000_0_0_0.png",Blue Movie 2
+#EXTVLCOPT:program=355
+http://direccion1/1:0:D3:163:B:85:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_D3_16D_B_85_C00000_0_0_0.png",Blue Movie 3
+#EXTVLCOPT:program=365
+http://direccion1/1:0:D3:16D:B:85:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_4280_446_1_C00000_0_0_0.png",XXL
+#EXTVLCOPT:program=17024
+http://direccion1/1:0:19:4280:446:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_24C5_43C_1_C00000_0_0_0.png",COLMAX TV
+#EXTVLCOPT:program=9413
+http://direccion1/1:0:19:24C5:43C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_429E_446_1_C00000_0_0_0.png",XXL
+#EXTVLCOPT:program=17054
+http://direccion1/1:0:19:429E:446:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_19CF_444_1_C00000_0_0_0.png",LIBIDO TV
+#EXTVLCOPT:program=6607
+http://direccion1/1:0:19:19CF:444:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_2205_44C_1_C00000_0_0_0.png",DORCEL TV
+#EXTVLCOPT:program=8709
+http://direccion1/1:0:19:2205:44C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_2204_44C_1_C00000_0_0_0.png",DORCEL XXX
+#EXTVLCOPT:program=8708
+http://direccion1/1:0:19:2204:44C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_26B3_43E_1_C00000_0_0_0.png",PENTHOUSE
+#EXTVLCOPT:program=9907
+http://direccion1/1:0:19:26B3:43E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_19D0_444_1_C00000_0_0_0.png",PENTHOUSE BLACK
+#EXTVLCOPT:program=6608
+http://direccion1/1:0:19:19D0:444:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_24BC_43C_1_C00000_0_0_0.png",OCS CHOC
+#EXTVLCOPT:program=9404
+http://direccion1/1:0:19:24BC:43C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_19_1F49_42E_1_C00000_0_0_0.png",PINK X
+#EXTVLCOPT:program=8009
+http://direccion1/1:0:19:1F49:42E:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_1_3333_45B_1_C00000_0_0_0.png",VISIT-X.tv
+#EXTVLCOPT:program=13107
+http://direccion1/1:0:1:3333:45B:1:C00000:0:0:0:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boxtvmania/picon.440x264.transparente.movistar.openbox/master/picons/1_0_1_315B_459_1_C00000_0_0_0.png",Babestation24
+#EXTVLCOPT:program=12635
+http://direccion1/1:0:1:315B:459:1:C00000:0:0:0:

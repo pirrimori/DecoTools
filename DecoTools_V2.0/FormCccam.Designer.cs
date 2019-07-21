@@ -30,67 +30,25 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCccam));
-            this.txbCccam = new System.Windows.Forms.TextBox();
-            this.btnAceptar = new System.Windows.Forms.Button();
-            this.lblCccam = new System.Windows.Forms.Label();
             this.btnCerrar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
-            this.btnCmd = new System.Windows.Forms.Button();
+            this.txbCccam = new System.Windows.Forms.TextBox();
+            this.btnAceptar = new System.Windows.Forms.Button();
+            this.lblCccam = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // txbCccam
-            // 
-            this.txbCccam.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txbCccam.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbCccam.Location = new System.Drawing.Point(326, 266);
-            this.txbCccam.Multiline = true;
-            this.txbCccam.Name = "txbCccam";
-            this.txbCccam.Size = new System.Drawing.Size(355, 156);
-            this.txbCccam.TabIndex = 27;
-            // 
-            // btnAceptar
-            // 
-            this.btnAceptar.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnAceptar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.btnAceptar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnAceptar.FlatAppearance.BorderSize = 0;
-            this.btnAceptar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.btnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAceptar.ForeColor = System.Drawing.Color.White;
-            this.btnAceptar.Location = new System.Drawing.Point(450, 474);
-            this.btnAceptar.Name = "btnAceptar";
-            this.btnAceptar.Size = new System.Drawing.Size(104, 32);
-            this.btnAceptar.TabIndex = 28;
-            this.btnAceptar.Text = "Aceptar";
-            this.btnAceptar.UseVisualStyleBackColor = false;
-            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
-            // 
-            // lblCccam
-            // 
-            this.lblCccam.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.lblCccam.AutoSize = true;
-            this.lblCccam.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(66)))), ((int)(((byte)(82)))));
-            this.lblCccam.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.lblCccam.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCccam.ForeColor = System.Drawing.Color.White;
-            this.lblCccam.Location = new System.Drawing.Point(185, 65);
-            this.lblCccam.Name = "lblCccam";
-            this.lblCccam.Size = new System.Drawing.Size(643, 176);
-            this.lblCccam.TabIndex = 26;
-            this.lblCccam.Text = resources.GetString("lblCccam.Text");
             // 
             // btnCerrar
             // 
             this.btnCerrar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(66)))), ((int)(((byte)(82)))));
+            this.btnCerrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.btnCerrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCerrar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnCerrar.FlatAppearance.BorderSize = 0;
             this.btnCerrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCerrar.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCerrar.ForeColor = System.Drawing.Color.White;
-            this.btnCerrar.Location = new System.Drawing.Point(975, 12);
+            this.btnCerrar.Location = new System.Drawing.Point(1220, 52);
             this.btnCerrar.Name = "btnCerrar";
             this.btnCerrar.Size = new System.Drawing.Size(30, 30);
             this.btnCerrar.TabIndex = 31;
@@ -105,7 +63,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(26, 538);
+            this.label1.Location = new System.Drawing.Point(254, 590);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(119, 34);
             this.label1.TabIndex = 32;
@@ -116,50 +74,70 @@
             // 
             this.toolTip1.IsBalloon = true;
             // 
-            // btnCmd
+            // txbCccam
             // 
-            this.btnCmd.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnCmd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.btnCmd.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnCmd.FlatAppearance.BorderSize = 0;
-            this.btnCmd.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
-            this.btnCmd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCmd.ForeColor = System.Drawing.Color.White;
-            this.btnCmd.Location = new System.Drawing.Point(32, 494);
-            this.btnCmd.Name = "btnCmd";
-            this.btnCmd.Size = new System.Drawing.Size(104, 32);
-            this.btnCmd.TabIndex = 33;
-            this.btnCmd.Text = "CMD";
-            this.btnCmd.UseVisualStyleBackColor = false;
-            this.btnCmd.Click += new System.EventHandler(this.btnCmd_Click);
+            this.txbCccam.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txbCccam.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txbCccam.Location = new System.Drawing.Point(496, 309);
+            this.txbCccam.Multiline = true;
+            this.txbCccam.Name = "txbCccam";
+            this.txbCccam.Size = new System.Drawing.Size(419, 156);
+            this.txbCccam.TabIndex = 34;
+            // 
+            // btnAceptar
+            // 
+            this.btnAceptar.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btnAceptar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
+            this.btnAceptar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnAceptar.FlatAppearance.BorderSize = 0;
+            this.btnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAceptar.ForeColor = System.Drawing.Color.White;
+            this.btnAceptar.Location = new System.Drawing.Point(652, 500);
+            this.btnAceptar.Name = "btnAceptar";
+            this.btnAceptar.Size = new System.Drawing.Size(104, 32);
+            this.btnAceptar.TabIndex = 35;
+            this.btnAceptar.Text = "Aceptar";
+            this.btnAceptar.UseVisualStyleBackColor = false;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
+            // 
+            // lblCccam
+            // 
+            this.lblCccam.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblCccam.AutoSize = true;
+            this.lblCccam.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
+            this.lblCccam.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.lblCccam.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCccam.ForeColor = System.Drawing.Color.White;
+            this.lblCccam.Location = new System.Drawing.Point(409, 94);
+            this.lblCccam.Name = "lblCccam";
+            this.lblCccam.Size = new System.Drawing.Size(647, 154);
+            this.lblCccam.TabIndex = 33;
+            this.lblCccam.Text = resources.GetString("lblCccam.Text");
             // 
             // FormCccam
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(49)))), ((int)(((byte)(66)))), ((int)(((byte)(82)))));
-            this.ClientSize = new System.Drawing.Size(1012, 593);
-            this.Controls.Add(this.btnCmd);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnCerrar);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
+            this.ClientSize = new System.Drawing.Size(1262, 633);
             this.Controls.Add(this.txbCccam);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.lblCccam);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnCerrar);
             this.Name = "FormCccam";
             this.Text = "Cccam";
-            this.Load += new System.EventHandler(this.FormCccam_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-        public System.Windows.Forms.TextBox txbCccam;
-        private System.Windows.Forms.Button btnAceptar;
-        private System.Windows.Forms.Label lblCccam;
         private System.Windows.Forms.Button btnCerrar;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ToolTip toolTip1;
-        private System.Windows.Forms.Button btnCmd;
+        public System.Windows.Forms.TextBox txbCccam;
+        private System.Windows.Forms.Button btnAceptar;
+        private System.Windows.Forms.Label lblCccam;
     }
 }

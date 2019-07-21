@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using Tulpep.NotificationWindow;
+using System.Diagnostics;
 
 namespace DecoTools_V2._0
 {
@@ -29,7 +30,7 @@ namespace DecoTools_V2._0
             FormPrincipal not = new FormPrincipal();
             while (txbCccam.Text == "")
             {
-                not.PopupNotificacion(Properties.Resources.error, "Debe comer una cline como mínimo.","CCcam");
+                not.PopupNotificacion(Properties.Resources.error, "Debe comer una cline como mínimo.", "CCcam");
                 return;
             }
 
@@ -41,7 +42,7 @@ namespace DecoTools_V2._0
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
             saveFileDialog1.FileName = DecoTools_V2._0.Program.nombreArchivo;
             //saveFileDialog1.ShowDialog();
-            
+
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 DecoTools_V2._0.Program.rutaArchivo = saveFileDialog1.FileName;
@@ -51,24 +52,6 @@ namespace DecoTools_V2._0
             }
             else
                 not.PopupNotificacion(Properties.Resources.error, "Cancelado por el usuario.", "CCcam");
-        }
-
-        private void FormCccam_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnCmd_Click(object sender, EventArgs e)
-        {
-            System.Diagnostics.ProcessStartInfo procStartInfo = new System.Diagnostics.ProcessStartInfo("cmd.exe", "/k " + "cd/");
-            procStartInfo.UseShellExecute = false;
-            // Do not create the black window.
-            procStartInfo.CreateNoWindow = false;
-            // Now we create a process, assign its ProcessStartInfo and start it
-            System.Diagnostics.Process proc = new System.Diagnostics.Process();
-            proc.StartInfo = procStartInfo;
-            proc.Start();
-            proc.WaitForExit();
         }
     }
 }
