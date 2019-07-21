@@ -196,9 +196,6 @@
     <None Include="Properties\DataSources\DecoTools_V2._0.Properties.Settings.datasource" />
     <None Include="Properties\DataSources\FormAcercade.datasource" />
     <None Include="Properties\DataSources\FormCccam.datasource" />
-    <None Include="Properties\DataSources\FormDescargas.datasource" />
-    <None Include="Properties\DataSources\FormDownload.datasource" />
-    <None Include="Properties\DataSources\FormFtp.datasource" />
     <None Include="Properties\DataSources\FormIptv.datasource" />
     <None Include="Properties\DataSources\FormListas.datasource" />
     <None Include="Properties\DataSources\FormMessageBox.datasource" />
@@ -206,7 +203,6 @@
     <None Include="Properties\DataSources\FormOpenwebif.datasource" />
     <None Include="Properties\DataSources\FormOscam.datasource" />
     <None Include="Properties\DataSources\FormPrincipal.datasource" />
-    <None Include="Properties\DataSources\FormTelnetCliente.datasource" />
     <None Include="Properties\DataSources\FormTutoriales.datasource" />
     <None Include="Properties\DataSources\FormWiseplay.datasource" />
     <None Include="Properties\DataSources\Program.datasource" />
@@ -269,8 +265,6 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="iconos\cabecera.jpg" />
-    <Content Include="iconos\icono.ico" />
     <None Include="Resources\icono.jpg" />
     <None Include="Resources\cabecera.jpg" />
   </ItemGroup>
