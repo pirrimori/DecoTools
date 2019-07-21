@@ -15,25 +15,19 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_19191B23487516C42ADF47E26C6E2D28"
+        "OwnerKey" = "8:_9B8EEB26E50C4E90A06686D7B4463DE1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_1C1CD3BB69DB41EEA2F3968769F34E03"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5AAEEF618DB8ACE385363DB7F78054AE"
-        "OwnerKey" = "8:_9B8EEB26E50C4E90A06686D7B4463DE1"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_615C4F0010BBE0B3C7579645C163342E"
-        "OwnerKey" = "8:_9B8EEB26E50C4E90A06686D7B4463DE1"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9B39D8A48018BA134A1BE346924CB0EC"
+        "MsmKey" = "8:_2F677DFC5F78EAD49A0BDD4412E53CBF"
         "OwnerKey" = "8:_9B8EEB26E50C4E90A06686D7B4463DE1"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -58,19 +52,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9B39D8A48018BA134A1BE346924CB0EC"
+        "OwnerKey" = "8:_2F677DFC5F78EAD49A0BDD4412E53CBF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5AAEEF618DB8ACE385363DB7F78054AE"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_615C4F0010BBE0B3C7579645C163342E"
+        "OwnerKey" = "8:_19191B23487516C42ADF47E26C6E2D28"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -174,65 +162,14 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1C1CD3BB69DB41EEA2F3968769F34E03"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\Desktop\\icono.ico"
-            "TargetName" = "8:icono.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_3B2B646B1B304938BC64D73B147EE46A"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5AAEEF618DB8ACE385363DB7F78054AE"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:SimpleTCP, Version=1.0.24.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_5AAEEF618DB8ACE385363DB7F78054AE"
-                    {
-                    "Name" = "8:SimpleTCP.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:SimpleTCP.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_3B2B646B1B304938BC64D73B147EE46A"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_615C4F0010BBE0B3C7579645C163342E"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_19191B23487516C42ADF47E26C6E2D28"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_615C4F0010BBE0B3C7579645C163342E"
+                    "_19191B23487516C42ADF47E26C6E2D28"
                     {
                     "Name" = "8:Bunifu_UI_v1.5.3.dll"
                     "Attributes" = "3:512"
@@ -256,14 +193,34 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9B39D8A48018BA134A1BE346924CB0EC"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1C1CD3BB69DB41EEA2F3968769F34E03"
+            {
+            "SourcePath" = "8:D:\\Desktop\\icono.ico"
+            "TargetName" = "8:icono.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_3B2B646B1B304938BC64D73B147EE46A"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2F677DFC5F78EAD49A0BDD4412E53CBF"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Tulpep.NotificationWindow, Version=1.1.25.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_9B39D8A48018BA134A1BE346924CB0EC"
+                    "_2F677DFC5F78EAD49A0BDD4412E53CBF"
                     {
                     "Name" = "8:Tulpep.NotificationWindow.dll"
                     "Attributes" = "3:512"
