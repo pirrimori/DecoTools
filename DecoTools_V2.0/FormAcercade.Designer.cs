@@ -43,7 +43,7 @@
             this.lblDev.AutoSize = true;
             this.lblDev.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDev.ForeColor = System.Drawing.Color.Yellow;
-            this.lblDev.Location = new System.Drawing.Point(960, 181);
+            this.lblDev.Location = new System.Drawing.Point(966, 174);
             this.lblDev.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblDev.Name = "lblDev";
             this.lblDev.Size = new System.Drawing.Size(109, 21);
@@ -100,10 +100,10 @@
             // pictureBox1
             // 
             this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(670, 45);
+            this.pictureBox1.Image = global::DecoTools_V2._0.Properties.Resources.icono;
+            this.pictureBox1.Location = new System.Drawing.Point(773, 62);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(379, 133);
+            this.pictureBox1.Size = new System.Drawing.Size(186, 133);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 34;
             this.pictureBox1.TabStop = false;

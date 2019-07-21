@@ -267,5 +267,12 @@
   <ItemGroup>
     <None Include="Resources\Movistar_epg_carlos.m3u" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="iconos\cabecera.jpg" />
+    <Content Include="iconos\icono.ico" />
+    <None Include="Resources\icono.jpg" />
+    <None Include="Resources\cabecera.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
