@@ -123,18 +123,6 @@
     <Compile Include="FormPrincipal.Designer.cs">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormNcam.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormNcam.Designer.cs">
-      <DependentUpon>FormNcam.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormOscam.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormOscam.Designer.cs">
-      <DependentUpon>FormOscam.cs</DependentUpon>
-    </Compile>
     <Compile Include="FormTutoriales.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -173,12 +161,6 @@
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormNcam.resx">
-      <DependentUpon>FormNcam.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormOscam.resx">
-      <DependentUpon>FormOscam.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormTutoriales.resx">
       <DependentUpon>FormTutoriales.cs</DependentUpon>
     </EmbeddedResource>
@@ -199,9 +181,7 @@
     <None Include="Properties\DataSources\FormIptv.datasource" />
     <None Include="Properties\DataSources\FormListas.datasource" />
     <None Include="Properties\DataSources\FormMessageBox.datasource" />
-    <None Include="Properties\DataSources\FormNcam.datasource" />
     <None Include="Properties\DataSources\FormOpenwebif.datasource" />
-    <None Include="Properties\DataSources\FormOscam.datasource" />
     <None Include="Properties\DataSources\FormPrincipal.datasource" />
     <None Include="Properties\DataSources\FormTutoriales.datasource" />
     <None Include="Properties\DataSources\FormWiseplay.datasource" />

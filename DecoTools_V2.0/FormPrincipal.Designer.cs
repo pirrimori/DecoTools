@@ -39,8 +39,6 @@
             this.btnWiseplay = new System.Windows.Forms.Button();
             this.btnOpenwebif = new System.Windows.Forms.Button();
             this.btnIptv = new System.Windows.Forms.Button();
-            this.btnNcam = new System.Windows.Forms.Button();
-            this.btnOscam = new System.Windows.Forms.Button();
             this.btnCccam = new System.Windows.Forms.Button();
             this.panelBarraTitulo = new System.Windows.Forms.Panel();
             this.lblHora = new System.Windows.Forms.Label();
@@ -83,8 +81,6 @@
             this.panelMenu.Controls.Add(this.btnWiseplay);
             this.panelMenu.Controls.Add(this.btnOpenwebif);
             this.panelMenu.Controls.Add(this.btnIptv);
-            this.panelMenu.Controls.Add(this.btnNcam);
-            this.panelMenu.Controls.Add(this.btnOscam);
             this.panelMenu.Controls.Add(this.btnCccam);
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 40);
@@ -99,7 +95,7 @@
             this.btnOtros.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOtros.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOtros.ForeColor = System.Drawing.Color.White;
-            this.btnOtros.Location = new System.Drawing.Point(3, 350);
+            this.btnOtros.Location = new System.Drawing.Point(6, 272);
             this.btnOtros.Name = "btnOtros";
             this.btnOtros.Size = new System.Drawing.Size(244, 42);
             this.btnOtros.TabIndex = 9;
@@ -114,7 +110,7 @@
             this.btnAcercade.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAcercade.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAcercade.ForeColor = System.Drawing.Color.White;
-            this.btnAcercade.Location = new System.Drawing.Point(3, 434);
+            this.btnAcercade.Location = new System.Drawing.Point(6, 356);
             this.btnAcercade.Name = "btnAcercade";
             this.btnAcercade.Size = new System.Drawing.Size(244, 42);
             this.btnAcercade.TabIndex = 8;
@@ -129,7 +125,7 @@
             this.btnTutoriales.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTutoriales.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTutoriales.ForeColor = System.Drawing.Color.White;
-            this.btnTutoriales.Location = new System.Drawing.Point(3, 392);
+            this.btnTutoriales.Location = new System.Drawing.Point(6, 314);
             this.btnTutoriales.Name = "btnTutoriales";
             this.btnTutoriales.Size = new System.Drawing.Size(244, 42);
             this.btnTutoriales.TabIndex = 7;
@@ -161,7 +157,7 @@
             this.btnWiseplay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnWiseplay.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnWiseplay.ForeColor = System.Drawing.Color.White;
-            this.btnWiseplay.Location = new System.Drawing.Point(3, 308);
+            this.btnWiseplay.Location = new System.Drawing.Point(6, 230);
             this.btnWiseplay.Name = "btnWiseplay";
             this.btnWiseplay.Size = new System.Drawing.Size(244, 42);
             this.btnWiseplay.TabIndex = 5;
@@ -176,7 +172,7 @@
             this.btnOpenwebif.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOpenwebif.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOpenwebif.ForeColor = System.Drawing.Color.White;
-            this.btnOpenwebif.Location = new System.Drawing.Point(3, 266);
+            this.btnOpenwebif.Location = new System.Drawing.Point(6, 188);
             this.btnOpenwebif.Name = "btnOpenwebif";
             this.btnOpenwebif.Size = new System.Drawing.Size(244, 42);
             this.btnOpenwebif.TabIndex = 4;
@@ -191,43 +187,13 @@
             this.btnIptv.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIptv.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIptv.ForeColor = System.Drawing.Color.White;
-            this.btnIptv.Location = new System.Drawing.Point(3, 224);
+            this.btnIptv.Location = new System.Drawing.Point(6, 146);
             this.btnIptv.Name = "btnIptv";
             this.btnIptv.Size = new System.Drawing.Size(244, 42);
             this.btnIptv.TabIndex = 3;
             this.btnIptv.Text = "Iptv Enigma2";
             this.btnIptv.UseVisualStyleBackColor = true;
             this.btnIptv.Click += new System.EventHandler(this.btnIptv_Click);
-            // 
-            // btnNcam
-            // 
-            this.btnNcam.FlatAppearance.BorderSize = 0;
-            this.btnNcam.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
-            this.btnNcam.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNcam.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNcam.ForeColor = System.Drawing.Color.White;
-            this.btnNcam.Location = new System.Drawing.Point(3, 182);
-            this.btnNcam.Name = "btnNcam";
-            this.btnNcam.Size = new System.Drawing.Size(244, 42);
-            this.btnNcam.TabIndex = 2;
-            this.btnNcam.Text = "Ncam Enigma2";
-            this.btnNcam.UseVisualStyleBackColor = true;
-            this.btnNcam.Click += new System.EventHandler(this.btnNcam_Click);
-            // 
-            // btnOscam
-            // 
-            this.btnOscam.FlatAppearance.BorderSize = 0;
-            this.btnOscam.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
-            this.btnOscam.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOscam.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnOscam.ForeColor = System.Drawing.Color.White;
-            this.btnOscam.Location = new System.Drawing.Point(3, 140);
-            this.btnOscam.Name = "btnOscam";
-            this.btnOscam.Size = new System.Drawing.Size(244, 42);
-            this.btnOscam.TabIndex = 1;
-            this.btnOscam.Text = "Oscam Enigma2";
-            this.btnOscam.UseVisualStyleBackColor = true;
-            this.btnOscam.Click += new System.EventHandler(this.btnOscam_Click);
             // 
             // btnCccam
             // 
@@ -240,7 +206,7 @@
             this.btnCccam.Name = "btnCccam";
             this.btnCccam.Size = new System.Drawing.Size(244, 42);
             this.btnCccam.TabIndex = 0;
-            this.btnCccam.Text = "Cccam Enigma2";
+            this.btnCccam.Text = "Softcam E2";
             this.btnCccam.UseVisualStyleBackColor = true;
             this.btnCccam.Click += new System.EventHandler(this.btnCccam_Click);
             // 
@@ -398,8 +364,6 @@
         private System.Windows.Forms.Button btnWiseplay;
         private System.Windows.Forms.Button btnOpenwebif;
         private System.Windows.Forms.Button btnIptv;
-        private System.Windows.Forms.Button btnNcam;
-        private System.Windows.Forms.Button btnOscam;
         private System.Windows.Forms.Button btnCccam;
         private System.Windows.Forms.Label lblFecha;
         private System.Windows.Forms.Label lblHora;

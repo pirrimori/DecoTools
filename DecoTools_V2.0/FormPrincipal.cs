@@ -121,20 +121,6 @@ namespace DecoTools_V2._0
             btnCccam.BackColor = Color.FromArgb(13, 93, 142);
         }
 
-        private void btnOscam_Click(object sender, EventArgs e)
-        {
-            AbrirFormulario<FormOscam>();
-            //Cambiamos el color del boton que dejamos pulsado
-            btnOscam.BackColor = Color.FromArgb(13, 93, 142);
-        }
-
-        private void btnNcam_Click(object sender, EventArgs e)
-        {
-            AbrirFormulario<FormNcam>();
-            //Cambiamos el color del boton que dejamos pulsado
-            btnNcam.BackColor = Color.FromArgb(13, 93, 142);
-        }
-
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
 
@@ -236,10 +222,6 @@ namespace DecoTools_V2._0
             //Si el formulario especificado no está abierto,damos el color por defecto a su botón
             if (Application.OpenForms["FormCccam"] == null)
                 btnCccam.BackColor = Color.FromArgb(4, 41, 68);
-            if (Application.OpenForms["FormOscam"] == null)
-                btnOscam.BackColor = Color.FromArgb(4, 41, 68);
-            if (Application.OpenForms["FormNcam"] == null)
-                btnNcam.BackColor = Color.FromArgb(4, 41, 68);
             if (Application.OpenForms["FormOpenwebif"] == null)
                 btnOpenwebif.BackColor = Color.FromArgb(4, 41, 68);
             if (Application.OpenForms["FormWiseplay"] == null)

@@ -36,6 +36,12 @@
             this.txbCccam = new System.Windows.Forms.TextBox();
             this.btnAceptar = new System.Windows.Forms.Button();
             this.lblCccam = new System.Windows.Forms.Label();
+            this.chkCccam = new System.Windows.Forms.CheckBox();
+            this.chkOscam = new System.Windows.Forms.CheckBox();
+            this.chkNcam = new System.Windows.Forms.CheckBox();
+            this.chkGcam = new System.Windows.Forms.CheckBox();
+            this.txbOscam = new System.Windows.Forms.TextBox();
+            this.txbNcam1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // btnCerrar
@@ -78,10 +84,10 @@
             // 
             this.txbCccam.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txbCccam.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbCccam.Location = new System.Drawing.Point(496, 309);
+            this.txbCccam.Location = new System.Drawing.Point(496, 327);
             this.txbCccam.Multiline = true;
             this.txbCccam.Name = "txbCccam";
-            this.txbCccam.Size = new System.Drawing.Size(419, 156);
+            this.txbCccam.Size = new System.Drawing.Size(419, 138);
             this.txbCccam.TabIndex = 34;
             // 
             // btnAceptar
@@ -108,11 +114,76 @@
             this.lblCccam.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.lblCccam.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCccam.ForeColor = System.Drawing.Color.White;
-            this.lblCccam.Location = new System.Drawing.Point(409, 94);
+            this.lblCccam.Location = new System.Drawing.Point(408, 77);
             this.lblCccam.Name = "lblCccam";
             this.lblCccam.Size = new System.Drawing.Size(647, 154);
             this.lblCccam.TabIndex = 33;
             this.lblCccam.Text = resources.GetString("lblCccam.Text");
+            // 
+            // chkCccam
+            // 
+            this.chkCccam.AutoSize = true;
+            this.chkCccam.ForeColor = System.Drawing.Color.White;
+            this.chkCccam.Location = new System.Drawing.Point(513, 282);
+            this.chkCccam.Name = "chkCccam";
+            this.chkCccam.Size = new System.Drawing.Size(72, 21);
+            this.chkCccam.TabIndex = 36;
+            this.chkCccam.Text = "Cccam";
+            this.chkCccam.UseVisualStyleBackColor = true;
+            // 
+            // chkOscam
+            // 
+            this.chkOscam.AutoSize = true;
+            this.chkOscam.ForeColor = System.Drawing.Color.White;
+            this.chkOscam.Location = new System.Drawing.Point(616, 282);
+            this.chkOscam.Name = "chkOscam";
+            this.chkOscam.Size = new System.Drawing.Size(74, 21);
+            this.chkOscam.TabIndex = 37;
+            this.chkOscam.Text = "Oscam";
+            this.chkOscam.UseVisualStyleBackColor = true;
+            // 
+            // chkNcam
+            // 
+            this.chkNcam.AutoSize = true;
+            this.chkNcam.ForeColor = System.Drawing.Color.White;
+            this.chkNcam.Location = new System.Drawing.Point(720, 282);
+            this.chkNcam.Name = "chkNcam";
+            this.chkNcam.Size = new System.Drawing.Size(66, 21);
+            this.chkNcam.TabIndex = 38;
+            this.chkNcam.Text = "Ncam";
+            this.chkNcam.UseVisualStyleBackColor = true;
+            // 
+            // chkGcam
+            // 
+            this.chkGcam.AutoSize = true;
+            this.chkGcam.ForeColor = System.Drawing.Color.White;
+            this.chkGcam.Location = new System.Drawing.Point(819, 282);
+            this.chkGcam.Name = "chkGcam";
+            this.chkGcam.Size = new System.Drawing.Size(67, 21);
+            this.chkGcam.TabIndex = 39;
+            this.chkGcam.Text = "Gcam";
+            this.chkGcam.UseVisualStyleBackColor = true;
+            // 
+            // txbOscam
+            // 
+            this.txbOscam.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txbOscam.Location = new System.Drawing.Point(12, 127);
+            this.txbOscam.Multiline = true;
+            this.txbOscam.Name = "txbOscam";
+            this.txbOscam.Size = new System.Drawing.Size(116, 121);
+            this.txbOscam.TabIndex = 40;
+            this.txbOscam.Text = resources.GetString("txbOscam.Text");
+            this.txbOscam.Visible = false;
+            // 
+            // txbNcam1
+            // 
+            this.txbNcam1.Location = new System.Drawing.Point(12, 266);
+            this.txbNcam1.Multiline = true;
+            this.txbNcam1.Name = "txbNcam1";
+            this.txbNcam1.Size = new System.Drawing.Size(116, 122);
+            this.txbNcam1.TabIndex = 41;
+            this.txbNcam1.Text = resources.GetString("txbNcam1.Text");
+            this.txbNcam1.Visible = false;
             // 
             // FormCccam
             // 
@@ -120,6 +191,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(1262, 633);
+            this.Controls.Add(this.txbNcam1);
+            this.Controls.Add(this.txbOscam);
+            this.Controls.Add(this.chkGcam);
+            this.Controls.Add(this.chkNcam);
+            this.Controls.Add(this.chkOscam);
+            this.Controls.Add(this.chkCccam);
             this.Controls.Add(this.txbCccam);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.lblCccam);
@@ -139,5 +216,11 @@
         public System.Windows.Forms.TextBox txbCccam;
         private System.Windows.Forms.Button btnAceptar;
         private System.Windows.Forms.Label lblCccam;
+        private System.Windows.Forms.CheckBox chkCccam;
+        private System.Windows.Forms.CheckBox chkOscam;
+        private System.Windows.Forms.CheckBox chkNcam;
+        private System.Windows.Forms.CheckBox chkGcam;
+        public System.Windows.Forms.TextBox txbOscam;
+        private System.Windows.Forms.TextBox txbNcam1;
     }
 }
