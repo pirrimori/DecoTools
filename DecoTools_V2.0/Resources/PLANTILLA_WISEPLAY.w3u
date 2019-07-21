@@ -1,0 +1,2005 @@
+{
+"author": "autor_lista",
+"name": "Movistar +",
+"url": "",
+"contact": "",
+"info": "",
+"groups": [
+{
+"name": "GUIA TV",
+
+"image": "https://images-na.ssl-images-amazon.com/images/I/51smfN5zsML.png",
+
+"stations": [
+
+{
+          
+        "name": "PARTIDOS TELEVISADOS HOY",
+
+        "image": "https://images.sftcdn.net/images/t_optimized,f_auto/p/6c2f6230-a93b-11e6-a604-00163ec9f5fa/903256523/deportesenlatv-by-futbolenlatv-screenshot.jpg",
+
+        "url": "http://www.futbolenlatv.es/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""                
+              },
+{
+          
+        "name": "GUIA DE TELEVISION",
+
+        "image": "http://www.tvguia.es/sites/default/themes/tvstyle/images/guia-tv.png?v=1",
+
+        "url": "http://www.tvguia.es/programacion-tv/programacion-tv-ahora",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""                             
+              },
+]
+},
+{
+"name": "DEPORTES",
+"image": "https://creativeoptionsregina.ca/wp-content/uploads/2016/09/Sports-Image-Low-Res-845x321.jpg",
+"groups": [
+{                    
+"name": "BEIN SPORTS LA LIGA",
+"image": "https://www.comparaiso.es/images/bein-laliga-300.jpg",
+"stations": [   
+{      
+       "name": "BEIN SPORTS LA LIGA",
+       "image": "https://www.comparaiso.es/images/bein-laliga-300.jpg",
+       "url": "http://direccion1/1:0:1:7797:424:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "BEIN SPORTS LA LIGA (OPCION 2)",
+       "image": "https://www.comparaiso.es/images/bein-laliga-300.jpg",
+       "url": "http://direccion2/1:0:1:7797:424:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "BEIN SPORTS LA LIGA (OPCION 3)",
+       "image": "https://www.comparaiso.es/images/bein-laliga-300.jpg",
+       "url": "http://direccion3/1:0:1:7797:424:1:C00000:0:0:0:"               
+                 },
+]
+},
+{
+"name": "LA LIGA TV",
+"image": "https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg",
+"stations": [
+{
+     "name": "LA LIGA TV",
+     "image": "https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg",
+     "url": "http://direccion1/1:0:1:7793:424:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "LA LIGA TV (OPCION 2)",
+     "image": "https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg",
+     "url": "http://direccion2/1:0:1:7793:424:1:C00000:0:0:0:" 
+                 }, 
+{      
+     "name": "LA LIGA TV (OPCION 3)",
+     "image": "https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg",
+     "url": "http://direccion3/1:0:1:7793:424:1:C00000:0:0:0:"                                                
+                 }, 
+]
+},
+{
+"name": "BEIN SPORTS",
+"image": "http://assets.beinsports.com/2.6.32/images/logo-header__us-es.png",
+"stations": [
+{
+     "name": "BEIN SPORTS",
+     "image": "http://assets.beinsports.com/2.6.32/images/logo-header__us-es.png",
+     "url": "http://direccion1/1:0:1:757B:412:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BEIN SPORTS (OPCION 2)",
+     "image": "http://assets.beinsports.com/2.6.32/images/logo-header__us-es.png",
+     "url": "http://direccion2/1:0:1:757B:412:1:C00000:0:0:0::" 
+                 }, 
+{      
+     "name": "BEIN SPORTS (OPCION 3)",
+     "image": "http://assets.beinsports.com/2.6.32/images/logo-header__us-es.png",
+      "url": "http://direccion3/1:0:1:757B:412:1:C00000:0:0:0:"                                
+                  },
+]
+},
+{                    
+"name": "MOVISTAR PARTIDAZO",
+"image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png",
+"stations": [
+{
+     "name": "MOVISTAR PARTIDAZO",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png",
+     "url": "http://direccion1/1:0:1:769C:41E:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "MOVISTAR PARTIDAZO (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png",
+     "url": "http://direccion2/1:0:1:769C:41E:1:C00000:0:0:0:"
+                 },
+{
+     "name": "MOVISTAR PARTIDAZO (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo-partidazo.png",
+     "url": "http://direccion3/1:0:1:769C:41E:1:C00000:0:0:0:"                
+                 },
+]
+},
+{              			                                                           
+"name": "LIGA DE CAMPEONES",
+"image": "https://tveonline.webcindario.com/ligacampeones.jpg",
+"stations": [
+{
+       "name": "LIGA DE CAMPEONES",
+       "image": "https://tveonline.webcindario.com/ligacampeones.jpg",
+       "url": "http://direccion1/1:0:19:78B4:3EC:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "LIGA DE CAMPEONES (OPCION 2)",
+       "image": "https://tveonline.webcindario.com/ligacampeones.jpg",
+       "url": "http://direccion2/1:0:19:78B4:3EC:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "LIGA DE CAMPEONES (OPCION 3)",
+       "image": "https://tveonline.webcindario.com/ligacampeones.jpg",
+       "url": "http://direccion3/1:0:19:78B4:3EC:1:C00000:0:0:0:"               
+                 },
+] 
+},
+{
+"name": "#VAMOS",
+"image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
+"stations": [
+{
+       "name": "#VAMOS",
+       "image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
+       "url": "http://direccion1/1:0:19:74D6:3F8:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "#VAMOS (OPCION 2)",
+       "image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
+       "url": "http://direccion2/1:0:19:74D6:3F8:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "#VAMOS (OPCION 3)",
+       "image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
+       "url": "http://direccion3/1:0:19:74D6:3F8:1:C00000:0:0:0:"               
+                 },
+] 
+},
+{
+"name": "LIGA 123",
+"image": "http://www.M+plus.es/recorte/m-NEO/canal/VAMOSD.png",
+"stations": [
+{
+       "name": "LIGA 123",
+       "image": "http://www.elperiodicodelafresneda.es/wp-content/uploads/2017/11/LOGO-LIGA-123-2-265x300.png",
+       "url": "http://direccion1/1:0:1:76C5:40E:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "LIGA 123 (OPCION 2)",
+       "image": "http://www.elperiodicodelafresneda.es/wp-content/uploads/2017/11/LOGO-LIGA-123-2-265x300.png",
+       "url": "http://direccion2/1:0:1:76C5:40E:1:C00000:0:0:0:"
+                 }, 
+{      
+       "name": "LIGA 123 (OPCION 3)",
+       "image": "http://www.elperiodicodelafresneda.es/wp-content/uploads/2017/11/LOGO-LIGA-123-2-265x300.png",
+       "url": "http://direccion3/1:0:1:76C5:40E:1:C00000:0:0:0:"               
+                 },
+] 
+},
+{                    
+"name": "MOVISTAR DEPORTES 1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png",
+"stations": [    
+{
+     "name": "MOVISTAR DEPORTES 1",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png",
+     "url": "http://direccion1/1:0:1:778F:424:1:C00000:0:0:0:"
+               },  
+{
+     "name": "MOVISTAR DEPORTES 1 (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png",
+     "url": "http://direccion2/1:0:1:778F:424:1:C00000:0:0:0:" 
+                },  
+{
+     "name": "MOVISTAR DEPORTES 1 (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png",
+     "url": "http://direccion3/1:0:1:778F:424:1:C00000:0:0:0:"
+                },  
+]
+},
+{                    
+"name": "MOVISTAR DEPORTES 2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png",
+"stations": [ 
+{
+     "name": "MOVISTAR DEPORTES 2",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png",
+     "url": "http://direccion1/1:0:1:760C:408:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR DEPORTES 2 (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png",
+     "url": "http://direccion2/1:0:1:760C:408:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR DEPORTES 2 (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo-deportes-2.png",
+     "url": "http://direccion3/1:0:1:760C:408:1:C00000:0:0:0:"
+                },  
+]
+},
+{                    
+"name": "MOVISTAR FUTBOL",
+"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",
+"stations": [
+{
+     "name": "MOVISTAR FUTBOL",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",
+     "url": "http://direccion1/1:0:1:778E:424:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR FUTBOL (OPCION 2)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",
+     "url": "http://direccion2/1:0:1:778E:424:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "MOVISTAR FUTBOL (OPCION 3)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",
+     "url": "http://direccion3/1:0:1:778E:424:1:C00000:0:0:0:"
+                 },
+]
+},
+{                    
+"name": "MOVISTAR GOLF",
+"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg",
+"stations": [   
+{
+     "name": "MOVISTAR GOLF",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg",
+     "url": "http://direccion1/1:0:1:7789:424:1:C00000:0:0:0:"
+                },  
+{
+     "name": "MOVISTAR GOLF (OPCION 2)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg",
+     "url": "http://direccion2/1:0:1:7789:424:1:C00000:0:0:0:"
+                },  
+{
+     "name": "MOVISTAR GOLF (OPCION 3)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-golf.jpg",
+     "url": "http://direccion3/1:0:1:7789:424:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                    
+"name": "MOVISTAR FORMULA 1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+"stations": [	
+{
+     "name": "MOVISTAR FORMULA 1",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+     "url": "http://direccion1/1:0:19:7531:426:1:C00000:0:0:0:" 
+               }, 
+{
+     "name": "MOVISTAR FORMULA 1 (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+     "url": "http://direccion2/1:0:19:7531:426:1:C00000:0:0:0:"
+               }, 
+{
+     "name": "MOVISTAR FORMULA 1 (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+     "url": "http://direccion3/1:0:19:7531:426:1:C00000:0:0:0:"
+                },
+]
+},
+{                    
+"name": "MOVISTAR MOTOGP",
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+"stations": [
+{
+     "name": "MOVISTAR MOTOGP",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+     "url": "http://direccion1/1:0:19:7532:426:1:C00000:0:0:0:"
+              },
+{
+     "name": "MOVISTAR MOTOGP (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+     "url": "http://direccion2/1:0:19:7532:426:1:C00000:0:0:0:"
+              },
+{
+     "name": "MOVISTAR MOTOGP (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+     "url": "http://direccion3/1:0:19:7532:426:1:C00000:0:0:0:"
+              },                                                                                                               
+]
+},
+{                    
+"name": "GOL",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/245px-Gol.svg.png",
+"stations": [   
+{      
+       "name": "GOL",
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/245px-Gol.svg.png",
+       "url": "http://direccion1/1:0:1:116:E:22D4:EEEE0000:0:0:0:"
+                 }, 
+{      
+       "name": "GOL (OPCION 2)",
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/245px-Gol.svg.png",
+       "url": "http://direccion2/1:0:1:116:E:22D4:EEEE0000:0:0:0:"
+                 }, 
+{      
+       "name": "GOL (OPCION 3)",
+       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/245px-Gol.svg.png",
+       "url": "http://direccion3/1:0:1:116:E:22D4:EEEE0000:0:0:0:"
+                }
+]
+},
+{                         
+"name": "EUROSPORT",
+"image": "http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",
+"stations": [
+{
+     "name": "EUROSPORT",
+     "image": "http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",
+     "url": "http://direccion1/1:0:1:74A1:41C:1:C00000:0:0:0:"                                                                            
+                 },
+{
+     "name": "EUROSPORT(OPCION 2)",
+     "image": "http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",
+     "url": "http://direccion2/1:0:1:74A1:41C:1:C00000:0:0:0:"
+                 },
+{
+     "name": "EUROSPORT(OPCION 3)",
+     "image": "http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png",
+     "url": "http://direccion3/1:0:1:74A1:41C:1:C00000:0:0:0:"
+                 },
+]
+},
+{                         
+"name": "EUROSPORT 2",
+"image": "http://www.elektrons-k.lv/channels/eurosport_2.jpg",
+"stations": [
+{
+     "name": "EUROSPORT 2",
+     "image": "http://www.elektrons-k.lv/channels/eurosport_2.jpg",
+     "url": "http://direccion1/1:0:1:760E:408:1:C00000:0:0:0:"                                                                          
+                 }, 
+{
+     "name": "EUROSPORT 2(OPCION 2)",
+     "image": "http://www.elektrons-k.lv/channels/eurosport_2.jpg",
+     "url": "http://direccion2/1:0:1:760E:408:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "EUROSPORT 2(OPCION 3)",
+     "image": "http://www.elektrons-k.lv/channels/eurosport_2.jpg",
+     "url": "http://direccion3/1:0:1:760E:408:1:C00000:0:0:0:"
+                 },    
+]
+},
+{                    
+"name": "TELEDEPORTE",
+"image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+"stations": [	   
+{
+     "name": "TELEDEPORTE",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+     "url": "http://direccion1/1:0:1:76CC:40E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "TELEDEPORTE (OPCION 2)",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+     "url": "http://direccion2/1:0:1:76CC:40E:1:C00000:0:0:0:" 
+               },     
+{
+     "name": "TELEDEPORTE (OPCION 3)",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+     "url": "http://direccion3/1:0:1:76CC:40E:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "REAL MADRID TV",
+"image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
+"stations": [  
+{
+     "name": "REAL MADRID TV",
+     "image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
+     "url": "http://direccion1/1:0:1:7601:408:1:C00000:0:0:0:" 
+                },
+{
+     "name": "REAL MADRID TV (OPCION 2)",
+     "image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
+     "url": "http://direccion2/1:0:1:7601:408:1:C00000:0:0:0:"                         
+                },
+{
+     "name": "REAL MADRID TV (OPCION 3)",
+     "image": "http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png",
+     "url": "http://direccion3/1:0:1:7601:408:1:C00000:0:0:0:"
+                },
+]
+},
+{                    
+"name": "BARÇA TV",
+"image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
+"stations": [
+{
+     "name": "BARÇA TV",
+     "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
+     "url": "http://direccion1/1:0:1:74A0:41C:1:C00000:0:0:0:" 
+                 },
+{
+     "name": "BARÇA TV (OPCION 2)",
+     "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
+     "url": "http://direccion2/1:0:1:74A0:41C:1:C00000:0:0:0:"
+                 },
+{
+     "name": "BARÇA TV (OPCION 3)",
+     "image": "http://www.chefuri.com/v4/fotos/chefuritv/c-BarcaTV.jpg",
+     "url": "http://direccion3/1:0:1:74A0:41C:1:C00000:0:0:0:"
+                 },
+]
+},
+{                    
+"name": "TOROS TV",
+"image": "http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",
+"stations": [
+{
+     "name": "TOROS TV",
+     "image": "http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",
+     "url": "http://direccion1/1:0:1:7570:412:1:C00000:0:0:0:"
+                },
+{
+     "name": "TOROS TV (OPCION 2)",
+     "image": "http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",
+     "url": "http://direccion2/1:0:1:7570:412:1:C00000:0:0:0:"                                                  
+                },
+{
+     "name": "TOROS TV (OPCION 3)",
+     "image": "http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png",
+     "url": "http://direccion3/1:0:1:7570:412:1:C00000:0:0:0:"                
+                }, 
+]
+},
+{                    
+"name": "CAZA Y PESCA",
+"image": "http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg",
+"stations": [ 
+{
+     "name": "CAZA Y PESCA",
+     "image": "http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg",
+     "url": "http://direccion1/1:0:1:772B:416:1:C00000:0:0:0:" 
+                  }, 
+{
+     "name": "CAZA Y PESCA (OPCION 2)",
+     "image": "http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg",
+     "url": "http://direccion2/1:0:1:772B:416:1:C00000:0:0:0:"
+                  }, 
+{
+     "name": "CAZA Y PESCA (OPCION 3)",
+     "image": "http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg",
+     "url": "http://direccion3/1:0:1:772B:416:1:C00000:0:0:0:"
+                  }, 
+]
+},
+{                         
+"name": "IBERALIA TV",
+"image": "http://www.ardesa.com/fotos/logo_iberalia_horizontal_positivo_780x250_14622997461.jpg",
+"stations": [
+{
+     "name": "IBERALIA TV",
+     "image": "http://www.ardesa.com/fotos/logo_iberalia_horizontal_positivo_780x250_14622997461.jpg",
+     "url": "http://direccion1/1:0:1:746A:3F0:1:C00000:0:0:0:"
+               }, 
+{
+     "name": "IBERALIA TV (OPCION 2)",
+     "image": "http://www.ardesa.com/fotos/logo_iberalia_horizontal_positivo_780x250_14622997461.jpg",
+     "url": "http://direccion2/1:0:1:746A:3F0:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "IBERALIA TV (OPCION 3)",
+     "image": "http://www.ardesa.com/fotos/logo_iberalia_horizontal_positivo_780x250_14622997461.jpg",
+     "url": "http://direccion3/1:0:1:746A:3F0:1:C00000:0:0:0:"
+                },                                                                                          
+]
+},
+]
+},
+{
+"name": "CINE Y SERIES",
+"image": "https://fotografias.lasexta.com/clipping/cmsimages02/2015/10/27/6A638DA2-F014-4FCE-BC05-7FB0BDBFABE1/58.jpg",
+"groups": [
+{                    
+"name": "MOVISTAR #0",
+"image": "http://vercanalestv.com/logos/canal-0.png",
+"stations": [       
+{
+     "name": "MOVISTAR #0",
+     "image": "http://vercanalestv.com/logos/canal-0.png",
+     "url": "http://direccion1/1:0:1:7478:3F0:1:C00000:0:0:0:"                  
+               },    
+{
+     "name": "MOVISTAR #0 (OPCION 2)",
+     "image": "http://vercanalestv.com/logos/canal-0.png",
+     "url": "http://direccion2/1:0:1:7478:3F0:1:C00000:0:0:0:"
+               },    
+{
+     "name": "MOVISTAR #0 (OPCION 3)",
+     "image": "http://vercanalestv.com/logos/canal-0.png",
+     "url": "http://direccion3/1:0:1:7478:3F0:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "MOVISTAR SERIES XTRA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png",
+"stations": [
+{
+     "name": "MOVISTAR SERIES XTRA",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png",
+     "url": "http://direccion1/1:0:1:76CA:40E:1:C00000:0:0:0:"  
+                },
+{
+     "name": "MOVISTAR SERIES XTRA (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png",
+     "url": "http://direccion2/1:0:1:76CA:40E:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR SERIES XTRA (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo-series-xtra.png",
+     "url": "http://direccion3/1:0:1:76CA:40E:1:C00000:0:0:0:"
+                },
+]
+},
+{                    
+"name": "MOVISTAR ESTRENOS",
+"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",
+"stations": [
+{
+     "name": "MOVISTAR ESTRENOS",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",
+     "url": "http://direccion1/1:0:1:76C0:40E:1:C00000:0:0:0:"                   
+               },
+{
+     "name": "MOVISTAR ESTRENOS (OPCION 2)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",
+     "url": "http://direccion2/1:0:1:76C0:40E:1:C00000:0:0:0:"  
+               },
+{
+     "name": "MOVISTAR ESTRENOS (OPCION 3)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",
+     "url": "http://direccion3/1:0:1:76C0:40E:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "MOVISTAR XTRA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo-xtra.png",
+"stations": [
+{
+     "name": "MOVISTAR XTRA",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo-xtra.png",
+     "url": "http://direccion1/1:0:1:77C5:40A:1:C00000:0:0:0:" 
+                },
+{
+     "name": "MOVISTAR XTRA (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo-xtra.png",
+     "url": "http://direccion2/1:0:1:77C5:40A:1:C00000:0:0:0:"
+               },
+{
+     "name": "MOVISTAR XTRA (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo-xtra.png",
+     "url": "http://direccion3/1:0:1:77C5:40A:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "MOVISTAR ACCION",
+"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",
+"stations": [
+{
+     "name": "MOVISTAR ACCION",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",
+     "url": "http://direccion1/1:0:1:746C:3F0:1:C00000:0:0:0:"            
+               },
+{
+     "name": "MOVISTAR ACCION (OPCION 2)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",
+     "url": "http://direccion2/1:0:1:746C:3F0:1:C00000:0:0:0:"
+               },
+{
+     "name": "MOVISTAR ACCION (OPCION 3)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",
+     "url": "http://direccion3/1:0:1:746C:3F0:1:C00000:0:0:0:"
+               },
+]
+},
+{                    
+"name": "MOVISTAR COMEDIA",
+"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",
+"stations": [
+{
+     "name": "MOVISTAR COMEDIA",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",
+     "url": "http://direccion1/1:0:1:746D:3F0:1:C00000:0:0:0:"              
+               },
+{
+     "name": "MOVISTAR COMEDIA (OPCION 2)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",
+     "url": "http://direccion2/1:0:1:746D:3F0:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR COMEDIA (OPCION 3)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",
+     "url": "http://direccion3/1:0:1:746D:3F0:1:C00000:0:0:0:"
+                },
+]
+},
+{                         
+"name": "MOVISTAR DCINE",
+"image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",
+"stations": [
+{
+     "name": "MOVISTAR DCINE",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",
+     "url": "http://direccion1/1:0:1:746E:3F0:1:C00000:0:0:0:"
+                },
+{
+     "name": "MOVISTAR DCINE (OPCION 2)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",
+     "url": "http://direccion2/1:0:1:746E:3F0:1:C00000:0:0:0:"
+               },
+{
+     "name": "MOVISTAR DCINE (OPCION 3)",
+     "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",
+     "url": "http://direccion3/1:0:1:746E:3F0:1:C00000:0:0:0:"
+               },
+]
+},
+{                         
+"name": "MOVISTAR SERIES",
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",
+"stations": [              
+{
+     "name": "MOVISTAR SERIES",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",
+     "url": "http://direccion1/1:0:1:7696:41E:1:C00000:0:0:0:"            
+               },
+{
+     "name": "MOVISTAR SERIES (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",
+     "url": "http://direccion2/1:0:1:7696:41E:1:C00000:0:0:0:"
+               },
+{
+     "name": "MOVISTAR SERIES (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Logo-series.png",
+     "url": "http://direccion3/1:0:1:7696:41E:1:C00000:0:0:0:"
+                },
+]
+},
+{                         
+"name": "MOVISTAR CINE Ñ",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo-cine-n.png",
+"stations": [                 
+{
+     "name": "MOVISTAR CINE Ñ",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo-cine-n.png",
+     "url": "http://direccion1/1:0:1:7736:416:1:C00000:0:0:0:"                
+                 },
+{
+     "name": "MOVISTAR CINE Ñ (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo-cine-n.png",
+     "url": "http://direccion2/1:0:1:7736:416:1:C00000:0:0:0:"
+                 },
+{
+     "name": "MOVISTAR CINE Ñ (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Logo-cine-n.png",
+     "url": "http://direccion3/1:0:1:7736:416:1:C00000:0:0:0:"
+                 },
+]
+},
+{                         
+"name": "PARAMOUNT CHANNEL",
+"image": "http://www.bbox-actus.com/img/large/paramount-channel.jpg",
+"stations": [
+{
+     "name": "PARAMOUNT CHANNEL",
+     "image": "http://www.bbox-actus.com/img/large/paramount-channel.jpg",
+     "url": "http://direccion1/1:0:1:75F9:408:1:C00000:0:0:0:"                
+                },
+{
+     "name": "PARAMOUNT CHANNEL (OPCION 2)",
+     "image": "http://www.bbox-actus.com/img/large/paramount-channel.jpg",
+     "url": "http://direccion2/1:0:1:75F9:408:1:C00000:0:0:0:"
+                },
+{
+     "name": "PARAMOUNT CHANNEL (OPCION 3)",
+     "image": "http://www.bbox-actus.com/img/large/paramount-channel.jpg",
+     "url": "http://direccion3/1:0:1:75F9:408:1:C00000:0:0:0:"
+                },                                                                                                                                  
+]
+},
+{                         
+"name": "NONSTOPEOPLE",
+"image": "http://i.blogs.es/f5f211/non-stop-people/650_1200.jpg",
+"stations": [               
+{
+     "name": "NONSTOPEOPLE",
+     "image": "http://i.blogs.es/f5f211/non-stop-people/650_1200.jpg",
+     "url": "http://direccion1/1:0:1:772E:416:1:C00000:0:0:0:"               
+                },
+{
+     "name": "NONSTOPEOPLE (OPCION 2)",
+     "image": "http://i.blogs.es/f5f211/non-stop-people/650_1200.jpg",
+     "url": "http://direccion2/1:0:1:772E:416:1:C00000:0:0:0:"
+                },
+{
+     "name": "NONSTOPEOPLE (OPCION 3)",
+     "image": "http://i.blogs.es/f5f211/non-stop-people/650_1200.jpg",
+     "url": "http://direccion3/1:0:1:772E:416:1:C00000:0:0:0:"
+                },
+]
+},
+{                         
+"name": "CALLE 13",
+"image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
+"stations": [
+{
+     "name": "CALLE 13",
+     "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
+     "url": "http://direccion1/1:0:1:7790:424:1:C00000:0:0:0:"               
+               },
+{
+     "name": "CALLE 13 (OPCION 2)",
+     "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
+     "url": "http://direccion2/1:0:1:7790:424:1:C00000:0:0:0:"
+                },
+{
+     "name": "CALLE 13 (OPCION 3)",
+     "image": "http://img3.wikia.nocookie.net/__cb20130122022030/logopedia/images/c/cf/Calle_13_Latinoamerica_(Logo).png",
+     "url": "http://direccion3/1:0:1:7790:424:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "FOX",
+"image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
+"stations": [
+{
+     "name": "FOX",
+     "image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
+     "url": "http://direccion1/1:0:1:746F:3F0:1:C00000:0:0:0:"              
+               },
+{
+     "name": "FOX (OPCION 2)",
+     "image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
+     "url": "http://direccion2/1:0:1:746F:3F0:1:C00000:0:0:0:"
+               },
+{
+     "name": "FOX (OPCION 3)",
+     "image": "http://img2.wikia.nocookie.net/__cb20090226214941/lossimpson/es/images/a/a5/800px-FOX_wordmark-orange_svg.png",
+     "url": "http://direccion3/1:0:1:746F:3F0:1:C00000:0:0:0:"
+               }, 
+]
+},
+{                         
+"name": "FOX LIFE",
+"image": "http://2.bp.blogspot.com/-Jrfe5dQ6DMg/U_4UEoMYj9I/AAAAAAAAAKk/0JuZzEAHJ1w/s1600/fox.png",
+"stations": [
+{
+     "name": "FOX LIFE",
+     "image": "http://2.bp.blogspot.com/-Jrfe5dQ6DMg/U_4UEoMYj9I/AAAAAAAAAKk/0JuZzEAHJ1w/s1600/fox.png",
+     "url": "http://direccion1/1:0:19:78BA:3EC:1:C00000:0:0:0:"              
+                },
+{
+     "name": "FOX LIFE (OPCION 2)",
+     "image": "http://2.bp.blogspot.com/-Jrfe5dQ6DMg/U_4UEoMYj9I/AAAAAAAAAKk/0JuZzEAHJ1w/s1600/fox.png",
+     "url": "http://direccion2/1:0:19:78BA:3EC:1:C00000:0:0:0:"
+                },
+{
+     "name": "FOX LIFE (OPCION 3)",
+     "image": "http://2.bp.blogspot.com/-Jrfe5dQ6DMg/U_4UEoMYj9I/AAAAAAAAAKk/0JuZzEAHJ1w/s1600/fox.png",
+     "url": "http://direccion3/1:0:19:78BA:3EC:1:C00000:0:0:0:"
+                },                
+]
+},
+{                         
+"name": "AXN",
+"image": "http://i.imgur.com/UsnZWam.png",
+"stations": [
+{
+     "name": "AXN",
+     "image": "http://i.imgur.com/UsnZWam.png",
+     "url": "http://direccion1/1:0:1:7477:3F0:1:C00000:0:0:0:"               
+                },
+{
+     "name": "AXN (OPCION 2)",
+     "image": "http://i.imgur.com/UsnZWam.png",
+     "url": "http://direccion2/1:0:1:7477:3F0:1:C00000:0:0:0:"
+                },
+{
+     "name": "AXN (OPCION 3)",
+     "image": "http://i.imgur.com/UsnZWam.png",
+     "url": "http://direccion3/1:0:1:7477:3F0:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "AXN WHITE",
+"image": "http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png",
+"stations": [
+{
+     "name": "AXN WHITE",
+     "image": "http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png",
+     "url": "http://direccion1/1:0:19:74DB:3F8:1:C00000:0:0:0:"              
+                },
+{
+     "name": "AXN WHITE (OPCION 2)",
+     "image": "http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png",
+     "url": "http://direccion2/1:0:19:74DB:3F8:1:C00000:0:0:0:"
+                },
+{
+     "name": "AXN WHITE (OPCION 3)",
+     "image": "http://4.bp.blogspot.com/-KpUSoyrTlP8/U3JCamPEzDI/AAAAAAAAbB8/QxZhQmGYJhA/s1600/AXN_White.png",
+     "url": "http://direccion3/1:0:19:74DB:3F8:1:C00000:0:0:0:"
+                },  
+]
+},
+{                         
+"name": "SUNDANCE CHANNEL",
+"image": "http://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525.jpg",
+"stations": [
+{
+     "name": "SUNDANCE CHANNEL",
+     "image": "http://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525.jpg",
+     "url": "http://direccion1/1:0:1:76A5:41E:1:C00000:0:0:0:"                                                              
+                },
+{
+     "name": "SUNDANCE CHANNEL (OPCION 2)",
+     "image": "http://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525.jpg",
+     "url": "http://direccion2/1:0:1:76A5:41E:1:C00000:0:0:0:"
+                },
+{
+     "name": "SUNDANCE CHANNEL (OPCION 3)",
+     "image": "http://pmcdeadline2.files.wordpress.com/2012/11/sundancechannel__120717160525.jpg",
+     "url": "http://direccion3/1:0:1:76A5:41E:1:C00000:0:0:0:"
+                },  
+]
+},
+{                         
+"name": "SYFY",
+"image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
+"stations": [
+{
+     "name": "SYFY",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
+     "url": "http://direccion1/1:0:19:74CD:3F8:1:C00000:0:0:0:"             
+               },
+{
+     "name": "SYFY (OPCION 2)",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
+     "url": "http://direccion2/1:0:19:74CD:3F8:1:C00000:0:0:0:"
+                },
+{
+     "name": "SYFY (OPCION 3)",
+     "image": "http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",
+     "url": "http://direccion3/1:0:19:74CD:3F8:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "TCM",
+"image": "http://www.shdlogistics.com/content-images/news/TCM_logo.jpg",
+"stations": [
+{
+     "name": "TCM",
+     "image": "http://www.shdlogistics.com/content-images/news/TCM_logo.jpg",
+     "url": "http://direccion1/1:0:1:76C7:40E:1:C00000:0:0:0:"          
+                },
+{
+     "name": "TCM (OPCION 2)",
+     "image": "http://www.shdlogistics.com/content-images/news/TCM_logo.jpg",
+     "url": "http://direccion2/1:0:1:76C7:40E:1:C00000:0:0:0:"
+                },
+{
+     "name": "TCM (OPCION 3)",
+     "image": "http://www.shdlogistics.com/content-images/news/TCM_logo.jpg",
+     "url": "http://direccion3/1:0:1:76C7:40E:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "COSMO",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/245px-Cosmo_TV_logo.svg.png",
+"stations": [
+{
+     "name": "COSMO",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/245px-Cosmo_TV_logo.svg.png",
+     "url": "http://direccion1/1:0:1:7730:416:1:C00000:0:0:0:"                  
+                 },
+{
+     "name": "COSMO (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/245px-Cosmo_TV_logo.svg.png",
+     "url": "http://direccion2/1:0:1:7730:416:1:C00000:0:0:0:"
+                 },
+{
+     "name": "COSMO (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/245px-Cosmo_TV_logo.svg.png",
+     "url": "http://direccion3/1:0:1:7730:416:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "AMC",
+"image": "http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png",
+"stations": [
+{
+     "name": "AMC",
+     "image": "http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png",
+     "url": "http://direccion1/1:0:1:76CF:40E:1:C00000:0:0:0:"                  
+                 },
+{
+     "name": "AMC (OPCION 2)",
+     "image": "http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png",
+     "url": "http://direccion2/1:0:1:76CF:40E:1:C00000:0:0:0:"
+                 },
+{
+     "name": "AMC (OPCION 3)",
+     "image": "http://4.bp.blogspot.com/-MyRDS82mfmA/UVpy9G3NZUI/AAAAAAAAZK8/d4mg7UvA3w0/s1600/AMC+logo.png",
+     "url": "http://direccion3/1:0:1:76CF:40E:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "COMEDY CENTRAL",
+"image": "http://www.livetvfreestreaming.com/wp-content/uploads/2013/02/Comedy_Central_logo.png",
+"stations": [
+{
+     "name": "COMEDY CENTRAL",
+     "image": "http://www.livetvfreestreaming.com/wp-content/uploads/2013/02/Comedy_Central_logo.png",
+     "url": "http://direccion1/1:0:1:76C8:40E:1:C00000:0:0:0:"                 
+                },
+{
+     "name": "COMEDY CENTRAL (OPCION 2)",
+     "image": "http://www.livetvfreestreaming.com/wp-content/uploads/2013/02/Comedy_Central_logo.png",
+     "url": "http://direccion2/1:0:1:76C8:40E:1:C00000:0:0:0:"
+                },
+{
+     "name": "COMEDY CENTRAL (OPCION 3)",
+     "image": "http://www.livetvfreestreaming.com/wp-content/uploads/2013/02/Comedy_Central_logo.png",
+     "url": "http://direccion3/1:0:1:76C8:40E:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "HOLLYWOOD",
+"image": "http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png",
+"stations": [ 
+{
+     "name": "HOLLYWOOD",
+     "image": "http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png",
+     "url": "http://direccion1/1:0:1:77C1:40A:1:C00000:0:0:0:"               
+                },
+{
+     "name": "HOLLYWOOD (OPCION 2)",
+     "image": "http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png",
+     "url": "http://direccion2/1:0:1:77C1:40A:1:C00000:0:0:0:"
+                },
+{
+     "name": "HOLLYWOOD (OPCION 3)",
+     "image": "http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png",
+     "url": "http://direccion3/1:0:1:77C1:40A:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "TNT",
+"image": "https://programetv.telekom.ro/media/channels/channel/15/12/09/6c726777-25d7-41f6-8f03-a76d39e9d9d1.png",
+"stations": [
+{
+     "name": "TNT",
+     "image": "https://programetv.telekom.ro/media/channels/channel/15/12/09/6c726777-25d7-41f6-8f03-a76d39e9d9d1.png",
+     "url": "http://direccion1/1:0:19:7888:414:1:C00000:0:0:0:"                
+               },
+{
+     "name": "TNT (OPCION 2)",
+     "image": "https://programetv.telekom.ro/media/channels/channel/15/12/09/6c726777-25d7-41f6-8f03-a76d39e9d9d1.png",
+     "url": "http://direccion2/1:0:19:7888:414:1:C00000:0:0:0:"
+               },
+{
+     "name": "TNT (OPCION 3)",
+     "image": "https://programetv.telekom.ro/media/channels/channel/15/12/09/6c726777-25d7-41f6-8f03-a76d39e9d9d1.png",
+     "url": "http://direccion3/1:0:19:7888:414:1:C00000:0:0:0:"
+               },      
+]
+},
+]
+},
+{
+"name": "TEMATICOS",
+"image": "http://www.aula-51.com/img/blog/images/Taller-Documentales-Cebras-Sabana.jpg",
+"groups": [
+{                   
+"name": "CRIMEN E INVESTIGACION",
+"image": "http://blog.mundo-r.com/wp-content/uploads/2015/04/crimen_investigacion.png",
+"stations": [
+{
+     "name": "CRIMEN E INVESTIGACION",
+     "image": "https://3.bp.blogspot.com/-yCXkE9yoEkU/Vt1mku4foQI/AAAAAAAAfoE/9ItqZ7_POrg/s1600/crimen-investigacion.jpg",
+     "url": "http://direccion1/1:0:1:7732:416:1:C00000:0:0:0:"             
+               },
+{
+     "name": "CRIMEN E INVESTIGACION (OPCION 2)",
+     "image": "https://3.bp.blogspot.com/-yCXkE9yoEkU/Vt1mku4foQI/AAAAAAAAfoE/9ItqZ7_POrg/s1600/crimen-investigacion.jpg",
+     "url": "http://direccion2/1:0:1:7732:416:1:C00000:0:0:0:"
+               },
+{
+     "name": "CRIMEN E INVESTIGACION (OPCION 3)",
+     "image": "https://3.bp.blogspot.com/-yCXkE9yoEkU/Vt1mku4foQI/AAAAAAAAfoE/9ItqZ7_POrg/s1600/crimen-investigacion.jpg",
+     "url": "http://direccion3/1:0:1:7732:416:1:C00000:0:0:0:"
+               },
+]
+},
+{                         
+"name": "DISCOVERY CHANNEL",
+"image": "https://media2.pl/g/0/38443.jpg",
+"stations": [
+{
+     "name": "DISCOVERY CHANNEL",
+     "image": "https://media2.pl/g/0/38443.jpg",
+     "url": "http://direccion1/1:0:1:772F:416:1:C00000:0:0:0:"             
+               },
+{
+     "name": " DISCOVERY CHANNEL (OPCION 2)",
+     "image": "https://media2.pl/g/0/38443.jpg",
+     "url": "http://direccion2/1:0:1:772F:416:1:C00000:0:0:0:"
+               },
+{
+     "name": "DISCOVERY CHANNEL (OPCION 3)",
+     "image": "https://media2.pl/g/0/38443.jpg",
+     "url": "http://direccion3/1:0:1:772F:416:1:C00000:0:0:0:"
+               }, 
+]
+},
+{                         
+"name": "NATIONAL GEOGRAPHIC",
+"image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
+"stations": [
+{
+     "name": "NATIONAL GEOGRAPHIC",
+     "image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
+     "url": "http://direccion1/1:0:1:778D:424:1:C00000:0:0:0:"                              
+                },
+{
+     "name": "NATIONAL GEOGRAPHIC (OPCION 2)",
+     "image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
+     "url": "http://direccion2/1:0:1:778D:424:1:C00000:0:0:0:"
+                },
+{
+     "name": "NATIONAL GEOGRAPHIC (OPCION 3)",
+     "image": "http://www.soniablanco.es/wp-content/uploads/2013/06/natgeologo.jpg",
+     "url": "http://direccion3/1:0:1:778D:424:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "NAT GEO WILD",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
+"stations": [
+{
+     "name": "NAT GEO WILD",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
+     "url": "http://direccion1/1:0:1:77D8:40A:1:C00000:0:0:0:"              
+                },
+{
+     "name": "NAT GEO WILD (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
+     "url": "http://direccion2/1:0:1:77D8:40A:1:C00000:0:0:0:"
+                },
+{
+     "name": "NAT GEO WILD (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",
+     "url": "http://direccion3/1:0:1:77D8:40A:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "HISTORIA",
+"image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
+"stations": [
+{
+     "name": "HISTORIA",
+     "image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
+     "url": "http://direccion1/1:0:1:7731:416:1:C00000:0:0:0:"             
+               }, 
+{
+     "name": "HISTORIA (OPCION 2)",
+     "image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
+     "url": "http://direccion2/1:0:1:7731:416:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "HISTORIA (OPCION 3)",
+     "image": "http://canalhistoria.es/wp-content/uploads/2013/12/fiesta15aniversario.gif",
+     "url": "http://direccion3/1:0:1:7731:416:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "BLAZE",
+"image": "http://tveonline.webcindario.com/BLAZE.png",
+"stations": [
+{
+     "name": "BLAZE",
+     "image": "http://tveonline.webcindario.com/BLAZE.png",
+     "url": "http://direccion1/1:0:1:772D:416:1:C00000:0:0:0:"                    
+                 }, 
+{
+     "name": "BLAZE (OPCION 2)",
+     "image": "http://tveonline.webcindario.com/BLAZE.png",
+     "url": "http://direccion2/1:0:1:772D:416:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "BLAZE (OPCION 3)",
+     "image": "http://tveonline.webcindario.com/BLAZE.png",
+     "url": "http://direccion3/1:0:1:772D:416:1:C00000:0:0:0:"
+				 }, 
+]
+},
+{                         
+"name": "ODISEA",
+"image": "http://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg",
+"stations": [
+{
+     "name": "ODISEA",
+     "image": "http://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg",
+     "url": "http://direccion1/1:0:1:778A:424:1:C00000:0:0:0:"              
+                 }, 
+{
+     "name": "ODISEA (OPCION 2)",
+     "image": "http://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg",
+     "url": "http://direccion2/1:0:1:778A:424:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "ODISEA (OPCION 3)",
+     "image": "http://img2.wikia.nocookie.net/__cb20110227171834/logopedia/images/5/5c/Odisea2011.jpg",
+     "url": "http://direccion3/1:0:1:778A:424:1:C00000:0:0:0:"
+                 },  
+]
+},
+{                         
+"name": "CANAL COCINA",
+"image": "http://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-398-299.JPG",
+"stations": [
+{
+     "name": "CANAL COCINA",
+     "image": "http://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-398-299.JPG",
+     "url": "http://direccion1/1:0:1:76CE:40E:1:C00000:0:0:0:"                 
+                  },
+{
+     "name": "CANAL COCINA (OPCION 2)",
+     "image": "http://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-398-299.JPG",
+     "url": "http://direccion2/1:0:1:76CE:40E:1:C00000:0:0:0:"
+                  },
+{
+     "name": "CANAL COCINA (OPCION 3)",
+     "image": "http://canalcocina.es/medias/_cache/zoom-7eff46a4aea5f907ea1b8f6406856731-398-299.JPG",
+     "url": "http://direccion3/1:0:1:76CE:40E:1:C00000:0:0:0:"
+                  }, 
+]
+},
+{                         
+"name": "DECASA",
+"image": "http://www.exclusivadigital.com/fotos/13306995991.jpg",
+"stations": [
+{
+     "name": "DECASA",
+     "image": "http://www.exclusivadigital.com/fotos/13306995991.jpg",
+     "url": "http://direccion1/1:0:1:7795:424:1:C00000:0:0:0:"                
+                }, 
+{
+     "name": "DECASA (OPCION 2)",
+     "image": "http://www.exclusivadigital.com/fotos/13306995991.jpg",
+     "url": "http://direccion2/1:0:1:7795:424:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "DECASA (OPCION 3)",
+     "image": "http://www.exclusivadigital.com/fotos/13306995991.jpg",
+     "url": "http://direccion3/1:0:1:7795:424:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "VIAJAR",
+"image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
+"stations": [
+{
+     "name": "VIAJAR",
+     "image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
+     "url": "http://direccion1/1:0:1:76C9:40E:1:C00000:0:0:0:"                
+                 },
+{
+     "name": "VIAJAR (OPCION 2)",
+     "image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
+     "url": "http://direccion2/1:0:1:76C9:40E:1:C00000:0:0:0:"
+                 },
+{
+     "name": "VIAJAR (OPCION 3)",
+     "image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
+     "url": "http://direccion3/1:0:1:76C9:40E:1:C00000:0:0:0:"
+                 },
+{
+     "name": "VIAJAR HD (OPCION 4)",
+     "image": "http://tv.orange.es/UpImages/2238/viajar_gr_f296b04b8a7c668188d13d7e0.jpg",
+     "url": "http://ftvnext.stmteam.org:8000/Alberto11/Alberto11/1274.ch"                                                    
+                 }, 
+]
+},
+]
+},
+{
+"name": "INFANTILES",
+"image": "https://www.muralesyvinilos.com/murales/thum2/33556267[1].jpg",
+"groups": [
+{                    
+"name": "BOING",
+"image": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg",
+"stations": [ 
+{
+     "name": "BOING",
+     "image": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg",
+     "url": "http://direccion1/1:0:1:749E:41C:1:C00000:0:0:0:"               
+               }, 
+{
+     "name": "BOING (OPCION 2)",
+     "image": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg",
+     "url": "http://direccion2/1:0:1:749E:41C:1:C00000:0:0:0:"
+               }, 
+{
+     "name": "BOING (OPCION 3)",
+     "image": "http://www.ocendi.com/wp-content/themes/ocendi/style/post/2010/09/Logo_boing.jpg",
+     "url": "http://direccion3/1:0:1:749E:41C:1:C00000:0:0:0:"
+               }, 
+]
+},
+{                         
+"name": "BABY TV",
+"image": "http://vignette2.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png/revision/latest?cb=20140203022623",
+"stations": [
+{
+     "name": "BABY TV",
+     "image": "http://vignette2.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png/revision/latest?cb=20140203022623",
+     "url": "http://direccion1/1:0:1:749C:41C:1:C00000:0:0:0:"                
+                 }, 
+{
+     "name": "BABY TV (OPCION 2)",
+     "image": "http://vignette2.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png/revision/latest?cb=20140203022623",
+     "url": "http://direccion2/1:0:1:749C:41C:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "BABY TV (OPCION 3)",
+     "image": "http://vignette2.wikia.nocookie.net/logosfakeped/images/e/eb/Babytv_fox_font.png/revision/latest?cb=20140203022623",
+     "url": "http://direccion3/1:0:1:749C:41C:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "CLAN TV",
+"image": "http://blog.phonehouse.es/wp-content/uploads/2014/08/Logo_Clan_TVE.jpg",
+"stations": [
+{
+     "name": "CLAN TV",
+     "image": "http://blog.phonehouse.es/wp-content/uploads/2014/08/Logo_Clan_TVE.jpg",
+     "url": "http://direccion1/1:0:1:77BE:40A:1:C00000:0:0:0:"                  
+                 }, 
+{
+     "name": "CLAN TV (OPCION 2)",
+     "image": "http://blog.phonehouse.es/wp-content/uploads/2014/08/Logo_Clan_TVE.jpg",
+     "url": "http://direccion2/1:0:1:77BE:40A:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "CLAN TV (OPCION 3)",
+     "image": "http://blog.phonehouse.es/wp-content/uploads/2014/08/Logo_Clan_TVE.jpg",
+     "url": "http://direccion3/1:0:1:77BE:40A:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "DISNEY CHANNEL",
+"image": "http://img3.wikia.nocookie.net/__cb20140522224840/logopedia/images/8/87/Disney_Channel_2014.png",
+"stations": [
+{
+     "name": "DISNEY CHANNEL",
+     "image": "http://img3.wikia.nocookie.net/__cb20140522224840/logopedia/images/8/87/Disney_Channel_2014.png",
+     "url": "http://direccion1/1:0:1:76C3:40E:1:C00000:0:0:0:"                
+                 },
+{
+     "name": "DISNEY CHANNEL (OPCION 2)",
+     "image": "http://img3.wikia.nocookie.net/__cb20140522224840/logopedia/images/8/87/Disney_Channel_2014.png",
+     "url": "http://direccion2/1:0:1:76C3:40E:1:C00000:0:0:0:"
+                 },
+{
+     "name": "DISNEY CHANNEL (OPCION 3)",
+     "image": "http://img3.wikia.nocookie.net/__cb20140522224840/logopedia/images/8/87/Disney_Channel_2014.png",
+     "url": "http://direccion3/1:0:1:76C3:40E:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "DISNEY JUNIOR",
+"image": "http://cincomom.com/wp-content/uploads/2012/08/Disney-Junior.png",
+"stations": [
+{
+     "name": "DISNEY JUNIOR",
+     "image": "http://cincomom.com/wp-content/uploads/2012/08/Disney-Junior.png",
+     "url": "http://direccion1/1:0:1:746B:3F0:1:C00000:0:0:0:"              
+                 }, 
+{
+     "name": "DISNEY JUNIOR (OPCION 2)",
+     "image": "http://cincomom.com/wp-content/uploads/2012/08/Disney-Junior.png",
+     "url": "http://direccion2/1:0:1:746B:3F0:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "DISNEY JUNIOR (OPCION 3)",
+     "image": "http://cincomom.com/wp-content/uploads/2012/08/Disney-Junior.png",
+     "url": "http://direccion3/1:0:1:746B:3F0:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "PANDA",
+"image": "http://blog.ono.es/wp-content/uploads/2011/03/canalpandatelevisionono.jpg",
+"stations": [
+{
+     "name": "PANDA",
+     "image": "http://blog.ono.es/wp-content/uploads/2011/03/canalpandatelevisionono.jpg",
+     "url": "http://direccion1/1:0:1:75FF:408:1:C00000:0:0:0:"                
+                }, 
+{
+     "name": "PANDA (OPCION 2)",
+     "image": "http://blog.ono.es/wp-content/uploads/2011/03/canalpandatelevisionono.jpg",
+     "url": "http://direccion2/1:0:1:75FF:408:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "PANDA (OPCION 3)",
+     "image": "http://blog.ono.es/wp-content/uploads/2011/03/canalpandatelevisionono.jpg",
+     "url": "http://direccion3/1:0:1:75FF:408:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "DISNEY XD",
+"image": "http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo.jpg",
+"stations": [
+{
+     "name": "DISNEY XD",
+     "image": "http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo.jpg",
+     "url": "http://direccion1/1:0:1:772A:416:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "DISNEY XD (OPCION 2)",
+     "image": "http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo.jpg",
+     "url": "http://direccion2/1:0:1:772A:416:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "DISNEY XD (OPCION 3)",
+     "image": "http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo.jpg",
+     "url": "http://direccion3/1:0:1:772A:416:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "NICK JR",
+"image": "https://s-media-cache-ak0.pinimg.com/originals/76/8a/9b/768a9b1cd2f254b14f89259dce0847f8.jpg",
+"stations": [
+{
+     "name": "NICK JR",
+     "image": "https://s-media-cache-ak0.pinimg.com/originals/76/8a/9b/768a9b1cd2f254b14f89259dce0847f8.jpg",
+     "url": "http://direccion1/1:0:1:7602:408:1:C00000:0:0:0:"               
+                }, 
+{
+     "name": "NICK JR (OPCION 2)",
+     "image": "https://s-media-cache-ak0.pinimg.com/originals/76/8a/9b/768a9b1cd2f254b14f89259dce0847f8.jpg",
+     "url": "http://direccion2/1:0:1:7602:408:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "NICK JR (OPCION 3)",
+     "image": "https://s-media-cache-ak0.pinimg.com/originals/76/8a/9b/768a9b1cd2f254b14f89259dce0847f8.jpg",
+     "url": "http://direccion3/1:0:1:7602:408:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "NICKELODEON",
+"image": "http://img2.wikia.nocookie.net/__cb20121101125033/logopedia/images/6/6b/Nickelodeon_OlderSplat.png",
+"stations": [
+{
+     "name": "NICKELODEON",
+     "image": "http://img2.wikia.nocookie.net/__cb20121101125033/logopedia/images/6/6b/Nickelodeon_OlderSplat.png",
+     "url": "http://direccion1/1:0:1:6FF4:42A:1:C00000:0:0:0:"                 
+                }, 
+{
+     "name": "NICKELODEON (OPCION 2)",
+     "image": "http://img2.wikia.nocookie.net/__cb20121101125033/logopedia/images/6/6b/Nickelodeon_OlderSplat.png",
+     "url": "http://direccion2/1:0:1:6FF4:42A:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "NICKELODEON (OPCION 3)",
+     "image": "http://img2.wikia.nocookie.net/__cb20121101125033/logopedia/images/6/6b/Nickelodeon_OlderSplat.png",
+     "url": "http://direccion3/1:0:1:6FF4:42A:1:C00000:0:0:0:"
+                },                                                                            
+]
+},
+]
+},
+{
+"name": "TDT",
+"image": "http://canaletestereo.com/wp-content/uploads/2018/01/tdt-en-colombia.jpg",
+"groups": [
+{                    
+"name": "TVE.24 HORAS",
+"image": "http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg",
+"stations": [ 
+{
+     "name": "TVE.24 HORAS",
+     "image": "http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg",
+     "url": "http://direccion1/1:0:1:7738:416:1:C00000:0:0:0:"               
+               }, 
+{
+     "name": "TVE.24 HORAS (OPCION 2)",
+     "image": "http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg",
+     "url": "http://direccion2/1:0:1:7738:416:1:C00000:0:0:0:"
+               }, 
+{
+     "name": "TVE.24 HORAS (OPCION 3)",
+     "image": "http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg",
+     "url": "http://direccion3/1:0:1:7738:416:1:C00000:0:0:0:"
+               }, 
+]
+},
+{                         
+"name": "LA 1",
+"image": "http://i.bssl.es/telelocura/2015/03/LOGO1.png",
+"stations": [
+{
+     "name": "LA 1",
+     "image": "http://i.bssl.es/telelocura/2015/03/LOGO1.png",
+     "url": "http://direccion1/1:0:19:7863:41A:1:C00000:0:0:0:"                
+                 }, 
+{
+     "name": "LA 1 (OPCION 2)",
+     "image": "http://i.bssl.es/telelocura/2015/03/LOGO1.png",
+     "url": "http://direccion2/1:0:19:7863:41A:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "LA 1 (OPCION 3)",
+     "image": "http://i.bssl.es/telelocura/2015/03/LOGO1.png",
+     "url": "http://direccion3/1:0:19:7863:41A:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "LA 2",
+"image": "http://www.monicaesgueva.com/wp-content/uploads/2013/04/logo_tve-2-7506991.png",
+"stations": [
+{
+     "name": "LA 2",
+     "image": "http://www.monicaesgueva.com/wp-content/uploads/2013/04/logo_tve-2-7506991.png",
+     "url": "http://direccion1/1:0:1:77C2:40A:1:C00000:0:0:0:"                  
+                 }, 
+{
+     "name": "LA 2 (OPCION 2)",
+     "image": "http://www.monicaesgueva.com/wp-content/uploads/2013/04/logo_tve-2-7506991.png",
+     "url": "http://direccion2/1:0:1:77C2:40A:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "LA 2 (OPCION 3)",
+     "image": "http://www.monicaesgueva.com/wp-content/uploads/2013/04/logo_tve-2-7506991.png",
+     "url": "http://direccion3/1:0:1:77C2:40A:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "ANTENA 3",
+"image": "http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg",
+"stations": [
+{
+     "name": "ANTENA 3",
+     "image": "http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg",
+     "url": "http://direccion1/1:0:19:7534:426:1:C00000:0:0:0:"                
+                 },
+{
+     "name": "ANTENA 3 (OPCION 2)",
+     "image": "http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg",
+     "url": "http://direccion2/1:0:19:7534:426:1:C00000:0:0:0:"
+                 },
+{
+     "name": "ANTENA 3 (OPCION 3)",
+     "image": "http://www.brandemia.org/wp-content/uploads/2011/02/logoa3.jpg",
+     "url": "http://direccion3/1:0:19:7534:426:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "CUATRO",
+"image": "http://www.cuartoderecha.com/archivos/post_0070.png",
+"stations": [
+{
+     "name": "CUATRO",
+     "image": "http://www.cuartoderecha.com/archivos/post_0070.png",
+     "url": "http://direccion1/1:0:19:7535:426:1:C00000:0:0:0:"              
+                 }, 
+{
+     "name": "CUATRO (OPCION 2)",
+     "image": "http://www.cuartoderecha.com/archivos/post_0070.png",
+     "url": "http://direccion2/1:0:19:7535:426:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "CUATRO (OPCION 3)",
+     "image": "http://www.cuartoderecha.com/archivos/post_0070.png",
+     "url": "http://direccion3/1:0:19:7535:426:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "TELECINCO",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",
+"stations": [
+{
+     "name": "TELECINCO",
+     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",
+     "url": "http://direccion1/1:0:19:7536:426:1:C00000:0:0:0:"                
+                }, 
+{
+     "name": "TELECINCO (OPCION 2)",
+     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",
+     "url": "http://direccion2/1:0:19:7536:426:1:C00000:0:0:0:"
+                }, 
+{
+     "name": "TELECINCO (OPCION 3)",
+     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",
+     "url": "http://direccion3/1:0:19:7536:426:1:C00000:0:0:0:"
+                }, 
+]
+},
+{                         
+"name": "LA SEXTA",
+"image": "https://afectadosventaviviendapublica.files.wordpress.com/2014/04/logo-de-la-sextaok.jpg",
+"stations": [
+{
+     "name": "LA SEXTA",
+     "image": "https://afectadosventaviviendapublica.files.wordpress.com/2014/04/logo-de-la-sextaok.jpg",
+     "url": "http://direccion1/1:0:19:7537:426:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "LA SEXTA (OPCION 2)",
+     "image": "https://afectadosventaviviendapublica.files.wordpress.com/2014/04/logo-de-la-sextaok.jpg",
+     "url": "http://direccion2/1:0:19:7537:426:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "LA SEXTA (OPCION 3)",
+     "image": "https://afectadosventaviviendapublica.files.wordpress.com/2014/04/logo-de-la-sextaok.jpg",
+     "url": "http://direccion3/1:0:19:7537:426:1:C00000:0:0:0:"
+                 },
+]
+},
+{                         
+"name": "NEOX",
+"image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+"stations": [
+{
+     "name": "NEOX",
+     "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+     "url": "http://direccion1/1:0:1:75FE:408:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "NEOX (OPCION 2)",
+     "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+     "url": "http://direccion2/1:0:1:75FE:408:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "NEOX (OPCION 3)",
+     "image": "http://www.formulatv.com/images/fgaleria/27200/27233_logotipo-de-neox-amarillo.jpg",
+     "url": "http://direccion3/1:0:1:75FE:408:1:C00000:0:0:0:"
+                 }, 
+]
+},
+{                         
+"name": "DIVINITY",
+"image": "http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg",
+"stations": [
+{
+     "name": "DIVINITY",
+     "image": "http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg",
+     "url": "http://direccion1/1:0:1:749A:41C:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "DIVINITY (OPCION 2)",
+     "image": "http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg",
+     "url": "http://direccion2/1:0:1:749A:41C:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "DIVINITY (OPCION 3)",
+     "image": "http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg",
+     "url": "http://direccion3/1:0:1:749A:41C:1:C00000:0:0:0:"
+                 }, 	
+]
+},
+{                         
+"name": "ENERGY",
+"image": "http://www.franciscodorado.com/web/wp-content/uploads/2014/01/Energy_logo__320.jpg",
+"stations": [
+{
+     "name": "ENERGY",
+     "image": "http://www.franciscodorado.com/web/wp-content/uploads/2014/01/Energy_logo__320.jpg",
+     "url": "http://direccion1/1:0:1:749F:41C:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "ENERGY (OPCION 2)",
+     "image": "http://www.franciscodorado.com/web/wp-content/uploads/2014/01/Energy_logo__320.jpg",
+     "url": "http://direccion2/1:0:1:749F:41C:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "ENERGY (OPCION 3)",
+     "image": "http://www.franciscodorado.com/web/wp-content/uploads/2014/01/Energy_logo__320.jpg",
+     "url": "http://direccion3/1:0:1:749F:41C:1:C00000:0:0:0:"
+                 }, 	
+]
+},
+{                         
+"name": "FDF",
+"image": "http://2.bp.blogspot.com/-nHHLVoY88YI/VVIfW3PMAnI/AAAAAAAAdmw/3ZivPS_-s3M/s1600/fdf1.jpg",
+"stations": [
+{
+     "name": "FDF",
+     "image": "http://2.bp.blogspot.com/-nHHLVoY88YI/VVIfW3PMAnI/AAAAAAAAdmw/3ZivPS_-s3M/s1600/fdf1.jpg",
+     "url": "http://direccion1/1:0:1:77BC:40A:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "FDF (OPCION 2)",
+     "image": "http://2.bp.blogspot.com/-nHHLVoY88YI/VVIfW3PMAnI/AAAAAAAAdmw/3ZivPS_-s3M/s1600/fdf1.jpg",
+     "url": "http://direccion2/1:0:1:77BC:40A:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "FDF (OPCION 3)",
+     "image": "http://2.bp.blogspot.com/-nHHLVoY88YI/VVIfW3PMAnI/AAAAAAAAdmw/3ZivPS_-s3M/s1600/fdf1.jpg",
+     "url": "http://direccion3/1:0:1:77BC:40A:1:C00000:0:0:0:"
+                 }, 	
+]
+},
+{                         
+"name": "NOVA",
+"image": "http://media.avtora.com/images/cut/600x450/articles/2011/09/27557.jpg",
+"stations": [
+{
+     "name": "NOVA",
+     "image": "http://media.avtora.com/images/cut/600x450/articles/2011/09/27557.jpg",
+     "url": "http://direccion1/1:0:1:7469:3F0:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "NOVA (OPCION 2)",
+     "image": "http://media.avtora.com/images/cut/600x450/articles/2011/09/27557.jpg",
+     "url": "http://direccion2/1:0:1:7469:3F0:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "NOVA (OPCION 3)",
+     "image": "http://media.avtora.com/images/cut/600x450/articles/2011/09/27557.jpg",
+     "url": "http://direccion3/1:0:1:7469:3F0:1:C00000:0:0:0:"
+                 },  	
+]
+},
+{                         
+"name": "RT ESP",
+"image": "http://www.neonetmusic.com.ar/wp-content/uploads/2017/06/RT-Espa%C3%B1ol.png",
+"stations": [
+{
+     "name": "RT ESP",
+     "image": "http://www.neonetmusic.com.ar/wp-content/uploads/2017/06/RT-Espa%C3%B1ol.png",
+     "url": "http://direccion1/1:0:1:1B65:3FC:1:C00000:0:0:0:"                 
+                 }, 
+{
+     "name": "RT ESP (OPCION 2)",
+     "image": "http://www.neonetmusic.com.ar/wp-content/uploads/2017/06/RT-Espa%C3%B1ol.png",
+     "url": "http://direccion2/1:0:1:1B65:3FC:1:C00000:0:0:0:"
+                 }, 
+{
+     "name": "RT ESP (OPCION 3)",
+     "image": "http://www.neonetmusic.com.ar/wp-content/uploads/2017/06/RT-Espa%C3%B1ol.png",
+     "url": "http://direccion3/1:0:1:1B65:3FC:1:C00000:0:0:0:"
+                 }, 
+]
+},
+]
+},
+{	  
+"name": "MUSICA",
+"image": "https://coobis.com/wp-content/uploads/2018/07/musica.jpg",
+"stations": [
+{
+     "name": "90S MUSIC",
+     "image": "https://s-media-cache-ak0.pinimg.com/originals/a8/9e/46/a89e469a9b5ee3c2e5a11604ccdef7e6.png",
+     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8" 
+                },
+{
+     "name": "CAPITAL TV",
+     "image": "https://vignette.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613",
+     "url": "http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on"                                           
+               },
+{
+     "name": "CITY TV",
+     "image": "https://i.ytimg.com/vi/Y8y_sEyS1I0/maxresdefault.jpg",
+     "url": "http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8"
+               },
+{
+     "name": "DELUXE MUSIC",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DeluxeMusic2013.svg/1200px-DeluxeMusic2013.svg.png",
+     "url": "http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8"
+               },
+{
+     "name": "DREAM TV",
+     "image": "http://vector.me/files/images/1/1/11221/dream_tv.png",
+     "url": "http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8"                                       
+               },
+{
+     "name": "FM TV",
+     "image": "https://pbs.twimg.com/profile_images/623745440178130944/wWFIYpIT.jpg",
+     "url": "http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8"                                           
+                },
+{
+     "name": "HARD LIFE",
+     "image": "https://orig00.deviantart.net/04d6/f/2007/009/0/0/hard_life_logo_by_sonictk.jpg",
+     "url": "http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8"                                                                  
+                },
+{
+     "name": "MUSIC CHANNEL",
+     "image": "http://live.moldova9.com/wp-content/uploads/1-music-channel1.png",
+     "url": "http://stream.1music.hu/stream/1music.m3u8"  
+                },
+{
+     "name": "HIT MUSIC CHANNEL",
+     "image": "http://comptelnet.net/page/wp-content/uploads/2017/07/HiTMC_logo.png",
+     "url": "http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8"                                           
+                },
+{
+     "name": "KRONEHITS",
+     "image": "https://cdn-radiotime-logos.tunein.com/s15532q.png",
+     "url": "http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8"                                                                                  
+                },
+{
+     "name": "M2O TV",
+     "image": "https://www.millecanali.it/wp-content/uploads/sites/16/2014/11/105841.jpg",
+     "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on"
+                },
+{
+     "name": "MIMUSICA HD",
+     "image": "http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png",
+     "url": "http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8" 
+                },
+{
+     "name": "NRJ HITS",
+     "image": "http://websitetv.16mb.com/images/NRJ-Hits-Tv.png",
+     "url": "http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8"
+                },
+{
+     "name": "PLANETA HD",
+     "image": "https://i.ytimg.com/vi/rko-HTa3_SI/maxresdefault.jpg",
+     "url": "http://84.43.207.130/planetahd/planetahd.m3u8"  
+                },
+{
+     "name": "POP TV",
+     "image": "https://pbs.twimg.com/profile_images/699341599755649024/rD_8o8Lo.png",
+     "url": "http://46.101.21.42:8081/live/live2/playlist.m3u8"
+                },
+{
+     "name": "POP & COUNTRY",
+     "image": "http://www.popgoesthecountry.com/wp-content/uploads/2015/10/Pop_Goes_the_Country_Logo.png",
+     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8"  
+                },
+{
+     "name": "POP HITS",
+     "image": "http://2.bp.blogspot.com/-ehGKVoz2bLc/UWWU9y64BNI/AAAAAAAAAfg/uIoyA3qmEc0/s1600/pop+hits+bubble+logo.png",
+     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8" 
+                },
+{
+     "name": "POP LATINO",
+     "image": "https://i.ytimg.com/vi/pGTdqZf04nY/maxresdefault.jpg",
+     "url": "http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8"
+               },
+{
+     "name": "ONE HD",
+     "image": "http://www.siteoffline.com/news/siteoffline_one_hd.jpg",
+     "url": "http://server5.stweb.tv/radioone/live/playlist.m3u8" 
+                },
+{
+     "name": "RETRO TV",
+     "image": "http://www.tvnewscheck.com/marketshare/wp-content/uploads/2017/07/logo.png",
+     "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" 
+                },
+{
+     "name": "ROCK TV",
+     "image": "https://orig00.deviantart.net/7ec0/f/2016/231/e/2/catali2016_s_logo_remake__rock_tv_logo_2016_by_catali2016-daekqxh.png",
+     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8" 
+                },
+{
+     "name": "ROCK NACIONAL",
+     "image": "http://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/597/500",
+     "url": "http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8"
+               },
+{
+     "name": "TELERITMO",
+     "image": "http://www.ethnicchannels.com/images/channeldetail/teleritmo/teleritmo-logo.png",
+     "url": "http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8"
+               },
+{
+     "name": "TOP LATINO",
+     "image": "http://www.liveradio.ie/files/images/119710/resized/180x172c/logo_toplatino_300x300.jpg",
+     "url": "http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8"
+               },
+{
+     "name": "TROPICAL MUSIC",
+     "image": "http://static.wixstatic.com/media/7060b5_aa840bf35ab2076d2a65b969b8437682.png_256",
+     "url": "http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8"
+               },
+{
+     "name": "VIRGIN TV",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_virgin_radio_tv.png/1200px-Logo_virgin_radio_tv.png",
+     "url": "http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8"                                                     
+                },
+]
+},
+{
+"name": "RADIO",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgLXcN7i3HNkylLhMod5pDJrPVwKR0V1FZuAXlB03twCBjsEBi",
+"stations": [
+{
+     "name": "TRANCE",
+     "image": "http://www.mixjunkies.com/wp-content/uploads/2011/06/i-love-trance-music.jpg",
+     "url": "http://icecast.pulsradio.com:80/pulstranceHD.mp3"
+               },
+{
+     "name": "PLUS RADIO",
+     "image": "http://www.locucionar.com/images/logo_radio_plus.png",
+     "url": "http://icecast.pulsradio.com/relaxHD.mp3"
+               },
+{
+     "name": "HOTMIX RADIO ROCK",
+     "image": "http://cdn-radiotime-logos.tunein.com/s54693q.png",
+     "url": "http://hotmixradio-rock.ice.infomaniak.ch/hotmixradio-rock-128.mp3"
+               },
+{
+     "name": "HOTMIX RADIO METAL",
+     "image": "http://cdn-radiotime-logos.tunein.com/s105876q.png",
+     "url": "http://hotmixradio-metal.ice.infomaniak.ch/hotmixradio-metal-128.mp3"
+               },
+{
+     "name": "HOTMIX RADIO DANCE",
+     "image": "http://coulissesmedias.com/wp-content/uploads/2013/02/hot_mix_radio.jpg",
+     "url": "http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-dance-128.mp3"
+               },
+{
+     "name": "DANCE RADIO",
+     "image": "http://www.webradio-annuaire.com/wp-content/uploads/2014/12/logo-Original-Facebook.png",
+     "url": "http://mp3stream4.abradio.cz:8000/dance128.mp3"                                                                                  
+                 },
+{
+     "name": "EUROPA FM",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqyknNQ5P7_U7zuhU-YOF1HiiQHBSJ1sgdwAy86K3nz1XK3Isbhw",
+     "url": "http://stream.irratia.net/1?1426452457556.aac"                
+                 },
+{
+     "name": "KISS FM",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkIxHlsNrqojh63OYKFAvfcq2RemcoUi8-ZS-zDPoTtgxMyhaHg",
+     "url": "http://kissfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3?1426453111785.mp3"                                             
+                 },
+{
+     "name": "HIT FM",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi6bFDWkoMUvNvwJYx60AoPVZ2rOs_vRyn6vFp-TVU8dLa9jzF",
+     "url": "http://hitfm.es.audio1.glb.ipercast.net:8000/hitfm.es/mp3?1426453977542.mp3"                
+                 },
+{
+     "name": "IBIZA GLOBAL RADIO",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDUEqzzmfABGmVleVR9Wy5o_UxYU98se0SiqWH8PLwlWRrCn63Lg",
+     "url": "http://ibizaglobalradio.streaming-pro.com:8024/;stream/1?1426454233880.mp3"                                                
+                 },	
+{
+     "name": "RADIO LATINA",
+     "image": "http://3.bp.blogspot.com/__v5LX99CUOA/S0zmpqg2bzI/AAAAAAAAACI/Vu2fP54lOoM/s320/17915_logo.jpg",
+     "url": "http://broadcast.infomaniak.net/start-latina-high.aac"                                              
+                 },	
+{
+     "name": "CADENA SER",
+     "image": "http://www.vectorlogo.es/wp-content/uploads/2015/10/logo-vector-cadena-ser.jpg",
+     "url": "http://18973.live.streamtheworld.com/CADENASER.mp3?hash=1487449917310.mp3"
+                 },	
+{
+     "name": "MELODIA FM",
+     "image": "https://lh4.ggpht.com/7JNhiILHkbwor_Hi_D1vcyyXC3CLKSmiXti5TPS6kWNAC1x-yNmmmTnN3fJnKfdm4Pjj=w300",
+     "url": "http://icecast-streaming.nice264.com/melodiafm?hash=1487597991614.mp3"
+                 },	
+{
+     "name": "RADIO MARCA",
+     "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Radiomarca1.jpg",
+     "url": "http://radioweb.radiomarcabarcelona.com:9000/stream"
+                 },	
+{
+     "name": "LA COPE",
+     "image": "http://diegomattarucco.com/wp-content/uploads/2016/09/cadenacope.png",
+     "url": "http://195.55.74.212/cope/net1.mp3"                  
+                 },	
+{
+     "name": "CADENA 100",
+     "image": "http://en-directo.frequence-radio.com/img/cadena-100.jpg",
+     "url": "http://195.55.74.212/cope/cadena100-low.mp3" 
+                 },	
+{
+     "name": "EUROPA FM",
+     "image": "http://static.radio.es/images/broadcasts/99/13/4935/c175.png",
+     "url": "http://icecast-streaming.nice264.com/europafm?hash=1479898610785.mp3" 
+                 },	
+{
+     "name": "LOS 40",
+     "image": "http://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png",
+     "url": "http://17893.live.streamtheworld.com/LOS40.mp3?csegid=2000&tdsdk=js-2.8&pname=TdPlayerApi&pversion=2.8&streamtheworld_user=1&sbmid=1d7b6bd1-256f-4868-b479-6ee9814effcc"                                         
+                },  
+]
+},
+{
+"name": "MEGADEDE",
+
+"image": "https://tuelectronica.es/wp-content/uploads/2018/09/megadede-500x312.jpg",
+
+"stations": [
+
+{
+          
+        "name": "MEGADEDE",
+
+        "image": "https://tuelectronica.es/wp-content/uploads/2018/09/megadede-500x312.jpg",
+
+        "url": "https://www.megadede.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""                             
+              },
+]
+},
+{
+"name": "📽REPELISPLUS📽",
+
+"image": "https://k61.kn3.net/taringa/D/A/C/D/5/E/Meloku69/E5A.jpg",
+
+"stations": [
+
+{
+          
+        "name": "REPELISPLUS",
+
+        "image": "https://k61.kn3.net/taringa/D/A/C/D/5/E/Meloku69/E5A.jpg",
+
+        "url": "https://www.repelisplus.com/",
+
+        "embed": "TRUE",
+
+        "userAgent": "",
+
+        "referer": "",
+
+        "isHost": ""                             
+              },
+]
+},
+]
+}
