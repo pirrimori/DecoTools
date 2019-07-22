@@ -42,9 +42,33 @@ namespace DecoTools_V2._0
             SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
 
+        public void MostrarBotonesAceptar(bool valor)
+        {
+            btnAceptar.Visible = valor;
+            btnCancelar.Visible = valor;
+            
+        }
+
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            Aceptar();
+            this.Close();
+            return;
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        public bool Aceptar()
+        {
+            return true;
         }
 
     }

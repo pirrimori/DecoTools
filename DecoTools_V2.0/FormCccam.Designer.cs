@@ -42,6 +42,7 @@
             this.chkGcam = new System.Windows.Forms.CheckBox();
             this.txbOscam = new System.Windows.Forms.TextBox();
             this.txbNcam1 = new System.Windows.Forms.TextBox();
+            this.btnFtpOscam = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCerrar
@@ -84,7 +85,7 @@
             // 
             this.txbCccam.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txbCccam.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbCccam.Location = new System.Drawing.Point(496, 327);
+            this.txbCccam.Location = new System.Drawing.Point(495, 309);
             this.txbCccam.Multiline = true;
             this.txbCccam.Name = "txbCccam";
             this.txbCccam.Size = new System.Drawing.Size(419, 138);
@@ -98,7 +99,7 @@
             this.btnAceptar.FlatAppearance.BorderSize = 0;
             this.btnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAceptar.ForeColor = System.Drawing.Color.White;
-            this.btnAceptar.Location = new System.Drawing.Point(652, 500);
+            this.btnAceptar.Location = new System.Drawing.Point(653, 453);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(104, 32);
             this.btnAceptar.TabIndex = 35;
@@ -185,12 +186,28 @@
             this.txbNcam1.Text = resources.GetString("txbNcam1.Text");
             this.txbNcam1.Visible = false;
             // 
+            // btnFtpOscam
+            // 
+            this.btnFtpOscam.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btnFtpOscam.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
+            this.btnFtpOscam.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnFtpOscam.FlatAppearance.BorderSize = 0;
+            this.btnFtpOscam.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnFtpOscam.ForeColor = System.Drawing.Color.White;
+            this.btnFtpOscam.Location = new System.Drawing.Point(791, 453);
+            this.btnFtpOscam.Name = "btnFtpOscam";
+            this.btnFtpOscam.Size = new System.Drawing.Size(104, 32);
+            this.btnFtpOscam.TabIndex = 42;
+            this.btnFtpOscam.Text = "Oscam";
+            this.btnFtpOscam.UseVisualStyleBackColor = false;
+            // 
             // FormCccam
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(1262, 633);
+            this.Controls.Add(this.btnFtpOscam);
             this.Controls.Add(this.txbNcam1);
             this.Controls.Add(this.txbOscam);
             this.Controls.Add(this.chkGcam);
@@ -222,5 +239,6 @@
         private System.Windows.Forms.CheckBox chkGcam;
         public System.Windows.Forms.TextBox txbOscam;
         private System.Windows.Forms.TextBox txbNcam1;
+        private System.Windows.Forms.Button btnFtpOscam;
     }
 }

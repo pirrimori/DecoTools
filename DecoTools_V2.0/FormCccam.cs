@@ -28,15 +28,26 @@ namespace DecoTools_V2._0
         private void btnAceptar_Click(object sender, EventArgs e)
         {
             FormPrincipal not = new FormPrincipal();
+
+            while (chkCccam.Checked == false && chkOscam.Checked == false && chkNcam.Checked == false && chkGcam.Checked == false)
+            {
+                not.PopupNotificacion(Properties.Resources.error, "Debe seleccionar una emuladora.", "Softcam");
+                return;
+            }
             while (txbCccam.Text == "")
             {
-                not.PopupNotificacion(Properties.Resources.error, "Debe contener una cline como mínimo.", "CCcam");
+                not.PopupNotificacion(Properties.Resources.error, "Debe contener una cline como mínimo.", "Softcam");
+                return;
+            }
+            if (txbCccam.Text.Contains("  "))
+            {
+                not.PopupNotificacion(Properties.Resources.error, "Alguna de sus lineas contiene un doble espacio.", "Softcam");
                 return;
             }
 
             if (txbCccam.Lines.Length > 4)
             {
-                not.PopupNotificacion(Properties.Resources.advertencia, "Mas de 4 lineas puede causar colapso en su emuladora.", "CCcam");
+                not.PopupNotificacion(Properties.Resources.advertencia, "Mas de 4 lineas puede causar colapso en su emuladora.", "Softcam");
             }
             if (chkCccam.Checked == true)
             {
@@ -58,13 +69,14 @@ namespace DecoTools_V2._0
 
             if (chkOscam.Checked == true)
             {
-                string rutaNueva = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\oscam.server";
+                string archivoFinal = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\oscam.server";
                 //SaveFileDialog saveFileDialog1 = new SaveFileDialog();
                 //saveFileDialog1.FileName = "oscam.server";
                 ////saveFileDialog1.ShowDialog();
                 //if (saveFileDialog1.ShowDialog() == DialogResult.OK)
                 //{
                 //string rutaNueva = saveFileDialog1.FileName;
+                string rutaNueva = Path.Combine(Application.StartupPath, "rutaNueva.txt");
                 string ruta = Path.Combine(Application.StartupPath, "prueba.txt");
                 File.WriteAllText(ruta, txbOscam.Text);
                 string texto = File.ReadAllText(ruta);
@@ -76,8 +88,8 @@ namespace DecoTools_V2._0
                 StreamReader reader = new StreamReader(auxiliar);
                 byte[] serverOscam = null;
                 serverOscam = Properties.Resources.oscam;
-                string plantilla = System.Text.Encoding.UTF8.GetString(serverOscam);
-                File.AppendAllText(rutaNueva, plantilla + Environment.NewLine + Environment.NewLine);
+                string plantillaOscam = System.Text.Encoding.UTF8.GetString(serverOscam);
+                File.AppendAllText(rutaNueva, plantillaOscam + Environment.NewLine + Environment.NewLine);
 
                 cadena = reader.ReadLine();
 
@@ -111,7 +123,7 @@ namespace DecoTools_V2._0
                         string user = clines[3];
                         string pass = clines[4];
                         texto = texto.Replace("LINEA", "LINEA" + contador);
-                        //texto = texto.Replace("description=remote_cccam", "description=remote_cccam" + contador);
+                        texto = texto.Replace("description=remote_cccam", "description=remote_cccam" + contador);
                         texto = texto.Replace("HOST,PUERTO", host + "," + puerto);
                         texto = texto.Replace("USUARIO", user);
                         texto = texto.Replace("CONTRASEÑA", pass);
@@ -129,7 +141,11 @@ namespace DecoTools_V2._0
                 } while (cadena != null);
 
                 reader.Close();
-
+                StreamReader oscam = new StreamReader(rutaNueva);
+                string final = File.ReadAllText(rutaNueva);
+                File.WriteAllText(archivoFinal, final);
+                oscam.Close();
+                File.Delete(rutaNueva);
                 File.Delete(ruta);
                 File.Delete(auxiliar);
                 not.PopupNotificacion(Properties.Resources.info, "Sus clines para el protocolo Oscam se han descargado en el escritorio", "Oscam");
@@ -137,91 +153,111 @@ namespace DecoTools_V2._0
                 //else
                 //    not.PopupNotificacion(Properties.Resources.error, "Cancelado por el usuario.", "Oscam");
             }
-                if (chkNcam.Checked == true)
+            if (chkNcam.Checked == true)
+            {
+
+                //SaveFileDialog saveFileDialog1 = new SaveFileDialog();
+                //saveFileDialog1.FileName = "ncam.server";
+                ////saveFileDialog1.ShowDialog();
+                //if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+                //{
+                //string rutaNueva = saveFileDialog1.FileName;
+                string archivoFinal = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\ncam.server";
+                string rutaNueva = Path.Combine(Application.StartupPath, "rutaNueva.txt");
+                string ruta = Path.Combine(Application.StartupPath, "prueba.txt");
+                File.WriteAllText(ruta, txbNcam1.Text);
+                string texto = File.ReadAllText(ruta);
+                string textoOrigen = texto;
+                string auxiliar = Path.Combine(Application.StartupPath, "auxiliar.txt");
+                File.WriteAllText(auxiliar, txbCccam.Text);
+                int contador = 1;
+                string cadena = null;
+                StreamReader reader = new StreamReader(auxiliar);
+                byte[] serverNcam = null;
+                serverNcam = Properties.Resources.ncam;
+                string plantillaNcam = System.Text.Encoding.UTF8.GetString(serverNcam);
+                File.AppendAllText(rutaNueva, plantillaNcam + Environment.NewLine + Environment.NewLine);
+                cadena = reader.ReadLine();
+                do
                 {
 
-                    //SaveFileDialog saveFileDialog1 = new SaveFileDialog();
-                    //saveFileDialog1.FileName = "ncam.server";
-                    ////saveFileDialog1.ShowDialog();
-                    //if (saveFileDialog1.ShowDialog() == DialogResult.OK)
-                    //{
-                    //string rutaNueva = saveFileDialog1.FileName;
-                    string rutaNueva = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + @"\Ncam.server";
-                    string ruta = Path.Combine(Application.StartupPath, "prueba.txt");
-                    File.WriteAllText(ruta, txbNcam1.Text);
-                    string texto = File.ReadAllText(ruta);
-                    string textoOrigen = texto;
-                    string auxiliar = Path.Combine(Application.StartupPath, "auxiliar.txt");
-                    File.WriteAllText(auxiliar, txbCccam.Text);
-                    int contador = 1;
-                    string cadena = null;
-                    StreamReader reader = new StreamReader(auxiliar);
-                    byte[] serverNcam = null;
-                    serverNcam = Properties.Resources.ncam;
-                    string plantilla = System.Text.Encoding.UTF8.GetString(serverNcam);
-                    File.AppendAllText(rutaNueva, plantilla + Environment.NewLine + Environment.NewLine);
-                    cadena = reader.ReadLine();
-                    do
+                    try
                     {
-
-                        try
+                        string[] clines = cadena.Split(' ');
+                        string valor0 = clines[0];
+                        if (clines.Length < 5)
                         {
-                            string[] clines = cadena.Split(' ');
-                            string valor0 = clines[0];
-                            if (clines.Length < 5)
-                            {
-                                not.PopupNotificacion(Properties.Resources.error, "Las clines deben contener 5 elementos.", "Ncam");
-                                File.Delete(ruta);
-                                reader.Close();
-                                File.Delete(auxiliar);
-                                File.Delete(rutaNueva);
-                                return;
-                            }
-                            if (valor0 != "C:" & valor0 != "c:")
-                            {
-                                not.PopupNotificacion(Properties.Resources.error, "Las clines deben empezar por C: en todas sus líneas.", "Ncam");
-                                File.Delete(ruta);
-                                reader.Close();
-                                File.Delete(auxiliar);
-                                File.Delete(rutaNueva);
-                                return;
-                            }
-                            string host = clines[1];
-                            string port = clines[2];
-                            string user = clines[3];
-                            string pass = clines[4];
-                            texto = texto.Replace("Server_", "Server_" + contador);
-                            //texto = texto.Replace("description=remote_cccam", "description=remote_cccam" + contador);
-                            texto = texto.Replace("ip,puerto", host + "," + port);
-                            texto = texto.Replace("usuario", user);
-                            texto = texto.Replace("contraseña", pass);
-                            contador++;
+                            not.PopupNotificacion(Properties.Resources.error, "Las clines deben contener 5 elementos.", "Ncam");
+                            File.Delete(ruta);
+                            reader.Close();
+                            File.Delete(auxiliar);
+                            File.Delete(rutaNueva);
+                            return;
                         }
-                        catch
+                        if (valor0 != "C:" & valor0 != "c:")
                         {
-                            not.PopupNotificacion(Properties.Resources.info, "Falta poco.", "Ncam");
+                            not.PopupNotificacion(Properties.Resources.error, "Las clines deben empezar por C: en todas sus líneas.", "Ncam");
+                            File.Delete(ruta);
+                            reader.Close();
+                            File.Delete(auxiliar);
+                            File.Delete(rutaNueva);
+                            return;
                         }
-                        File.AppendAllText(rutaNueva, texto);
-                        File.AppendAllText(rutaNueva, Environment.NewLine + Environment.NewLine);
-                        texto = textoOrigen;
-                        cadena = reader.ReadLine();
+                        string host = clines[1];
+                        string port = clines[2];
+                        string user = clines[3];
+                        string pass = clines[4];
+                        texto = texto.Replace("Server_", "Server_" + contador);
+                        //texto = texto.Replace("description=remote_cccam", "description=remote_cccam" + contador);
+                        texto = texto.Replace("ip,puerto", host + "," + port);
+                        texto = texto.Replace("usuario", user);
+                        texto = texto.Replace("contraseña", pass);
+                        contador++;
+                    }
+                    catch
+                    {
+                        not.PopupNotificacion(Properties.Resources.info, "Falta poco.", "Ncam");
+                    }
+                    File.AppendAllText(rutaNueva, texto);
+                    File.AppendAllText(rutaNueva, Environment.NewLine + Environment.NewLine);
+                    texto = textoOrigen;
+                    cadena = reader.ReadLine();
 
-                    } while (cadena != null);
+                } while (cadena != null);
 
-                    reader.Close();
+                reader.Close();
+                StreamReader ncam = new StreamReader(rutaNueva);
+                string final = File.ReadAllText(rutaNueva);
+                File.WriteAllText(archivoFinal, final);
+                ncam.Close();
+                File.Delete(rutaNueva);
+                File.Delete(ruta);
+                File.Delete(auxiliar);
+                not.PopupNotificacion(Properties.Resources.info, "Sus clines para el protocolo Ncam se han descargado en el escritorio", "Ncam");
 
-                    File.Delete(ruta);
-                    File.Delete(auxiliar);
-                    not.PopupNotificacion(Properties.Resources.info, "Sus clines para el protocolo Ncam se han descargado en el escritorio", "Ncam");
-                    //}
-                    //else
-                    //not.PopupNotificacion(Properties.Resources.error, "Cancelado por el usuario.", "Ncam");
-                }
+            }
 
-                if (chkCccam.Checked == true) { chkCccam.Checked = false; }
-                if (chkOscam.Checked == true) { chkOscam.Checked = false; }
-                if (chkNcam.Checked == true) { chkNcam.Checked = false; }
-                if (chkGcam.Checked == true) { chkGcam.Checked = false; }
+            if (chkCccam.Checked == true) { chkCccam.Checked = false; }
+            if (chkOscam.Checked == true) { chkOscam.Checked = false; }
+            if (chkNcam.Checked == true) { chkNcam.Checked = false; }
+            if (chkGcam.Checked == true) { chkGcam.Checked = false; }
+
+
+            //llamamos al formftp para cargar los archivos al decodificador mediante un messagebox
+
+            FormMessageBox pregunta = new FormMessageBox();
+            //pregunta.ShowDialog();
+            pregunta.MostrarBotonesAceptar(true);
+            pregunta.MensajeDeco("¿Desea cargar el archivo CCcam.cfg creado a su decodificador?", "CCcam.cfg");
+            pregunta.ShowDialog();
+            bool respuesta = pregunta.Aceptar();
+            if (respuesta == true)
+            {
+                FormFtp ftp = new FormFtp();
+                //ftp.Show();
+                ftp.ShowDialog();
+                this.Refresh();
             }
         }
     }
+}
