@@ -11,15 +11,15 @@ using System.Windows.Forms;
 
 namespace DecoTools_V2._0
 {
-    public partial class FormMessageBox : Form
+    public partial class FormMensajeAceptar : Form
     {
-        public FormMessageBox()
+        public FormMensajeAceptar()
         {
             InitializeComponent();
-           
         }
-       
+
         //METODO PARA ARRASTRAR EL FORMULARIO---------------------------------------------------------------------
+
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
         private extern static void ReleaseCapture();
 
@@ -32,15 +32,32 @@ namespace DecoTools_V2._0
             SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
 
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            AceptarPregunta();
+            this.Close();
+            return;
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
-        public void MensajeDeco(string msg, string titulo)
+
+        public void CuadroPregunta(string msg, string titulo)
         {
-            this.txbMensaje.Text = msg;
+            this.lblPregunta.Text = msg;
             this.lblTitulo.Text = titulo;
         }
 
+        public bool AceptarPregunta()
+        {
+            return true;
+        }
     }
 }

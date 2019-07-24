@@ -148,7 +148,6 @@
             this.btnListas.Text = "Listas txt";
             this.btnListas.UseVisualStyleBackColor = true;
             this.btnListas.Visible = false;
-            this.btnListas.Click += new System.EventHandler(this.btnListas_Click);
             // 
             // btnWiseplay
             // 

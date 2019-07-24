@@ -98,13 +98,6 @@ namespace DecoTools_V2._0
             this.Location = new Point(lx, ly);
         }
 
-        private void panelBarraTitulo_MouseMove(object sender, MouseEventArgs e)
-        {
-            //En el evento MouseMove del panel titulo metemos los metodos para arrastrar la aplicacion desde la barra
-            ReleaseCapture();
-            SendMessage(this.Handle, 0x112, 0xf012, 0);
-        }
-
         private void btnMinimizar_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
@@ -114,21 +107,28 @@ namespace DecoTools_V2._0
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
         private extern static void ReleaseCapture();
 
-        private void btnCccam_Click(object sender, EventArgs e)
-        {
-            AbrirFormulario<FormCccam>();
-            //Cambiamos el color del boton que dejamos pulsado
-            btnCccam.BackColor = Color.FromArgb(13, 93, 142);
-        }
-
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
+
+        private void panelBarraTitulo_MouseMove(object sender, MouseEventArgs e)
+        {
+            //En el evento MouseMove del panel titulo metemos los metodos para arrastrar la aplicacion desde la barra
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
             //Añadimos hora y fecaha al datatime del timer
             lblHora.Text = DateTime.Now.ToLongTimeString();
             lblFecha.Text = DateTime.Now.ToShortDateString();
+        }
+
+        private void btnCccam_Click(object sender, EventArgs e)
+        {
+            AbrirFormulario<FormCccam>();
+            //Cambiamos el color del boton que dejamos pulsado
+            btnCccam.BackColor = Color.FromArgb(13, 93, 142);
         }
 
         private void btnIptv_Click(object sender, EventArgs e)
@@ -150,13 +150,6 @@ namespace DecoTools_V2._0
             AbrirFormulario<FormWiseplay>();
             //Cambiamos el color del boton que dejamos pulsado
             btnWiseplay.BackColor = Color.FromArgb(13, 93, 142);
-        }
-
-        private void btnListas_Click(object sender, EventArgs e)
-        {
-            AbrirFormulario<FormListas>();
-            //Cambiamos el color del boton que dejamos pulsado
-            btnListas.BackColor = Color.FromArgb(13, 93, 142);
         }
 
         private void btnTutoriales_Click(object sender, EventArgs e)
@@ -242,7 +235,7 @@ namespace DecoTools_V2._0
         public void PopupNotificacion(Image error, string content,string textoTitulo)
         {
             PopupNotifier popup = new PopupNotifier();
-            popup.AnimationDuration = 500;
+            popup.AnimationDuration = 1000;
             //popup.Image = Properties.Resources.info;
             popup.TitleColor = System.Drawing.Color.FromArgb(255, 255, 255);
             popup.BodyColor = System.Drawing.Color.FromArgb(49, 66, 82);

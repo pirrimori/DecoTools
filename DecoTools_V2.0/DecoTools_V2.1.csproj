@@ -75,6 +75,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EstructuracionArchivos.cs" />
     <Compile Include="FormAcercade.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,11 +94,11 @@
     <Compile Include="FormIptv.Designer.cs">
       <DependentUpon>FormIptv.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormListas.cs">
+    <Compile Include="FormMensajeAceptar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormListas.Designer.cs">
-      <DependentUpon>FormListas.cs</DependentUpon>
+    <Compile Include="FormMensajeAceptar.Designer.cs">
+      <DependentUpon>FormMensajeAceptar.cs</DependentUpon>
     </Compile>
     <Compile Include="FormMessageBox.cs">
       <SubType>Form</SubType>
@@ -123,6 +124,12 @@
     <Compile Include="FormPrincipal.Designer.cs">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProgressBar.Designer.cs">
+      <DependentUpon>FormProgressBar.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTutoriales.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -141,6 +148,7 @@
     <Compile Include="FormFtp.Designer.cs">
       <DependentUpon>FormFtp.cs</DependentUpon>
     </Compile>
+    <Compile Include="ListarFTP.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormAcercade.resx">
@@ -152,8 +160,8 @@
     <EmbeddedResource Include="FormIptv.resx">
       <DependentUpon>FormIptv.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormListas.resx">
-      <DependentUpon>FormListas.cs</DependentUpon>
+    <EmbeddedResource Include="FormMensajeAceptar.resx">
+      <DependentUpon>FormMensajeAceptar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMessageBox.resx">
       <DependentUpon>FormMessageBox.cs</DependentUpon>
@@ -166,6 +174,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProgressBar.resx">
+      <DependentUpon>FormProgressBar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTutoriales.resx">
       <DependentUpon>FormTutoriales.cs</DependentUpon>
@@ -252,7 +263,9 @@
   <ItemGroup>
     <None Include="Resources\Movistar_epg_carlos.m3u" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\icono.ico" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icono.jpg" />
     <None Include="Resources\cabecera.jpg" />

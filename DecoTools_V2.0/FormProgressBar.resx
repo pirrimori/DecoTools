@@ -117,47 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="PLANTILLA_WISEPLAY" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PLANTILLA_WISEPLAY.w3u;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="info" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\info.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ADULTOS_sorys" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ADULTOS_sorys.m3u;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="oscam" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\oscam.server;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ncam" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ncam.server;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Plantilla_Openwebif" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Plantilla_Openwebif.m3u;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Movistar__IPLUS_sorys" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Movistar+ IPLUS_sorys.m3u;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Movistar_epg_carlos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Movistar_epg_carlos.m3u;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="DEPORTES_sorys" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DEPORTES_sorys.m3u;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="cabecera" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cabecera.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="error" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\error.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="advertencia" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\advertencia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icono" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icono.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icono1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icono.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

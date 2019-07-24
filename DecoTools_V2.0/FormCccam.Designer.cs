@@ -94,7 +94,7 @@
             // btnAceptar
             // 
             this.btnAceptar.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btnAceptar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
+            this.btnAceptar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
             this.btnAceptar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnAceptar.FlatAppearance.BorderSize = 0;
             this.btnAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -189,7 +189,7 @@
             // btnFtpOscam
             // 
             this.btnFtpOscam.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.btnFtpOscam.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(80)))), ((int)(((byte)(200)))));
+            this.btnFtpOscam.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(93)))), ((int)(((byte)(142)))));
             this.btnFtpOscam.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnFtpOscam.FlatAppearance.BorderSize = 0;
             this.btnFtpOscam.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
